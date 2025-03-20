@@ -1,0 +1,2281 @@
+[
+    {
+        "title_document": "Health Assessment - Midterm",
+        "id_document": "doc_1",
+        "chapters": [
+            {
+                "title_chapter": "Chapter 13, Skin, Hair, and Nails",
+                "id_chapter": "chap13",
+                "questions": [
+                    {
+                        "question": "1. Which skin color would the nurse observe in a child being fed vitamin A supplements regularly?",
+                        "answer": "Yellowish-orange"
+                    },
+                    {
+                        "question": "2. In regard to the mnemonic ABCDEF, which aspect would be represented by the 'D'?",
+                        "answer": "Diameter"
+                    },
+                    {
+                        "question": "4. Which assessment finding is related to erythema in a dark-skinned patient diagnosed with polycythemia?",
+                        "answer": "Reddish lips"
+                    },
+                    {
+                        "question": "4. When a child diagnosed with impetigo presents with vesicles having an erythematous base, for which additional assessment finding would the nurse monitor?",
+                        "answer": "Thick, honey-colored crusts"
+                    },
+                    {
+                        "question": "5. When would the nurse begin to assess a newborn for physiologic jaundice?",
+                        "answer": "Around the 4th day of life"
+                    },
+                    {
+                        "question": "6. Which area would the nurse inspect for the presence of Koplik spots in a child with suspected measles?",
+                        "answer": "Mouth"
+                    },
+                    {
+                        "question": "7. Which nail condition would a nurse observe in a patient diagnosed with paronychia?",
+                        "answer": "Red, tender, and swollen nail folds"
+                    },
+                    {
+                        "question": "8. Which nail finding would the nurse expect in a patient diagnosed with chronic iron deficiency anemia?",
+                        "answer": "Concave-shaped, spoonlike nails"
+                    },
+                    {
+                        "question": "9. Which condition would cause the skin tone of a light-skinned patient to be whitish-pink in color?",
+                        "answer": "Albinism"
+                    },
+                    {
+                        "question": "10. Which information would the nurse include in a teaching session about nail physiology?",
+                        "answer": "The pink color is because of vascular epithelial cells."
+                    },
+                    {
+                        "question": "11. Which instruction would the nurse include for a patient who has recurrent raised red wheals and pruritic hives from urticaria?",
+                        "answer": "\"Maintain a food diary to identify triggers.\""
+                    },
+                    {
+                        "question": "12. Which finding would the nurse expect when assessing a dark-skinned patient diagnosed with carbon monoxide poisoning?",
+                        "answer": "Cherry-red nail beds"
+                    },
+                    {
+                        "question": "13. Which information would the nurse include in patient teaching regarding the lesions of seborrheic keratosis?",
+                        "answer": "They do not become cancerous."
+                    },
+                    {
+                        "question": "14. For which medical condition would the nurse assess in an infant with excessive sweating? Select all that apply.",
+                        "answer": [
+                            "Hypoglycemia",
+                            "Heart disease",
+                            "Hyperthyroidism"
+                        ]
+                    },
+                    {
+                        "question": "15. Which location would the nurse assess to confirm jaundice in a dark-skinned patient? Select all that apply.",
+                        "answer": [
+                            "Sclera",
+                            "Hard/soft palate junction",
+                            "Palms"
+                        ]
+                    },
+                    {
+                        "question": "16. Which statement would the nurse expect from a patient diagnosed with folliculitis barbae?",
+                        "answer": "\"I like shaving closely with an electric razor.\""
+                    },
+                    {
+                        "question": "17. Which statement would the nurse expect from a patient with a depression straight down the middle of the nail?",
+                        "answer": "\"Constantly picking my cuticle is a habit of mine.\""
+                    },
+                    {
+                        "question": "18. Which at-risk person would the nurse screen closely for skin cancer? Select all that apply.",
+                        "answer": [
+                            "Trains for and runs in marathons",
+                            "Is a farmer",
+                            "Works as a roofer",
+                            "Repairs old furniture as a hobby"
+                        ]
+                    },
+                    {
+                        "question": "19. Which information would the nurse share with the parents of an infant with a strawberry mark?",
+                        "answer": "This will usually disappear by around age 5 years."
+                    },
+                    {
+                        "question": "20. Which microorganism would cause athlete's foot?",
+                        "answer": "Tinea pedis"
+                    },
+                    {
+                        "question": "21. Which patient assessment would the nurse report as a normal skin finding?",
+                        "answer": "Smooth, firm skin"
+                    },
+                    {
+                        "question": "22. About which condition would the nurse educate a patient wanting a tattoo?",
+                        "answer": "Nontuberculous mycobacterial infections"
+                    },
+                    {
+                        "question": "23. When a patient is devoid of melanin pigment in patchy areas of the skin on the face, neck, hands, feet, and body folds, which condition would the nurse document?",
+                        "answer": "Vitiligo"
+                    },
+                    {
+                        "question": "24. Which term would the nurse document to describe individual lesions that remain separate from each other?",
+                        "answer": "Discrete"
+                    },
+                    {
+                        "question": "25. Which type of primary lesion would be superficial in the epidermis, more than 1 centimeter in diameter, and rupture easily?",
+                        "answer": "Bulla"
+                    },
+                    {
+                        "question": "26. Which term would the nurse use to describe the white cheesy substance on the neonate's body?",
+                        "answer": "Vernix caseosa"
+                    },
+                    {
+                        "question": "27. Which skin finding present in a newborn would alert the nurse to fetal distress?",
+                        "answer": "Greenish-brown discoloration of the nails and cord"
+                    },
+                    {
+                        "question": "28. Which assessment finding would the nurse expect in an infant diagnosed with milia?",
+                        "answer": "White papules on the cheeks, forehead, nose, and chin"
+                    },
+                    {
+                        "question": "29. Which assessment finding would the nurse observe in a patient diagnosed with hirsutism?",
+                        "answer": "Excessive hair growth on a female's face and chest"
+                    },
+                    {
+                        "question": "30. Which skin assessment would the nurse observe in an older adult patient diagnosed with senile lentigines?",
+                        "answer": "Small, flat brown macules on forearms and hands"
+                    },
+                    {
+                        "question": "31. Which skin finding would the nurse observe in a patient who is pregnant and diagnosed with linea nigra?",
+                        "answer": "Dark brown line down the abdominal midline"
+                    },
+                    {
+                        "question": "32. Which equipment would help detect a fungal infection on the patient's scalp?",
+                        "answer": "Wood's light"
+                    },
+                    {
+                        "question": "33. When a patient diagnosed with psoriasis presents with painful patches on the elbows and knees, for which additional skin finding would the nurse assess?",
+                        "answer": "Silver micalike scales"
+                    },
+                    {
+                        "question": "34. Which abnormal hair condition would motivate the nurse to ask about cancer and chemotherapy treatments?",
+                        "answer": "Toxic alopecia"
+                    },
+                    {
+                        "question": "35. Which sequence would the rash of a child suspected with chickenpox follow?",
+                        "answer": "Starts on the trunk and spreads"
+                    },
+                    {
+                        "question": "36. When a patient diagnosed with herpes zoster presents with a group of painful vesicles, for which additional skin finding would the nurse assess?",
+                        "answer": "Follows route of cutaneous sensory nerve pathways"
+                    },
+                    {
+                        "question": "37. Which statement by the parent would indicate effective learning about preventing diaper rash?",
+                        "answer": "\"Change my baby's diapers frequently.\""
+                    },
+                    {
+                        "question": "38. Which assessment finding would reflect a keloid formation at the site of a previous surgery?",
+                        "answer": "Excess scar tissue"
+                    },
+                    {
+                        "question": "39. If the nurse finds the nail base of a patient to be soft, spongy, and at an angle of 180 degrees, for which additional condition would the nurse monitor?",
+                        "answer": "Pulmonary disease"
+                    },
+                    {
+                        "question": "40. In which area would the nurse assess for cherry angiomas?",
+                        "answer": "Torso"
+                    },
+                    {
+                        "question": "41. Which action would be considered a function of the skin? Select all that apply.",
+                        "answer": [
+                            "Regulates body temperature",
+                            "Prevents invasion of microorganisms",
+                            "Assists in the production of vitamin D"
+                        ]
+                    },
+                    {
+                        "question": "42. Which change in skin tone would the nurse observe in a patient with light skin and diagnosed with anemia?",
+                        "answer": "Generalized pallor"
+                    },
+                    {
+                        "question": "43. When a child diagnosed with eczema presents with severe pruritus and weeping vesicles, for which additional skin finding would the nurse monitor?",
+                        "answer": "Erythematous papules"
+                    },
+                    {
+                        "question": "44. Which treatment strategy would benefit a child with a large, dark red macular patch on the right cheek that darkens when crying or experiencing extreme temperatures?",
+                        "answer": "Photoablation with yellow laser light"
+                    },
+                    {
+                        "question": "45. Which area would the nurse assess to determine the presence of cheilosis?",
+                        "answer": "Mouth"
+                    },
+                    {
+                        "question": "46. Which instruction would the nurse include for a patient who has recurrent raised red wheals and pruritic hives from urticaria?",
+                        "answer": "\"Maintain a food diary to identify triggers.\""
+                    },
+                    {
+                        "question": "47. Which statement would indicate a correct understanding of skin structures and functions?",
+                        "answer": "\"Epidermis is thin but tough.\""
+                    },
+                    {
+                        "question": "48. Which skin structure would be altered with dryness of the scalp, forehead, face, and chin?",
+                        "answer": "Sebaceous glands"
+                    },
+                    {
+                        "question": "49. Which response would the nurse provide to a parent whose infant has one large, round, light brown patch on the arm?",
+                        "answer": "\"That is a café au lait spot.\""
+                    },
+                    {
+                        "question": "50. Which skin disease would the nurse consider when assessing patients with dark skin? Select all that apply.",
+                        "answer": [
+                            "Keloids",
+                            "Melasma",
+                            "Pseudofolliculitis"
+                        ]
+                    },
+                    {
+                        "question": "51. When a patient diagnosed with onychomycosis presents with nail crumbling and loosening of the nail plate, for which additional finding would the nurse assess?",
+                        "answer": "Greenish discoloration around the nail plate"
+                    }
+                ]
+            },
+            {
+                "title_chapter": "Chapter 14, Head, Face, Neck, and Regional Lymphatics",
+                "id_chapter": "chap14",
+                "questions": [
+                    {
+                        "question": "1. Which fontanel characteristic would the nurse find in an infant diagnosed with dehydration?",
+                        "answer": "Sunken"
+                    },
+                    {
+                        "question": "2. Which medical condition would occur as a result of a chromosomal aberration?",
+                        "answer": "Down syndrome"
+                    },
+                    {
+                        "question": "3. Damage to which cranial nerve would cause the patient to have an asymmetric grin?",
+                        "answer": "VII (Facial)"
+                    },
+                    {
+                        "question": "4. Which artery would the nurse palpate on the patient's face?",
+                        "answer": "Temporal"
+                    },
+                    {
+                        "question": "5. Which information would accurately describe the thyroid gland?",
+                        "answer": "Has a rich blood supply."
+                    },
+                    {
+                        "question": "6. Which facial description would reflect a patient with decreased levels of dopamine and degeneration of the substantia nigra?",
+                        "answer": "Masklike"
+                    },
+                    {
+                        "question": "7. Which pain description would the nurse expect from a patient with a tension headache?",
+                        "answer": "\"It feels like a vise is gripping my head.\""
+                    },
+                    {
+                        "question": "8. Which assessment datum would the nurse report as a normal finding for an infant's fontanels?",
+                        "answer": "Firm"
+                    },
+                    {
+                        "question": "9. Which instruction would the nurse provide parents regarding the prevention of positional plagiocephaly?",
+                        "answer": "\"Place the baby on the tummy during the day.\""
+                    },
+                    {
+                        "question": "10. Which assessment would be considered a normal finding for a newborn?",
+                        "answer": "Head circumference 32 cm and chest circumference 30 cm"
+                    },
+                    {
+                        "question": "11. While auscultating an enlarged thyroid with the bell of a stethoscope, the nurse hears a soft, pulsatile, blowing sound and would document which term?",
+                        "answer": "Bruit"
+                    },
+                    {
+                        "question": "12. Which instruction would the nurse provide a patient 24 hours after a concussion?",
+                        "answer": "Using a stationary bike is recommended."
+                    },
+                    {
+                        "question": "13. Which complication would occur in the infant following a forceps delivery?",
+                        "answer": "Cephalhematoma"
+                    },
+                    {
+                        "question": "14. Which finding would be considered the cause of vertigo?",
+                        "answer": "Disturbance in the inner ear nerve pathway"
+                    },
+                    {
+                        "question": "15. Which finding would the nurse observe in an infant diagnosed with positional plagiocephaly?",
+                        "answer": "Flatness of occipital bone"
+                    },
+                    {
+                        "question": "16. Which assessment finding would be expected in a patient diagnosed with the mumps?",
+                        "answer": "Parotid gland enlargement"
+                    },
+                    {
+                        "question": "17. The nurse would expect which statement from a patient diagnosed with disequilibrium?",
+                        "answer": "\"Please help me; I'm going to fall.\""
+                    },
+                    {
+                        "question": "18. Which bone would be considered a component of the cranium? Select all that apply.",
+                        "answer": [
+                            "Parietal",
+                            "Occipital",
+                            "Temporal",
+                            "Frontal"
+                        ]
+                    },
+                    {
+                        "question": "19. In which area would the nurse examine the palpebral fissures of a patient with Down syndrome?",
+                        "answer": "Openings between the upper and lower eyelids"
+                    },
+                    {
+                        "question": "20. Which intervention would the nurse perform to test for Macewen sign in an infant?",
+                        "answer": "Percussion"
+                    },
+                    {
+                        "question": "21. When a patient diagnosed with encephalitis presents with a severe headache and fever, for which additional finding would the nurse monitor?",
+                        "answer": "Nuchal rigidity"
+                    },
+                    {
+                        "question": "22. When the head circumference of a neonate measures 28 centimeters (cm), which condition would the nurse suspect?",
+                        "answer": "Microcephaly"
+                    },
+                    {
+                        "question": "23. The nurse observes the patient has an edematous face and myxedema and would review which substance level in the patient's laboratory reports?",
+                        "answer": "Thyroxine"
+                    },
+                    {
+                        "question": "24. The child is admitted with suspected chronic allergies. Which associated finding would support this diagnosis? Select all that apply.",
+                        "answer": [
+                            "Morgan lines",
+                            "Blue shadows under the eyes",
+                            "Open-mouth breathing"
+                        ]
+                    },
+                    {
+                        "question": "25. Which statement by the nurse would indicate a correct understanding of the hypothalamic-pituitary-thyroid axis?",
+                        "answer": "\"Low thyroid hormone levels cause thyroid-stimulating hormone to increase.\""
+                    },
+                    {
+                        "question": "26. For which additional clinical manifestation would the nurse monitor a patient with a concussion experiencing a headache, nausea, and vomiting? Select all that apply.",
+                        "answer": [
+                            "Mental cloudiness",
+                            "Blurred vision",
+                            "Loss of balance",
+                            "Irritability"
+                        ]
+                    },
+                    {
+                        "question": "27. Which characteristic feature would be present in an infant diagnosed with fetal alcohol spectrum disorder? Select all that apply.",
+                        "answer": [
+                            "Epicanthal folds",
+                            "Midfacial hypoplasia",
+                            "Narrow palpebral fissures"
+                        ]
+                    },
+                    {
+                        "question": "28. Which clinical manifestation would the nurse anticipate when assessing a patient diagnosed with Graves disease (hyperthyroidism)? Select all that apply.",
+                        "answer": [
+                            "Tachycardia",
+                            "Weight loss",
+                            "Bulging eyeballs"
+                        ]
+                    },
+                    {
+                        "question": "29. Which clinical manifestation would be found in a patient diagnosed with migraine headaches? Select all that apply.",
+                        "answer": [
+                            "Nausea",
+                            "A warning aura",
+                            "Pain lasting for 72 hours"
+                        ]
+                    },
+                    {
+                        "question": "30. When palpating the lymph nodes of a patient diagnosed with an acute infection, which characteristic would the nurse expect? Select all that apply.",
+                        "answer": [
+                            "Enlarged",
+                            "Warm",
+                            "Freely movable"
+                        ]
+                    },
+                    {
+                        "question": "31. Myxedema would result in which clinical manifestation? Select all that apply.",
+                        "answer": [
+                            "Fatigue",
+                            "Puffy face",
+                            "Slow reflexes"
+                        ]
+                    },
+                    {
+                        "question": "32. Which facial feature would the nurse observe in a patient diagnosed with cachexia? Select all that apply.",
+                        "answer": [
+                            "Sunken eyes",
+                            "Hollow cheeks"
+                        ]
+                    },
+                    {
+                        "question": "33. On which medical diagnosis would the nurse focus the care plan for a patient with lower facial muscle paralysis and intact upper facial muscles?",
+                        "answer": "Stroke"
+                    },
+                    {
+                        "question": "34. For which clinical manifestation would the nurse assess while screening a patient diagnosed with meningitis? Select all that apply.",
+                        "answer": [
+                            "Fever",
+                            "Nuchal rigidity"
+                        ]
+                    },
+                    {
+                        "question": "35. Which finding would be expected in a patient diagnosed with atelectasis in the left lung lobe?",
+                        "answer": "Trachea is pulled to the left."
+                    },
+                    {
+                        "question": "36. Which infant would be at risk of developing jaundice?",
+                        "answer": "Patient D"
+                    },
+                    {
+                        "question": "37. When the supine infant's head is turned to the right side by the nurse, the infant extends the right limbs and flexes the limbs on the left side. At which age would the nurse notify the provider of this response?",
+                        "answer": "6 months"
+                    },
+                    {
+                        "question": "38. Which clinical manifestation would be associated with a head injury? Select all that apply.",
+                        "answer": [
+                            "Vision changes",
+                            "Staggered walk",
+                            "Discharge from the ears"
+                        ]
+                    },
+                    {
+                        "question": "39. The nurse would assess which body part to determine the functional ability of the thyroid gland? Select all that apply.",
+                        "answer": [
+                            "Eye",
+                            "Skin",
+                            "Hair"
+                        ]
+                    },
+                    {
+                        "question": "40. When a patient diagnosed with hypothyroidism presents with fatigue, for which additional clinical manifestation would the nurse monitor? Select all that apply.",
+                        "answer": [
+                            "Dry, coarse hair",
+                            "Dry, cool skin",
+                            "Cold intolerance"
+                        ]
+                    },
+                    {
+                        "question": "41. Which teaching would the nurse offer the patient regarding migraine headaches? Select all that apply.",
+                        "answer": [
+                            "Instruct the patient to avoid alcohol.",
+                            "Inform the patient to avoid chocolates.",
+                            "Encourage the patient to practice relaxation exercises."
+                        ]
+                    },
+                    {
+                        "question": "42. Which characteristic would alert the nurse to a cancerous lymph node? Select all that apply.",
+                        "answer": [
+                            "Matted",
+                            "Hard",
+                            "Nontender"
+                        ]
+                    },
+                    {
+                        "question": "43. For which complication would the nurse monitor in a patient diagnosed with congenital torticollis? Select all that apply.",
+                        "answer": [
+                            "Visual problems",
+                            "Fibrotic muscle",
+                            "Asymmetry of the head",
+                            "Shortening of muscles"
+                        ]
+                    },
+                    {
+                        "question": "44. Which question would the nurse ask the patient to assess for dysphagia?",
+                        "answer": "\"Do you have any difficulty swallowing?\""
+                    },
+                    {
+                        "question": "45. Which parameter would be most important when evaluating neurologic deficit in a patient diagnosed with a concussion?",
+                        "answer": "Level of consciousness"
+                    },
+                    {
+                        "question": "46. Which medication would be beneficial for a patient diagnosed with Bell palsy?",
+                        "answer": "Corticosteroids"
+                    },
+                    {
+                        "question": "47. Which intervention would the nurse perform when assessing lymph nodes?",
+                        "answer": "Use a circular motion of the finger pads to feel the nodes."
+                    },
+                    {
+                        "question": "48. Which intervention would the nurse perform while palpating a patient's thyroid gland using the posterior approach?",
+                        "answer": "Provide a sip of water to the patient during palpation."
+                    },
+                    {
+                        "question": "49. Which infant condition would be associated with a small fontanel?",
+                        "answer": "Microcephaly"
+                    },
+                    {
+                        "question": "50. Which cranial nerve would mediate the facial sensations of pain and touch?",
+                        "answer": "Trigeminal"
+                    }
+                ]
+            },
+            {
+                "title_chapter": "Chapter 15, Eyes",
+                "id_chapter": "chap15",
+                "questions": [
+                    {
+                        "question": "1. Which term would describe scales on the eyebrows?",
+                        "answer": "Seborrhea"
+                    },
+                    {
+                        "question": "2. Which condition would cause binocular diplopia?",
+                        "answer": "Misalignment of the axes of eyes."
+                    },
+                    {
+                        "question": "3. If the nurse notices blood in the anterior chamber of the eye after the patient reports being hit in the eye with a baseball, which term would the nurse use to document this finding?",
+                        "answer": "Hyphema"
+                    },
+                    {
+                        "question": "4. Which response would stimulate blinking in both eyes?",
+                        "answer": "Corneal reflex"
+                    },
+                    {
+                        "question": "5. Which color would indicate a patient has a normal and healthy optic disc?",
+                        "answer": "Yellow-orange"
+                    },
+                    {
+                        "question": "6. If the patient complains of a throbbing pain in the eyes when looking at bright lights, and the nurse notes a dull red halo around the iris and cornea of the patient's eye, which condition would the nurse suspect?",
+                        "answer": "Iritis"
+                    },
+                    {
+                        "question": "7. After assessing a patient, the nurse would document 'PERRLA' in the patient's medical record based upon which finding?",
+                        "answer": "Pupils are equal, round, reactive to light, and accommodation"
+                    },
+                    {
+                        "question": "8. If a patient with an eye infection reports pain, warmth, and redness in the part of the eye closest to the nose, and the nurse also notices purulent discharge when applying pressure on the conjunctival sac, which diagnosis would be suspected?",
+                        "answer": "Dacryocystitis"
+                    },
+                    {
+                        "question": "9. Which visual response would indicate a patient has not fully metabolized deep anesthesia?",
+                        "answer": "Mydriasis"
+                    },
+                    {
+                        "question": "10. When a patient diagnosed with a Staphylococcus eye infection reports burning and the sensation of a foreign body in the eye, the nurse would suspect which eyelid infection?",
+                        "answer": "Blepharitis"
+                    },
+                    {
+                        "question": "11. When a 50-year-old patient presents with raised yellow plaques on the eyelids at the inner canthus, and the laboratory reports the presence of high cholesterol levels, which term would the nurse associate with this finding?",
+                        "answer": "Xanthelasma"
+                    },
+                    {
+                        "question": "12. The nurse would suspect which condition in a patient diagnosed with meningitis presenting with small and bilaterally irregular pupils that do not react to light but constrict with accommodation?",
+                        "answer": "Argyll Robertson pupil"
+                    },
+                    {
+                        "question": "13. The nurse discovers a round, bright red 1-mm patch over the lateral aspect of the globe of a patient's eye and would use which term to document the finding?",
+                        "answer": "Subconjunctival hemorrhage"
+                    },
+                    {
+                        "question": "14. The nurse would perform a cover test to assess for which condition?",
+                        "answer": "Esophoria"
+                    },
+                    {
+                        "question": "15. If a patient with decreased visual acuity and decreased color vision is found to have a grayish discoloration on the optic disc, the nurse would attribute these changes to which condition?",
+                        "answer": "Optic atrophy"
+                    },
+                    {
+                        "question": "16. While examining a patient diagnosed with an eye infection and observing red, scaly, greasy flakes on the edge of the eyelids, which response would the nurse most likely expect when asking the patient to describe the discomfort?",
+                        "answer": "\"Particles of sand in my eyes.\""
+                    },
+                    {
+                        "question": "17. A 'shadow sign' and an anteriorly pushed iris would indicate which eye condition?",
+                        "answer": "Shallow anterior chamber"
+                    },
+                    {
+                        "question": "18. The nurse would use which term to document a patient with a beady nodule protruding from the eyelid with freely movable skin overlying it?",
+                        "answer": "Chalazion"
+                    },
+                    {
+                        "question": "19. Which finding would prompt the nurse to document the presence of the doll's eyes reflex in a 1-month-old infant?",
+                        "answer": "Shifting eyes to the opposite direction after quick beats of nystagmus."
+                    },
+                    {
+                        "question": "20. The patient diagnosed with a respiratory infection and with a swollen and painful preauricular node would be assessed by the nurse for which eye complication?",
+                        "answer": "Conjunctivitis"
+                    },
+                    {
+                        "question": "21. Which pathophysiology would cause a scleral crescent?",
+                        "answer": "Absence of pigment in the choroid layer"
+                    },
+                    {
+                        "question": "22. Epicanthal folds and large spacing between the eyes would be consistent with which diagnosis?",
+                        "answer": "Down syndrome"
+                    },
+                    {
+                        "question": "23. Which optical assessment would support a brain tumor diagnosis?",
+                        "answer": "Papilledema"
+                    },
+                    {
+                        "question": "24. The nurse would anticipate which diagnosis for a patient with recent infectious mononucleosis and a swollen and reddened upper eyelid?",
+                        "answer": "Dacryoadenitis"
+                    },
+                    {
+                        "question": "25. Which statement would accurately describe the clinical manifestations of iritis?",
+                        "answer": "A deep red halo is seen around the iris and cornea."
+                    },
+                    {
+                        "question": "26. If a patient develops sudden clouding of vision, severe eye pain, and halos around light, which action by the nurse would be appropriate?",
+                        "answer": "Report this to the primary health care provider."
+                    },
+                    {
+                        "question": "27. When performing the diagnostic position test, if the nurse can still visualize the top portion of the iris while the patient looks downward, the nurse would conduct further testing to assess for which condition?",
+                        "answer": "Hyperthyroidism"
+                    },
+                    {
+                        "question": "28. Which finding would indicate a patient diagnosed with open-angle glaucoma has tunnel vision?",
+                        "answer": "Report of a decrease in the peripheral vision."
+                    },
+                    {
+                        "question": "30. A patient with cachexia due to chronic illness would likely experience which eye abnormality?",
+                        "answer": "Enophthalmos"
+                    },
+                    {
+                        "question": "31. In a patient who is unable to turn their eyes in three cardinal positions of gaze-up and nasal, straight nasal, and down and temporal positions, the nurse would suspect paralysis of which cranial nerve?",
+                        "answer": "III"
+                    },
+                    {
+                        "question": "32. During the diagnostic positions test, if a patient's eye does not move to the down and nasal positions, the nurse would suspect dysfunction of which cranial nerve?",
+                        "answer": "IV"
+                    },
+                    {
+                        "question": "33. Which finding in a 1-month-old infant would prompt the nurse to request a referral to an ophthalmologist?",
+                        "answer": "Cannot fixate the gaze on a toy"
+                    },
+                    {
+                        "question": "34. The nurse would suspect damage to which structure if miosis is present?",
+                        "answer": "Pons"
+                    },
+                    {
+                        "question": "35. For a patient with a history of glaucoma and a prescription for pilocarpine ophthalmic drops, the nurse would assess for which eye abnormality?",
+                        "answer": "Miosis"
+                    },
+                    {
+                        "question": "36. Which statement about the anatomy and physiology of the eye would indicate effective learning?",
+                        "answer": "\"The autonomic nervous system (ANS) determines the size of the pupil.\""
+                    },
+                    {
+                        "question": "37. Which condition would be suspected in a patient who complains of a burning and itching sensation in the eyelids along with a thickened and formed crust?",
+                        "answer": "Blepharitis"
+                    },
+                    {
+                        "question": "38. When an older adult patient with a cloudy cornea and a dilated pupil reports sudden, intense eye pain and seeing halos around lights, suspicion of which condition would the nurse report to the provider?",
+                        "answer": "Acute glaucoma"
+                    },
+                    {
+                        "question": "39. Which patient would be treated first?",
+                        "answer": "PATIENT A"
+                    },
+                    {
+                        "question": "40. The inability to perform which directional movement in the diagnostic positions test would indicate paralysis of cranial nerve VI?",
+                        "answer": "Straight temporal"
+                    },
+                    {
+                        "question": "41. After reviewing a patient's Hirschberg test results, the health care provider would instruct the nurse to perform the cover test based upon which finding?",
+                        "answer": "Asymmetric light reflex in both eyes."
+                    },
+                    {
+                        "question": "42. Which action by the novice nurse performing a pupillary light reflex test would require correction by the experienced nurse?",
+                        "answer": "Focusing the light in front of the patient"
+                    },
+                    {
+                        "question": "43. When the nurse exposes a patient's right eye to light and notices both eyes constrict at the same time, the nurse would document the presence of which reflex in the patient's left eye?",
+                        "answer": "Consensual light reflex"
+                    },
+                    {
+                        "question": "44. A patient who is having trouble seeing nearby objects would be experiencing dysfunction in which type of reflex?",
+                        "answer": "Accommodation"
+                    },
+                    {
+                        "question": "45. When the nurse detects yellowish elevated nodules on the conjunctiva of the eyes of a patient who works in the wood recycling industry, which term would the nurse use to document the finding?",
+                        "answer": "Pingueculae"
+                    },
+                    {
+                        "question": "46. Which statement would the nurse make to the patient to explain their visual acuity of 20/100 as determined by the Snellen chart test?",
+                        "answer": "\"Your eyes can see at 20 feet what normal eyes see at 100 feet.\""
+                    },
+                    {
+                        "question": "47. While assessing lateral gaze, if the nurse notices the patient's eye moves rhythmically when turned to the lateral position, which term would the nurse use to document this assessment?",
+                        "answer": "Nystagmus"
+                    },
+                    {
+                        "question": "48. When the health care provider presses against the patient's lacrimal sac, and clear fluid is expelled through the puncta, which documentation would the nurse include in the patient's chart?",
+                        "answer": "Variation from normal that may indicate a blocked nasolacrimal duct"
+                    },
+                    {
+                        "question": "49. Which condition would result in periorbital edema? Select all that apply.",
+                        "answer": [
+                            "Myxedema",
+                            "Renal failure",
+                            "Congestive heart failure"
+                        ]
+                    },
+                    {
+                        "question": "50. When an older adult patient has a white ring along the cornea yet reports clear vision, which condition would the nurse suspect?",
+                        "answer": "Arcus senilis"
+                    }
+                ]
+            },
+            {
+                "title_chapter": "Chapter 16, Ears",
+                "id_chapter": "chap16",
+                "questions": [
+                    {
+                        "question": "1. Which group would be considered at higher risk of acute otitis media?",
+                        "answer": "Infants"
+                    },
+                    {
+                        "question": "2. Which cranial nerve would be damaged in a patient diagnosed with a hearing impairment?",
+                        "answer": "VIII"
+                    },
+                    {
+                        "question": "3. Which part of the ear would connect the middle ear to the nasopharynx?",
+                        "answer": "Eustachian tube"
+                    },
+                    {
+                        "question": "4. The normal tympanic membrane would be reflected in which description?",
+                        "answer": "Concave and pearly gray"
+                    },
+                    {
+                        "question": "5. Which finding would be consistent with wet cerumen?",
+                        "answer": "Honey-brownish"
+                    },
+                    {
+                        "question": "6. Which term would the nurse document for a patient diagnosed with gout who has small, whitish-yellow nodules and uric acid crystals in the ear helix?",
+                        "answer": "Tophi"
+                    },
+                    {
+                        "question": "7. Which equipment would the nurse obtain to determine a middle ear infection in a 4-week-old newborn?",
+                        "answer": "Pneumatic bulb"
+                    },
+                    {
+                        "question": "8. Which inference would the nurse make after finding the patient's ear canal is 70% blocked with cerumen?",
+                        "answer": "Hearing will be normal."
+                    },
+                    {
+                        "question": "9. Which parts of the ear would the tympanic membrane separate?",
+                        "answer": "External and the middle ear"
+                    },
+                    {
+                        "question": "10. Which test would the nurse perform on a patient who reports impaired balance?",
+                        "answer": "Romberg"
+                    },
+                    {
+                        "question": "11. Which action would the nurse perform to administer the whisper voice test?",
+                        "answer": "Stand 2 feet behind the patient"
+                    },
+                    {
+                        "question": "12. Which process would be a function of the eustachian tube?",
+                        "answer": "Equalizing air pressure on both the sides of the eardrum"
+                    },
+                    {
+                        "question": "13. Which finding would the nurse observe on the tympanic membrane in a patient diagnosed with otomycosis?",
+                        "answer": "White dots"
+                    },
+                    {
+                        "question": "14. Which finding in a female who is 7 weeks pregnant would place the fetus at risk of impaired hearing?",
+                        "answer": "Rubella"
+                    },
+                    {
+                        "question": "15. Which technique would the nurse use to straighten the ear canal of an adult patient during an otoscopic examination?",
+                        "answer": "Pull the pinna up and back."
+                    },
+                    {
+                        "question": "16. Which term would reflect ear pain from a tooth problem?",
+                        "answer": "Otalgia"
+                    },
+                    {
+                        "question": "17. Which otoscopic finding would the nurse observe in a patient diagnosed with an ear infection with effusion?",
+                        "answer": "Yellow/amber-colored tympanic membrane"
+                    },
+                    {
+                        "question": "18. Which history finding would be typical for a patient diagnosed with presbycusis?",
+                        "answer": "Is an older adult"
+                    },
+                    {
+                        "question": "19. Which condition would cause conductive hearing loss in a patient?",
+                        "answer": "Otosclerosis"
+                    },
+                    {
+                        "question": "20. Which structure of the ear would be dysfunctional in a patient who reports spinning and whirling sensations?",
+                        "answer": "Labyrinth"
+                    },
+                    {
+                        "question": "21. Which finding would the nurse observe in a patient diagnosed with a basal skull fracture?",
+                        "answer": "Frank blood and watery discharge from the ear"
+                    },
+                    {
+                        "question": "22. Which assessment finding would be expected in a patient diagnosed with otitis externa?",
+                        "answer": "Tragus pain upon palpation"
+                    },
+                    {
+                        "question": "23. Which assessment finding would be consistent with a diagnosis of vertigo?",
+                        "answer": "Describes a sensation of the room revolving"
+                    },
+                    {
+                        "question": "24. Which action would the nurse perform during an otoscopic examination of an adult patient?",
+                        "answer": "Hold the pinna firmly."
+                    },
+                    {
+                        "question": "25. Which function would the eustachian tube perform in the middle ear?",
+                        "answer": "Equalization of air pressure on both sides of the eardrum"
+                    },
+                    {
+                        "question": "26. Which question would the nurse ask a patient diagnosed with labyrinth dysfunction?",
+                        "answer": "\"Do you ever feel as if the room is spinning around you?\""
+                    },
+                    {
+                        "question": "27. Which statement by a parent would indicate successful teaching about preventing middle ear infections?",
+                        "answer": "\"I should avoid placing my baby in daycare if possible.\""
+                    },
+                    {
+                        "question": "28. Which information would the nurse share with parents about the 1-3-6 program?",
+                        "answer": "The infant must be seen by an audiologist by age 3 months if the screening test is not passed."
+                    },
+                    {
+                        "question": "29. In which area on the patient would the nurse place the tuning fork to perform the Weber test?",
+                        "answer": "On top of the patient's head"
+                    },
+                    {
+                        "question": "30. Which assessment finding would the nurse report to the provider?",
+                        "answer": "9-month-old who is more reactive to movement than to sound"
+                    },
+                    {
+                        "question": "31. Which observation would indicate the light reflex seen during an otoscopic examination was normal?",
+                        "answer": "At the 5 o'clock position on the right."
+                    },
+                    {
+                        "question": "32. If, during the otoscopic examination, the nurse observes the tympanic membrane of a 3-week-old infant does not move inward with a slight puff and outward with a slight release, which documentation would the nurse chart?",
+                        "answer": "No mobility on pneumatic otoscopy"
+                    },
+                    {
+                        "question": "33. Which assessment finding would the nurse observe in a patient diagnosed with a Darwin tubercle?",
+                        "answer": "Small, painless nodule at the helix"
+                    },
+                    {
+                        "question": "34. Which instruction would the nurse provide the parents to prevent otitis externa in their child after every swim lesson?",
+                        "answer": [
+                            "\"Put rubbing alcohol into your child's ears.\"",
+                            "\"Instill 2% acetic acid into your child's ears.\""
+                        ]
+                    },
+                    {
+                        "question": "35. Which action would be a function of the middle ear? Select all that apply.",
+                        "answer": [
+                            "Equalizes air pressure",
+                            "Protects the inner ear",
+                            "Conducts the sound vibrations"
+                        ]
+                    },
+                    {
+                        "question": "36. Which landmark would the nurse observe when examining the tympanic membrane of a patient?",
+                        "answer": [
+                            "Umbo",
+                            "Manubrium",
+                            "Short process of the malleus"
+                        ]
+                    },
+                    {
+                        "question": "37. Which clinical manifestation would the nurse observe in a patient diagnosed with cholesteatoma?",
+                        "answer": [
+                            "Tinnitus",
+                            "Otorrhea",
+                            "Pearly white-colored tympanic membrane"
+                        ]
+                    },
+                    {
+                        "question": "38. Which term would reflect a patient's ears 3 centimeters (cm) in length?",
+                        "answer": "Microtia"
+                    },
+                    {
+                        "question": "39. Which part of the ear would be affected in a patient diagnosed with impaired hearing and impaired balance?",
+                        "answer": "Inner"
+                    },
+                    {
+                        "question": "40. Which color of the tympanic membrane would the nurse observe during an otoscopic examination of a patient diagnosed with chronic otitis media?",
+                        "answer": "Yellow-amber"
+                    },
+                    {
+                        "question": "41. Which otoscopic finding would the nurse observe in a patient diagnosed with a perforated tympanic membrane?",
+                        "answer": "Dark oval area"
+                    },
+                    {
+                        "question": "42. Which finding would be common in a patient diagnosed with sensorineural hearing loss?",
+                        "answer": "Cranial nerve VIII damage"
+                    },
+                    {
+                        "question": "43. When a patient diagnosed with labyrinthitis presents with vertigo, for which additional finding would the nurse assess?",
+                        "answer": "A staggering gait"
+                    },
+                    {
+                        "question": "44. Which priority action would the nurse perform for a patient who was in an accident and has clear, watery drainage from the ear?",
+                        "answer": "Report to the health care provider about the patient."
+                    },
+                    {
+                        "question": "45. Which intervention would benefit the older adult patient diagnosed with presbycusis?",
+                        "answer": "Suggest the use of hearing aids for the patient."
+                    },
+                    {
+                        "question": "46. Which finding would the nurse observe in a patient with unreported hearing loss?",
+                        "answer": [
+                            "Has a flat, monotonous tone of voice",
+                            "Speaks with an unusually loud voice",
+                            "Watches the nurse's face closely",
+                            "Strains forward to hear"
+                        ]
+                    },
+                    {
+                        "question": "47. Which information would the nurse share with a patient regarding a positive Rinne test?",
+                        "answer": "\"You heard the sound twice as long by air conduction as by bone conduction.\""
+                    },
+                    {
+                        "question": "48. Which information regarding cerumen would the nurse include in a teaching session?",
+                        "answer": "Dry cerumen is generally found in East Asians."
+                    },
+                    {
+                        "question": "49. Which technique would the nurse use when performing an otoscopic examination on an adult patient?",
+                        "answer": "Turn the otoscope upside down."
+                    },
+                    {
+                        "question": "50. Which bone would be located in the middle ear? Select all that apply.",
+                        "answer": [
+                            "Incus",
+                            "Malleus",
+                            "Stapes"
+                        ]
+                    },
+                    {
+                        "question": "51. If a patient diagnosed with cellulitis presents with a thick, inflamed auricle, for which additional external ear abnormality would the nurse monitor?",
+                        "answer": "Induration"
+                    },
+                    {
+                        "question": "52. Which otoscopic finding would the nurse anticipate in a patient diagnosed with a mycoplasma pneumonia infection experiencing bullous myringitis?",
+                        "answer": "Small blood-filled vesicles"
+                    },
+                    {
+                        "question": "53. Which medication would cause a ringing sensation in the ears?",
+                        "answer": "Cisplatin"
+                    },
+                    {
+                        "question": "54. For which condition would the nurse monitor in a patient prescribed an aminoglycoside antibiotic?",
+                        "answer": "Sensorineural hearing loss"
+                    },
+                    {
+                        "question": "55. Which intervention would the nurse perform in an ear canal filled with cerumen for a patient reporting ear pain that stopped after a popping sensation?",
+                        "answer": "Avoid irrigating the patient's ear."
+                    },
+                    {
+                        "question": "56. Which outcome would the nurse expect in a patient following insertion of tympanostomy tubes? Select all that apply.",
+                        "answer": [
+                            "Improved aeration in the middle ear",
+                            "Increased outflow of fluid from the middle ear",
+                            "Reduced risk of recurrent middle ear infection"
+                        ]
+                    },
+                    {
+                        "question": "57. Which action would the nurse perform to soften the cerumen and irrigate a patient's ear canal? Select all that apply.",
+                        "answer": [
+                            "Instill warmed solution of mineral oil and hydrogen peroxide into ear canal.",
+                            "Obtain a low-pulsatile Water-Pik."
+                        ]
+                    },
+                    {
+                        "question": "58. Which assessment finding would the nurse observe in a patient diagnosed with frostbite of the ears? Select all that apply.",
+                        "answer": [
+                            "Ear necrosis",
+                            "Vesicles",
+                            "Reddish-blue discoloration of the auricle"
+                        ]
+                    },
+                    {
+                        "question": "59. Which at-risk child would the nurse assess closely for hearing deficits? Select all that apply.",
+                        "answer": [
+                            "Had meningitis",
+                            "Was a low-birth-weight newborn",
+                            "Has kidney disease"
+                        ]
+                    },
+                    {
+                        "question": "60. Which parameter would be tested in an older adult patient when performing the Romberg test? Select all that apply.",
+                        "answer": [
+                            "Standing balance",
+                            "Proprioception",
+                            "Intactness of the cerebellum"
+                        ]
+                    },
+                    {
+                        "question": "61. Which question would the nurse ask the parents of a child with recurrent otitis media?",
+                        "answer": "\"Are there any smokers in your home?\""
+                    },
+                    {
+                        "question": "62. Which treatment strategy would benefit a child diagnosed with chronic otitis media?",
+                        "answer": "Inserting tympanostomy tubes into the ear surgically"
+                    },
+                    {
+                        "question": "63. Which response would educate a patient asking about tympanostomy tubes?",
+                        "answer": "They usually fall out in about 12 to 18 months."
+                    }
+                ]
+            },
+            {
+                "title_chapter": "Chapter 17, Nose, Mouth, and Throat",
+                "id_chapter": "chap17",
+                "questions": [
+                    {
+                        "question": "1. Which cranial nerve would be affected in a patient who reports having lost the sense of smell?",
+                        "answer": "1"
+                    },
+                    {
+                        "question": "2. Which finding would be considered normal when assessing teeth?",
+                        "answer": "Upper teeth rest directly on the lower teeth."
+                    },
+                    {
+                        "question": "3. Which assessment finding would the nurse anticipate in a patient diagnosed with epistaxis?",
+                        "answer": "Bleeding from the nasal septum"
+                    },
+                    {
+                        "question": "4. Which amount would be the normal number of permanent teeth in an adult?",
+                        "answer": "32"
+                    },
+                    {
+                        "question": "5. Which instruction would the nurse include in patient teaching regarding how to treat epistaxis?",
+                        "answer": "\"Sit up with the head tilted forward and pinch the nose.\""
+                    },
+                    {
+                        "question": "6. Which assessment finding would be expected with a diagnosis of aphthous ulcers?",
+                        "answer": "Small, round, 'punched-out' ulcer with a white base surrounded by a red halo"
+                    },
+                    {
+                        "question": "7. Which assessment finding would cause the nurse to document tonsils as 3+?",
+                        "answer": "Touch the uvula."
+                    },
+                    {
+                        "question": "8. Which finding would be considered normal in a 10-month-old infant?",
+                        "answer": "Sucking tubercle."
+                    },
+                    {
+                        "question": "9. Which finding would the nurse observe in a patient diagnosed with acute tonsillitis?",
+                        "answer": "Yellow exudate on the tonsils"
+                    },
+                    {
+                        "question": "10. Which statement by the nurse would be included in a teaching session about preventing baby bottle tooth decay?",
+                        "answer": "\"Do not put your baby in the crib with a bottle of juice.\""
+                    },
+                    {
+                        "question": "11. Which assessment finding would the nurse observe in a patient diagnosed with oral Kaposi sarcoma?",
+                        "answer": "Bruiselike, dark red macule"
+                    },
+                    {
+                        "question": "12. Which assessment finding would indicate the presence of Epstein pearls in an infant?",
+                        "answer": "Small retention cysts"
+                    },
+                    {
+                        "question": "13. Which assessment finding would the nurse associate with hay fever?",
+                        "answer": "Lacrimation with sneezing"
+                    },
+                    {
+                        "question": "14. Which assessment finding would the nurse observe in a patient on long-term use of phenytoin?",
+                        "answer": "Painless enlargement of the gums"
+                    },
+                    {
+                        "question": "15. Which finding would the nurse associate with hyperthyroidism when assessing the hypoglossal nerve (cranial nerve XII)?",
+                        "answer": "Fine tremor of the tongue"
+                    },
+                    {
+                        "question": "16. Which pair of sinuses would the nurse assess during a physical examination for a patient with a severe cold and nasal congestion?",
+                        "answer": "Maxillary"
+                    },
+                    {
+                        "question": "17. Which description would reflect a normal tonsil assessment?",
+                        "answer": "Crypts on rough surfaces"
+                    },
+                    {
+                        "question": "18. Which clinical manifestation would the nurse expect in a patient diagnosed with a furuncle?",
+                        "answer": "Small reddened boil on the skin or mucosa"
+                    },
+                    {
+                        "question": "19. Which change in the structure and function of the nose would be expected in the older adult?",
+                        "answer": "Itching and sneezing increase."
+                    },
+                    {
+                        "question": "20. Which buccal mucosa finding would the nurse observe in a patient diagnosed with Addison disease?",
+                        "answer": "Dappled brown patches"
+                    },
+                    {
+                        "question": "21. Which information would the nurse expect to be documented in the chart of a patient diagnosed with ankyloglossia?",
+                        "answer": "Has a congenital defect"
+                    },
+                    {
+                        "question": "22. Which statement would describe the appearance of a geographic tongue?",
+                        "answer": "Bright red with shiny, circular bald areas with pearly borders"
+                    },
+                    {
+                        "question": "23. Which factor would likely lead to a peritonsillar abscess?",
+                        "answer": "Untreated acute pharyngitis"
+                    },
+                    {
+                        "question": "24. Which statement by the nurse would indicate a correct understanding about the structures and functions of the nose?",
+                        "answer": "\"Turbinates help warm, humidify, and filter the inhaled air.\""
+                    },
+                    {
+                        "question": "25. Which specific part of the nose would be likely to bleed in a patient who has forceful coughing and sneezing?",
+                        "answer": "Kiesselbach plexus"
+                    },
+                    {
+                        "question": "26. When the nurse shines the light into one of the patient's nares and notices the light from the penlight shining into the other naris, which condition would the nurse suspect?",
+                        "answer": "Perforated septum"
+                    },
+                    {
+                        "question": "27. Which oral finding would be a cause of concern in a Black patient?",
+                        "answer": [
+                            "Noticeable patchy hyperpigmentation on the cheek",
+                            "White cheesy curdlike patch that can be scraped off",
+                            "Small white papules seen on the mucosa of the cheek",
+                            "Milky, bluish-white patch along the buccal mucosa"
+                        ]
+                    },
+                    {
+                        "question": "28. Which type of odor would the nurse encounter when examining the breath of a patient diagnosed with liver disease?",
+                        "answer": "Musty"
+                    },
+                    {
+                        "question": "29. Which instruction would the nurse include in patient teaching regarding the herpes simplex 1 virus (HSV-1) infection?",
+                        "answer": "The lesions are highly contagious."
+                    },
+                    {
+                        "question": "30. Which intervention would the nurse perform when caring for a patient diagnosed with a deviated nasal septum?",
+                        "answer": "Chart the findings for future reference."
+                    },
+                    {
+                        "question": "31. Which expected nose and mouth alteration would be attributed to pregnancy?",
+                        "answer": [
+                            "Increased risk of nosebleeds",
+                            "Increased risk of gum bleeds",
+                            "Increased occurrence of nasal stuffiness"
+                        ]
+                    },
+                    {
+                        "question": "32. For which complication would the nurse monitor in a young child who has inserted a tiny battery into the nostril?",
+                        "answer": "Tissue necrosis"
+                    },
+                    {
+                        "question": "33. Which statement would a patient diagnosed with a monilial infection make?",
+                        "answer": "\"I am taking a corticosteroid.\""
+                    },
+                    {
+                        "question": "34. Patients diagnosed with macroglossia would likely also be diagnosed with which condition?",
+                        "answer": [
+                            "Acromegaly",
+                            "Hypothyroidism",
+                            "Down syndrome"
+                        ]
+                    },
+                    {
+                        "question": "35. Which amount would be the expected number of deciduous teeth in a 20-month-old infant?",
+                        "answer": "14"
+                    },
+                    {
+                        "question": "36. Which finding would be a cause of concern to the nurse when examining a patient's gums?",
+                        "answer": [
+                            "There is a dark line on the gingival margins.",
+                            "The gums bleed even with slight pressure.",
+                            "There are crevices between the teeth and gums."
+                        ]
+                    },
+                    {
+                        "question": "37. Which assessment finding would be considered normal for the color, characteristics, and moisture of the tongue?",
+                        "answer": [
+                            "Dorsal surface feels rough.",
+                            "Tongue is pink and even.",
+                            "Ventral surface is smooth."
+                        ]
+                    },
+                    {
+                        "question": "38. Which function would be attributed to the paranasal sinuses?",
+                        "answer": [
+                            "Provide needed mucus",
+                            "Lighten the skull bones",
+                            "Resonate to produce sound"
+                        ]
+                    },
+                    {
+                        "question": "39. Which condition would affect the speech of a patient?",
+                        "answer": [
+                            "Bifid uvula",
+                            "Ankyloglossia",
+                            "Macroglossia"
+                        ]
+                    },
+                    {
+                        "question": "40. Which alteration in the older adult patient would be attributed to the aging process?",
+                        "answer": [
+                            "Nose appears to be larger and more prominent.",
+                            "Mouth and lips have a purse-string appearance.",
+                            "Teeth appear longer and develop vertical cracks."
+                        ]
+                    },
+                    {
+                        "question": "41. Which specific technique for the oral cavity examination would the nurse perform for a patient with a positive history of smoking and alcohol use?",
+                        "answer": "Palpate the area under the tongue."
+                    },
+                    {
+                        "question": "42. Which intervention would the nurse perform to assess the posterior pharyngeal wall of a patient whose gag reflex is easily triggered?",
+                        "answer": "Allow the patient to depress the tongue with the tongue blade."
+                    },
+                    {
+                        "question": "43. Which interventions would the nurse perform during the oral examination of a 2-week-old infant?",
+                        "answer": [
+                            "Save the mouth for the end of the examination.",
+                            "Put the infant supine on the examination table.",
+                            "Restrain the infant's arms during examination."
+                        ]
+                    },
+                    {
+                        "question": "44. Which intervention would the nurse perform when assessing an infant's nose and sinuses?",
+                        "answer": [
+                            "Determine patency of nares.",
+                            "Observe for nasal flaring.",
+                            "Suction blocked nares with bulb syringe."
+                        ]
+                    },
+                    {
+                        "question": "45. Arrange the steps in the order of execution the nurse would follow when assessing the oral cavity of a young child who clenches their teeth and refuses to open their mouth?",
+                        "answer": [
+                            "1. Slide the tongue blade along the buccal mucosa.",
+                            "2. Turn the tongue blade between the back teeth.",
+                            "3. Push down with the tongue blade to lower the tongue.",
+                            "4. Stimulate the child's gag reflex with the tongue blade.",
+                            "5. Briefly examine the child's wide-open mouth."
+                        ]
+                    },
+                    {
+                        "question": "46. Which information would the nurse share when teaching about meth mouth? Select all that apply.",
+                        "answer": [
+                            "Increased plaque encourages bacterial growth.",
+                            "There is an absence of necessary buffering saliva.",
+                            "Vasoconstriction and decreased saliva production occur.",
+                            "An urge to eat sugars and starches and to cease oral care occurs."
+                        ]
+                    },
+                    {
+                        "question": "47. Which clinical manifestation would malocclusion cause in an older adult patient?",
+                        "answer": [
+                            "Possibility of further tooth loss",
+                            "Inability to open the mouth fully",
+                            "Occurrence of chronic headaches",
+                            "Stress on temporomandibular joint"
+                        ]
+                    },
+                    {
+                        "question": "48. Which aspect would be considered a function of the tongue?",
+                        "answer": [
+                            "Cleans the teeth",
+                            "Enables taste sensation",
+                            "Helps with speech formation"
+                        ]
+                    },
+                    {
+                        "question": "49. In which condition would the nurse find cherry-red lips?",
+                        "answer": [
+                            "Ketoacidosis",
+                            "Aspirin poisoning",
+                            "Carbon monoxide poisoning"
+                        ]
+                    },
+                    {
+                        "question": "50. Which factor would result in a patient developing gingivitis?",
+                        "answer": [
+                            "Poor dental hygiene habits",
+                            "Vitamin C deficiency",
+                            "Changes of hormone levels"
+                        ]
+                    },
+                    {
+                        "question": "51. Which equipment would be needed to perform a physical examination of a patient's nose?",
+                        "answer": [
+                            "Penlight",
+                            "Otoscope",
+                            "Speculum"
+                        ]
+                    },
+                    {
+                        "question": "52. Which factor would the nurse find in the history of an infant diagnosed with a cleft lip?",
+                        "answer": [
+                            "Mother smokes",
+                            "Previous family history",
+                            "Maternal diabetes"
+                        ]
+                    },
+                    {
+                        "question": "53. Which characteristic would be typical of tonsillar tissue?",
+                        "answer": "Enlarges until puberty and then shrinks"
+                    },
+                    {
+                        "question": "54. Which description would be a characteristic feature of the submandibular salivary gland?",
+                        "answer": "Contains Wharton ducts."
+                    },
+                    {
+                        "question": "55. Which intervention would the nurse perform if choanal atresia is suspected in a newborn immediately after birth?",
+                        "answer": "Insert a small lumen catheter into the nares."
+                    },
+                    {
+                        "question": "56. Which finding would the nurse expect in the nose of a patient who reports a feeling of a valve moving in the nose when breathing?",
+                        "answer": "Smooth nodules"
+                    },
+                    {
+                        "question": "57. Which assessment finding would the nurse refer to a specialist for further investigation?",
+                        "answer": "Leukoplakia"
+                    },
+                    {
+                        "question": "58. If a patient diagnosed with allergic rhinitis presents with rhinorrhea, lacrimation, and sneezing, for which turbinate finding would the nurse assess?",
+                        "answer": "Pale color"
+                    },
+                    {
+                        "question": "59. Which description would the nurse document for an epulis formation in a patient?",
+                        "answer": "Nontender, fibrous nodule of the gum"
+                    },
+                    {
+                        "question": "60. Which statement would accurately describe the parotid gland?",
+                        "answer": "Secretes saliva."
+                    },
+                    {
+                        "question": "61. Which assessment finding of the palate would require further investigation?",
+                        "answer": "Muddy yellow anterior hard palate."
+                    }
+                ]
+            },
+            {
+                "title_chapter": "Chapter 18, Breasts, Axillae, and Regional Lymphatics",
+                "id_chapter": "chap18",
+                "questions": [
+                  {
+                    "question": "1. Which description would be characteristic of fibroadenoma?",
+                    "answer": "*Freely movable and feels firm and elastic"
+                  },
+                  {
+                    "question": "2. Which term would be used to document the patient's report of painful breasts?",
+                    "answer": "*Mastalgia"
+                  },
+                  {
+                    "question": "3. In which location would the Montgomery glands be found?",
+                    "answer": "*Areola"
+                  },
+                  {
+                    "question": "4. Which purpose would the Cooper ligaments in the breast serve?",
+                    "answer": "*Support the breast tissue"
+                  },
+                  {
+                    "question": "5. Where is the central axillary node of the breast located?",
+                    "answer": "*Over the ribs and serratus anterior muscle"
+                  },
+                  {
+                    "question": "6. Which part of the breast is called the tail of Spence?",
+                    "answer": "*The superior lateral corner"
+                  },
+                  {
+                    "question": "7. Which factors increase the risk of breast cancer? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Consumption of alcohol", "*Postmenopausal weight gain"]
+                  },
+                  {
+                    "question": "8. If properly treated, how long does it take to resolve a plugged duct in the breast?",
+                    "answer": "*Less than a day"
+                  },
+                  {
+                    "question": "9. Which finding is expected during a breast assessment of an older adult patient?",
+                    "answer": "*The breasts decrease in size and elasticity."
+                  },
+                  {
+                    "question": "10. Which method would be appropriate when examining large, pendulous breasts?",
+                    "answer": "*Leaning forward while the nurse supports the forearms"
+                  },
+                  {
+                    "question": "11. Which condition is commonly found in the tail of Spence?",
+                    "answer": "*Breast cancer"
+                  },
+                  {
+                    "question": "12. Which structure drains more than 75% of the lymph from the breasts?",
+                    "answer": "*Ipsilateral axillary nodes"
+                  },
+                  {
+                    "question": "13. Which finding would be identified as abnormal in a patient's breast assessment?",
+                    "answer": "*Localized redness with heat"
+                  },
+                  {
+                    "question": "14. Which rationale would be given to the patient when asking her to lie down and raise her arms before a breast examination?",
+                    "answer": "*Flatten the breast tissue"
+                  },
+                  {
+                    "question": "15. Which finding would be considered normal regarding the breasts of a prepubertal child?",
+                    "answer": "*The areola has darker pigmentation with flat nipples."
+                  },
+                  {
+                    "question": "16. Which finding would prompt the nurse to document 'premature thelarche'?",
+                    "answer": "*Early development of breasts without hormone-dependent signs"
+                  },
+                  {
+                    "question": "17. Which assessment finding describes gynecomastia in an older male patient?",
+                    "answer": "*Bilateral, tender, firm mass"
+                  },
+                  {
+                    "question": "18. Which condition develops a small crust on the nipple apex that spreads to the areola?",
+                    "answer": "*Paget disease"
+                  },
+                  {
+                    "question": "19. Which signs and symptoms indicate fibrocystic disease? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Mastalgia", "*Nipple discharge", "*Swelling and tenderness"]
+                  },
+                  {
+                    "question": "20. Which action by the nurse would be appropriate when the nurse notes nodules in the breast of a patient who is in the midcycle of menstruation?",
+                    "answer": "*Repeat the examination a week after menstruation."
+                  },
+                  {
+                    "question": "21. Which assessment finding would prompt the nurse to contact the provider for further investigation?",
+                    "answer": "*A recent increase in size of one of the breasts"
+                  },
+                  {
+                    "question": "22. Which patient statement would the nurse attribute to fibrocystic breast disease?",
+                    "answer": "*My breasts always start hurting the day before I start my period each month."
+                  },
+                  {
+                    "question": "23. At which point would a premenopausal, nonpregnant patient perform breast self-examination (BSE)?",
+                    "answer": "*On days 4 to 7 of the menstrual cycle"
+                  },
+                  {
+                    "question": "24. In which position would the nurse assess for nipple retraction in a patient with large, pendulous breasts?",
+                    "answer": "*Leaning forward with the nurse supporting the arms"
+                  },
+                  {
+                    "question": "25. Which assessment finding may indicate breast cancer?",
+                    "answer": "*Unilateral, dense, irregular mass"
+                  },
+                  {
+                    "question": "26. Which intervention is performed while examining the axillae?",
+                    "answer": "*Move the arm through the range of motion."
+                  },
+                  {
+                    "question": "27. Which response by the nurse is appropriate for a teenager who states, 'My left breast is smaller than the right one, and it makes me feel self-conscious'?",
+                    "answer": "*This is a normal condition."
+                  },
+                  {
+                    "question": "28. Which change in the breast is seen in a patient who has reached menopause?",
+                    "answer": "*Atrophy of the glandular tissue"
+                  },
+                  {
+                    "question": "29. Arrange the stages of breast development from preadolescent to maturity in the order in which the changes take place.",
+                    "answer": [
+                      "1. An elevated nipple with lactiferous ducts is present.",
+                      "2. The areola widens and a small mound of breast and nipple develops.",
+                      "3. The breast and areola enlarge, and the nipple is flush with the breast surface.",
+                      "4. The areola and nipple form a secondary mound over the breast.",
+                      "5. The areola is flush with the breast contour, and only the nipple protrudes."
+                    ]
+                  },
+                  {
+                    "question": "30. Which instruction is given to the patient during a screening for retraction of the breasts? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Push the hands into the hips.", "*Put both hands on the hips.", "*Lift both the arms slowly over the head."]
+                  },
+                  {
+                    "question": "31. Which intervention is used when palpating the patient's breasts? Select all that apply. One, some, or all responses may be correct. Some correct answers were not selected",
+                    "answer": ["*Assist the patient to a supine position.", "*Tuck a pad under the side to be palpated.", "*Have the patient raise the arm over the head."]
+                  },
+                  {
+                    "question": "32. Which factor indicates a relative risk of breast cancer greater than 4.0?",
+                    "answer": "*Genetic mutations for BRCA1 or BRCA2"
+                  },
+                  {
+                    "question": "33. Which information would the nurse provide to a lactating patient with a plugged duct?",
+                    "answer": "*Ensure complete emptying of the breast."
+                  },
+                  {
+                    "question": "34. Which intervention is used to assess the patient who reports finding a lump in the left breast?",
+                    "answer": "*Examine the features of the right breast followed by the left breast."
+                  },
+                  {
+                    "question": "35. Which nursing intervention is appropriate while examining the breast of a male patient? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Palpate the nipple area and axillary lymph nodes.",
+                      "*Combine the male breast examination with an examination of the anterior thorax.",
+                      "*Inspect the chest wall and the skin surface for lumps."
+                    ]
+                  },
+                  {
+                    "question": "36. Which assessment finding is associated with peau d'orange?",
+                    "answer": "*The skin is thickened, and the hair follicles are exaggerated."
+                  },
+                  {
+                    "question": "37. Which pathophysiology leads to gynecomastia in a patient with cirrhosis of the liver?",
+                    "answer": "*Inability to metabolize estrogens"
+                  },
+                  {
+                    "question": "38. Which assessment is appropriate for a nonpregnant patient who reports spontaneous nipple discharge? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Press the areola inward with the index finger.",
+                      "*Note the quadrant producing the discharge.",
+                      "*Note the number of droplets being discharged."
+                    ]
+                  },
+                  {
+                    "question": "39. Which statement is appropriate for an adolescent diagnosed with fibroadenoma of the breast?",
+                    "answer": "*It is benign and may resolve spontaneously."
+                  },
+                  {
+                    "question": "40. Which factor places the relative risk of breast cancer at 1.1 to 2.0? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Exposure to diethylstilbestrol (DES)", "*Absence of full-term pregnancies", "*Menopause after 55 years of age"]
+                  },
+                  {
+                    "question": "41. Which symptoms are associated with benign fibrocystic breast disease? Select all that apply.",
+                    "answer": ["*Multiple tender masses", "*Dull, heavy, cyclic pain", "*Cysts and fibroadenomas"]
+                  },
+                  {
+                    "question": "42. Which complication would the nurse anticipate in a new mother in her second month of lactation who has flu-like symptoms and an inflammatory mass forming outward from the areola?",
+                    "answer": "*Mastitis"
+                  },
+                  {
+                    "question": "43. Which diagnosis is likely for a perimenopausal patient with itching and burning around the nipple and white purulent discharge?",
+                    "answer": "*Mammary duct ectasia"
+                  },
+                  {
+                    "question": "44. Which assessment would the nurse document as a skin tether in the breast?",
+                    "answer": "*Areola appears distorted and has a dimple"
+                  },
+                  {
+                    "question": "45. Which instruction would the nurse provide to the patient with cracked nipples caused by breastfeeding?",
+                    "answer": "*Keep the area clean, dry, and exposed to the air."
+                  },
+                  {
+                    "question": "46. Which areas would the nurse examine to rule out any obstruction of lymphatic drainage? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Axillary region", "*Infraclavicular region", "*Supraclavicular region"]
+                  },
+                  {
+                    "question": "47. Which assessment finding is a cause for concern in a patient with a right-sided mastectomy",
+                    "answer": "*Redness and warmth around the scar"
+                  },
+                  {
+                    "question": "48. Which intervention is appropriate for a woman over 50 years of age?",
+                    "answer": "*Suggest use of talcum powder for breast self-examination."
+                  },
+                  {
+                    "question": "49. Which type of nipple discharge would present in early Paget disease?",
+                    "answer": "*Clear yellow"
+                  },
+                  {
+                    "question": "50. Which term is used to document the appearance of pigskin on the patient's breast near the nipple?",
+                    "answer": "*Peau d'orange"
+                  }
+                ]
+              },
+              {
+                "title_chapter": "Chapter 19, Thorax and Lungs",
+                "id_chapter": "chap19",
+                "questions": [
+                  {
+                    "question": "1. Intercostal spaces are numbered based on which structures?",
+                    "answer": "*The ribs present above the spaces"
+                  },
+                  {
+                    "question": "2. Which structure separates the thoracic cavity from the abdomen?",
+                    "answer": "*Diaphragm"
+                  },
+                  {
+                    "question": "3. The goblet cells of the lungs serve which purpose?",
+                    "answer": "*Entrap small particulate matter"
+                  },
+                  {
+                    "question": "4. Which description of hypercapnia is correct?",
+                    "answer": "*Increased carbon dioxide in the blood"
+                  },
+                  {
+                    "question": "5. How many thoracic vertebrae are present in the human body?",
+                    "answer": "*12"
+                  },
+                  {
+                    "question": "6. During the chest assessment of a patient, which reference line would the nurse note on the posterior chest wall?",
+                    "answer": "*Midspinal"
+                  },
+                  {
+                    "question": "7. Which patient population is most likely to be affected by scoliosis?",
+                    "answer": "*Adolescents"
+                  },
+                  {
+                    "question": "8. Which statement is true regarding the right lung?",
+                    "answer": "*It is shorter than the left lung."
+                  },
+                  {
+                    "question": "9. Which part of the lungs is assessed on the posterior chest?",
+                    "answer": "*All parts of the lower lobes"
+                  },
+                  {
+                    "question": "10. Decreased tactile fremitus is consistent with which diagnosis?",
+                    "answer": "*Pleural effusion"
+                  },
+                  {
+                    "question": "11. The nurse is aware that structures at which depth are able to be assessed with percussion?",
+                    "answer": "*5 to 7 cm"
+                  },
+                  {
+                    "question": "12. Which statement describes the structure of the lungs?",
+                    "answer": "*The right lung is shorter and wider than the left lung."
+                  },
+                  {
+                    "question": "13. Which breath sound would be considered normal? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Bronchial", "*Vesicular", "*Bronchovesicular"]
+                  },
+                  {
+                    "question": "14. Which finding would the nurse expect upon auscultating the lung sounds of a patient with heart failure?",
+                    "answer": "*Crackles in the lung bases"
+                  },
+                  {
+                    "question": "15. Palpable rhonchal fremitus indicates which condition?",
+                    "answer": "*Thick bronchial secretions"
+                  },
+                  {
+                    "question": "16. Which statement precisely describes the 'angle of Louis'?",
+                    "answer": "*It is the articulation of the manubrium and the body of the sternum."
+                  },
+                  {
+                    "question": "17. Which statement would be true about the pleura? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Thin, slippery serous membrane",
+                      "*Pleural cavity normally has negative pressure",
+                      "*Lies between the lungs and the chest wall"
+                    ]
+                  },
+                  {
+                    "question": "18. Which abnormality would the nurse expect in a patient with kyphosis?",
+                    "answer": "*An exaggerated posterior curvature of the thoracic spine"
+                  },
+                  {
+                    "question": "19. Which finding is a cause for concern after assessing a patient's respirations?",
+                    "answer": "*Interspaces appear to be bulging during expiration"
+                  },
+                  {
+                    "question": "20. Which posterior vertebral landmark is the most prominent spinous process?",
+                    "answer": "*Cervical 7"
+                  },
+                  {
+                    "question": "21. Which condition does the nurse attribute the patient's regular breathing rate of eight breaths per minute to?",
+                    "answer": "*Drug-induced depression"
+                  },
+                  {
+                    "question": "22. Which finding would the nurse document as normal after auscultation of a toddler's chest for breath sounds?",
+                    "answer": "*Bronchovesicular breath sounds in the peripheral lung fields"
+                  },
+                  {
+                    "question": "23. In which location would the nurse auscultate the highest point of the lung on the anterior side of the chest?",
+                    "answer": "*R/ 3 to 4 cm above the clavicle"
+                  },
+                  {
+                    "question": "24. Which additional muscle would be involved in increasing the size of the thoracic cage during forced inspiration after heavy exercise? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Scaleni", "*Trapezii", "*Sternomastoids"]
+                  },
+                  {
+                    "question": "25. Which assessment finding would be expected in a patient with pneumonia?",
+                    "answer": "*A lag in the chest expansion"
+                  },
+                  {
+                    "question": "26. Which observation would the nurse expect in a patient with chronic obstructive pulmonary disease (COPD)? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*The neck muscles appear to be hypertrophied from overwork.",
+                      "*The patient leans forward with the arms against the knees.",
+                      "*The anteroposterior and transverse diameter are both equal."
+                    ]
+                  },
+                  {
+                    "question": "27. Which cause does the nurse suspect for the patient whose cough always occurs in the daytime or early evening, but subsides at night?",
+                    "answer": "*Exposure to irritants at work"
+                  },
+                  {
+                    "question": "28. Which sound heard during auscultation of the patient's lungs indicates a small amount of consolidation when the patient whispers a phrase?",
+                    "answer": "*The voice will be transmitted clearly, sounding like a whisper into the stethoscope."
+                  },
+                  {
+                    "question": "29. Which finding would the nurse associate with Cheyne-Stokes respiration?",
+                    "answer": "*There are periods of apnea between normal breaths."
+                  },
+                  {
+                    "question": "30. Which assessment does the nurse anticipate when they learn in shift report that the patient has Biot's respirations?",
+                    "answer": "*Normal breathing interrupted by apnea"
+                  },
+                  {
+                    "question": "31. Which type of cough would the nurse associate with mycoplasma pneumonia?",
+                    "answer": "*Hacking"
+                  },
+                  {
+                    "question": "32. Which assessment of the thorax and lungs of an infant would require further investigation?",
+                    "answer": "*The respiration causes marked retraction of the sternum."
+                  },
+                  {
+                    "question": "33. Which assessment finding would the nurse identify with a barrel chest? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Chest appears as if held in continuous inspiration.",
+                      "*Ribs appear to be horizontal in relation to the spine.",
+                      "*Anteroposterior diameter is equal to the transverse diameter."
+                    ]
+                  },
+                  {
+                    "question": "34. Arrange the following steps to show the order in which lung development takes place from the embryonic stage to the birth of the infant.",
+                    "answer": [
+                      "1. Primitive lung bud emerges during fetal life.",
+                      "2. Conducting airways develop as in the adult.",
+                      "3. Surfactant is present in adequate amounts.",
+                      "4. Lungs form about 70 million primitive alveoli.",
+                      "5. Blood supply is detached from the placenta.",
+                      "6. Blood gushes into the pulmonary circulation"
+                    ]
+                  },
+                  {
+                    "question": "35. Which is the end result of occasional sighing that punctuates normal breathing?",
+                    "answer": "*Alveolar expansion"
+                  },
+                  {
+                    "question": "36. Which structure would the nurse assess when looking at the mediastinum? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Heart", "*Trachea", "*Esophagus"]
+                  },
+                  {
+                    "question": "37. Arrange the steps in the order in which the nurse would assess the patient for symmetric chest expansion.",
+                    "answer": [
+                      "1. Put the hands sideways on the posterolateral chest wall.",
+                      "2. Have the thumbs meet together at the T9 or T10 level.",
+                      "3. Slide hands medially to pinch the skin between the thumbs.",
+                      "4. Ask the patient to inhale and take a deep breath.",
+                      "5. The nurse notes thumb movement"
+                    ]
+                  },
+                  {
+                    "question": "38. Which technique would the nurse use to assess for tactile fremitus?",
+                    "answer": "*By placing the palmar base of one hand to touch the patient's chest"
+                  },
+                  {
+                    "question": "39. Which respiratory assessment finding would the nurse report as abnormal for an adult patient?",
+                    "answer": "*Respiratory rate is 24 to 30 breaths per minute"
+                  },
+                  {
+                    "question": "40. Which condition does the nurse report to the provider after open thoracic surgery, when they note a crackling sensation upon palpating the patient's chest wall?",
+                    "answer": "*Crepitus"
+                  },
+                  {
+                    "question": "41. The nurse counsels the pregnant patient to expect which changes in the respiratory system? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*The total circumference of the chest cage increases by 6 cm.",
+                      "*There is a decrease in the vertical diameter of the thoracic cage.",
+                      "*The patient has an increased awareness of the need to breathe."
+                    ]
+                  },
+                  {
+                    "question": "42. Where would the nurse place the stethoscope to assess the patient's bronchial breath sounds?",
+                    "answer": "*Over the trachea and the larynx"
+                  },
+                  {
+                    "question": "43. Which characteristic would be consistent with pectus excavatum? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*The patient has a markedly sunken sternum.",
+                      "*The condition is congenital, not symptomatic.",
+                      "*The depression is more noticeable on inspiration."
+                    ]
+                  },
+                  {
+                    "question": "44. Which finding would the nurse identify as normal when assessing the chest of an older adult patient?",
+                    "answer": "*An outward curvature noted in the thoracic spine"
+                  },
+                  {
+                    "question": "45. Which characteristic would be included in the assessment of breath sounds? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Amplitude", "*Pitch", "*Quality"]
+                  },
+                  {
+                    "question": "46. Which abnormality does the nurse suspect when they hear a cracking sound like two pieces of leather rubbing together on auscultation?",
+                    "answer": "*Friction rub"
+                  },
+                  {
+                    "question": "47. Which condition does the nurse report a suspicion of when the patient reports coughing up pink, frothy sputum?",
+                    "answer": "*Pulmonary edema"
+                  },
+                  {
+                    "question": "48. Which term would the nurse use to document a high-pitched, monophonic, inspiratory crowing sound in a child with acute epiglottitis?",
+                    "answer": "*Stridor"
+                  },
+                  {
+                    "question": "49. Which term would the nurse use to document that the patient's breath sounds are similar to opening Velcro?",
+                    "answer": "*Coarse crackles"
+                  },
+                  {
+                    "question": "50. Arrange the steps in order as to how the nurse would counsel and encourage the patient to stop smoking two packs of cigarettes a day.",
+                    "answer": [
+                      "1. Ask about the status of tobacco use at every visit.",
+                      "2. Give clear and nonjudgmental advice how to quit.",
+                      "3. Assess the person to determine readiness to quit.",
+                      "4. Assist the person with a specific cessation plan.",
+                      "5. Arrange follow-up visits to check for any relapse."
+                    ]
+                  }
+                ]
+              },
+              {
+                "title_chapter": "Chapter 20, Heart and Neck Vessels",
+                "id_chapter": "chap20",
+                "questions": [
+                  {
+                    "question": "1. Which term describes the thin layer of endothelial tissue that lines the inner surface of the heart and valves?",
+                    "answer": "*Endocardium"
+                  },
+                  {
+                    "question": "2. Which statement describes the pericardium?",
+                    "answer": "*Tough, fibrous double walled sac surrounding the heart"
+                  },
+                  {
+                    "question": "3. Which description of semilunar valves is correct?",
+                    "answer": "*Lie between the ventricles and the arteries"
+                  },
+                  {
+                    "question": "4. Which heart sound occurs because of the closure of the semilunar valves?",
+                    "answer": "*Second heart sound (S2)"
+                  },
+                  {
+                    "question": "5. Which description of chordae tendineae is correct?",
+                    "answer": "*Collagenous fibers that anchor the leaflets of the atrioventricular valves"
+                  },
+                  {
+                    "question": "6. Which statement describes a thrill?",
+                    "answer": "*Palpable vibration in the chest"
+                  },
+                  {
+                    "question": "7. Which component of the jugular venous pulse corresponds to the opening of the tricuspid valve?",
+                    "answer": "*Y descent"
+                  },
+                  {
+                    "question": "8. Which condition can cause a wide split in the second heart sound?",
+                    "answer": "*Right bundle branch block"
+                  },
+                  {
+                    "question": "9. Which statement describes a lift with respect to the cardiovascular system?",
+                    "answer": "*Sustained thrust of the ventricle of the heart"
+                  },
+                  {
+                    "question": "10. Which murmur is caused by an obstruction of the flow of blood into the right ventricle?",
+                    "answer": "*Diastolic rumble"
+                  },
+                  {
+                    "question": "11. Which method would the nurse use to detect a pericardial friction rub?",
+                    "answer": "*Auscultate with the diaphragm of a stethoscope."
+                  },
+                  {
+                    "question": "12. Which term is used to describe the pacemaker of the heart?",
+                    "answer": "*Sinoatrial (SA) node"
+                  },
+                  {
+                    "question": "13. Which extra heart sound may occur in early diastole? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Opening snap", "*Mitral prosthetic valve sound"]
+                  },
+                  {
+                    "question": "14. Which condition causes the patient to have a diminished first heart sound of S₁ because of more forceful atrial contractions?",
+                    "answer": "*Severe hypertension"
+                  },
+                  {
+                    "question": "15. Which action by the nurse is appropriate when a continuous soft, low-pitched sound is auscultated at the medial third of the clavicle of a child?",
+                    "answer": "*Document the venous hum and continue with the assessment"
+                  },
+                  {
+                    "question": "16. Which action made by the nurse while palpating the patient's carotid artery needs correction?",
+                    "answer": "*Palpating both carotid arteries at once"
+                  },
+                  {
+                    "question": "17. Which disorder would the nurse suspect in a patient whose liver and jugular vein have become enlarged with a soft pansystolic heart murmur which is best heard at the lower right and left sternal borders?",
+                    "answer": "*Tricuspid regurgitation"
+                  },
+                  {
+                    "question": "18. Which assessment finding would the nurse document as a sinus arrhythmia?",
+                    "answer": "*Pulse that varies with respiration"
+                  },
+                  {
+                    "question": "19. Which assessment finding may be present in a patient with atherosclerosis?",
+                    "answer": "*Presence of bruit sound"
+                  },
+                  {
+                    "question": "20. Which statement is correct regarding the position of the heart?",
+                    "answer": "*Depends on the age of the patient"
+                  },
+                  {
+                    "question": "21. Which finding would be considered normal in a patient who is pregnant? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Apical impulse sits higher",
+                      "*Increase in loudness of S₁",
+                      "*A slight left axis deviation"
+                    ]
+                  },
+                  {
+                    "question": "22. Which intervention would the nurse perform during a cardiac assessment? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Have the patient sit during the carotid artery assessment.",
+                      "*Put the patient in a supine position to assess the precordium.",
+                      "*Maintain a warm room temperature."
+                    ]
+                  },
+                  {
+                    "question": "23. Which finding in the cardiac assessment of a middle-aged patient would the nurse consider to be abnormal?",
+                    "answer": "*Third heart sound"
+                  },
+                  {
+                    "question": "24. Which type of intensity is characteristic of the first heart sound in the patient who has complete heart block?",
+                    "answer": "*Varied"
+                  },
+                  {
+                    "question": "25. Which clinical finding would the nurse observe in the patient with mitral regurgitation? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*S₁ is diminished.",
+                      "*S₂ is accentuated.",
+                      "*Apical impulse is observed lower."
+                    ]
+                  },
+                  {
+                    "question": "26. Which type of murmur is considered to be innocent?",
+                    "answer": "*Grade 2, midsystolic, musical"
+                  },
+                  {
+                    "question": "27. Which other complaint would the nurse expect from a patient with pneumonia who complains of fever, cough, and myalgias?",
+                    "answer": "*Stabbing pain located in the chest with a cough on one side"
+                  },
+                  {
+                    "question": "28. Which condition would cause a pathologic S3, or a ventricular gallop? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Anemia", "*Pregnancy", "*Hyperthyroidism"]
+                  },
+                  {
+                    "question": "29. Which patient position would be necessary during a cardiac assessment? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Sitting", "*Supine", "*Left lateral recumbent"]
+                  },
+                  {
+                    "question": "30. Which condition would the nurse suspect in the patient with acute dyspnea and cough who complains of pain in the shoulder and the lateral region of the chest?",
+                    "answer": "*Pneumothorax"
+                  },
+                  {
+                    "question": "31. The human heart is found in which location?",
+                    "answer": "*Between the second and the fifth intercostal spaces from the right edge of the sternum to the left midclavicular line"
+                  },
+                  {
+                    "question": "32. Which blood vessel drains the blood from the head and upper extremities?",
+                    "answer": "*Superior vena cava"
+                  },
+                  {
+                    "question": "33. Which would the nurse assess first in the patient during a regional cardiovascular assessment?",
+                    "answer": "*Pulse and blood pressure"
+                  },
+                  {
+                    "question": "34. Which physiologic mechanism causes the first heart sound?",
+                    "answer": "*Closing of the mitral valve"
+                  },
+                  {
+                    "question": "35. Which heart rate would be found in a 4-month-old infant with bradycardia?",
+                    "answer": "*50"
+                  },
+                  {
+                    "question": "36. Which section of the electrocardiogram (ECG) indicates atrial depolarization?",
+                    "answer": "*P wave"
+                  },
+                  {
+                    "question": "37. How would the nurse document a loud heart murmur with a palpable thrill?",
+                    "answer": "*4/6"
+                  },
+                  {
+                    "question": "38. Which area is best for auscultating the sound of the mitral valve?",
+                    "answer": "*Fifth left intercostal space at the midclavicular line"
+                  },
+                  {
+                    "question": "39. The patient with a pathologic S3 heart sound has which condition?",
+                    "answer": "*Decreased compliance of the ventricles"
+                  },
+                  {
+                    "question": "40. Which jugular pulse component reflects ventricular contraction?",
+                    "answer": "*C wave"
+                  },
+                  {
+                    "question": "41. Suspicion of which condition prompts the nurse to perform the abdominojugular test?",
+                    "answer": "*Heart failure"
+                  },
+                  {
+                    "question": "42. Which assessment finding indicates abnormally elevated pressures in the right side of the heart?",
+                    "answer": "*Distended neck veins and abdomen"
+                  },
+                  {
+                    "question": "43. Where would the nurse observe the palpable thrill in the patient with an incompetent tricuspid valve?",
+                    "answer": "*Left lower sternal border"
+                  },
+                  {
+                    "question": "44. Which medication would be beneficial for a patient who has an increased risk for having a myocardial infarction?",
+                    "answer": "*Aspirin"
+                  },
+                  {
+                    "question": "45. Which finding in the precordium indicates pulmonic hypertension?",
+                    "answer": "*Lifting impulse in the left sternal border"
+                  },
+                  {
+                    "question": "46. Which condition is most consistent with the patient reporting a sudden stabbing pain below the sternum, in the upper back, and in the neck with a fever, joint pains, and a dry cough?",
+                    "answer": "*Pericarditis"
+                  },
+                  {
+                    "question": "47. Which description of pain by the patient indicates the pain is of pulmonary origin?",
+                    "answer": "*Sharp, stabbing pain that worsens with deep breathing and a cough with hemoptysis"
+                  },
+                  {
+                    "question": "48. The nurse suspects which condition in the patient who complains of pain on the right side of the abdomen and right shoulder that is most severe after eating a fatty meal?",
+                    "answer": "*Cholecystitis"
+                  },
+                  {
+                    "question": "49. Which condition would the nurse suspect in a child who often has cyanotic episodes while crying, uses the squatting posture during exertion, and the nurse finds that the A₂ sound is louder than P₂ on assessment?",
+                    "answer": "*Tetralogy of Fallot"
+                  },
+                  {
+                    "question": "50. Which diagnosis does the nurse anticipate in an adolescent patient who reports lower-extremity cramping during exercise, has diminished femoral pulses, and the upper-extremity blood pressure is 130/74 mm Hg while the lower-extremity blood pressure is 108/62 mm Hg?",
+                    "answer": "*Coarctation of the aorta"
+                  }
+                ]
+              },
+              {
+                "title_chapter": "Chapter 21, Peripheral Vascular System and Lymphatic System",
+                "id_chapter": "chap21",
+                "questions": [
+                  {
+                    "question": "1. For which reason would an adolescent patient diagnosed with an upper respiratory tract infection complain of abdominal pain?",
+                    "answer": "*Inflammation of the mesenteric lymph nodes"
+                  },
+                  {
+                    "question": "2. Which asymmetry of a patient's calf measurements would reflect moderate lymphedema?",
+                    "answer": "*4.0 cm"
+                  },
+                  {
+                    "question": "3. Which medication would be a safety measure for a patient who uses oral contraceptives and is at risk for deep vein thrombosis?",
+                    "answer": "*Clopidogrel (Plavix)"
+                  },
+                  {
+                    "question": "4. While assessing a patient with an infection of the forearm, for which reason would the nurse use one hand to shake the patient's hand and keep the other hand near the patient's elbow?",
+                    "answer": "*Assess for enlarged epitrochlear nodes"
+                  },
+                  {
+                    "question": "5. Which finding would support the nurse's suspicion of pulsus paradoxus in a patient diagnosed with acute asthma?",
+                    "answer": "*Blood pressure decreases 10 mm Hg during inspiration."
+                  },
+                  {
+                    "question": "6. Which information would the nursing instructor include when teaching about inguinal lymph nodes? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*They drain the lymph of the lower extremities.",
+                      "*The nodes drain the lymph of the external genitalia.",
+                      "*They drain the lymph of the anterior abdominal wall."
+                    ]
+                  },
+                  {
+                    "question": "7. Which disorder would cause calcification of the arteries?",
+                    "answer": "*Diabetes mellitus"
+                  },
+                  {
+                    "question": "8. Which condition would the nurse document after assessing the carotid artery and finding a double pulse?",
+                    "answer": "*Pulsus bisferiens"
+                  },
+                  {
+                    "question": "9. Which class of medications would be most beneficial for a bedridden patient who reports sudden, sharp pain in the legs, which are also warm, red, and edematous?",
+                    "answer": "*Anticoagulants"
+                  },
+                  {
+                    "question": "10. An ankle-brachial index (ABI) with the highest right average ankle pressure at 120 mm Hg and the highest average right arm pressure at 129 mm Hg would indicate which severity of cardiovascular risk?",
+                    "answer": "*Borderline"
+                  },
+                  {
+                    "question": "11. Which artery would have superficial and deep palmar arches? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Ulnar", "*Radial"]
+                  },
+                  {
+                    "question": "12. Which vein would conduct the most venous return from the legs? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Femoral", "*Popliteal"]
+                  },
+                  {
+                    "question": "13. Which patient calf circumference would the nurse measure to assess the probability of deep vein thrombosis (DVT)?",
+                    "answer": "*Both legs at the same place."
+                  },
+                  {
+                    "question": "14. Which condition would be associated with venous pooling? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Obesity", "*Multiple pregnancies"]
+                  },
+                  {
+                    "question": "15. Which action would aggravate the clinical manifestations of venous insufficiency? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Sitting", "*Prolonged standing"]
+                  },
+                  {
+                    "question": "16. Which condition would correlate with venous insufficiency and edema in the lower extremities with thick and brownish discoloration of the skin?",
+                    "answer": "*Degradation of red blood cells"
+                  },
+                  {
+                    "question": "17. Which condition would the patient with bilateral pitting edema and abnormal distention of the jugular veins be likely to have?",
+                    "answer": "*Pulmonary hypertension"
+                  },
+                  {
+                    "question": "18. Which concomitant condition would make the assessment of leg discoloration because of arterial insufficiency unreliable?",
+                    "answer": "*Venous disease"
+                  },
+                  {
+                    "question": "19. Which finding would support the nurse documenting 4+ pitting edema? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Very deep pitting.",
+                      "*Grossly swollen legs.",
+                      "*Indentation of long duration."
+                    ]
+                  },
+                  {
+                    "question": "20. A patient with a capillary refill time of 5 seconds would be at risk for which condition?",
+                    "answer": "*Hypovolemia"
+                  },
+                  {
+                    "question": "21. Which condition would be responsible for the radial pulse of a patient increasing rapidly and then collapsing suddenly? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Patent ductus arteriosus", "*Aortic valve regurgitation"]
+                  },
+                  {
+                    "question": "22. If a pulse of a patient is obliterated when the nurse applies pressure, with which condition would the nurse correlate this assessment? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Aortic valve stenosis",
+                      "*Decreased cardiac output",
+                      "*Peripheral arterial disease"
+                    ]
+                  },
+                  {
+                    "question": "23. Which condition would the nurse infer from an easily palpable pulse that pounds under the fingertips? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Anemia", "*Hyperkinetic state", "*Hyperthyroidism"]
+                  },
+                  {
+                    "question": "24. Which action would be appropriate when preparing to conduct an ankle-brachial index (ABI) and discovering the patient smoked 5 minutes previously?",
+                    "answer": "*Conducting the test 2 hours later"
+                  },
+                  {
+                    "question": "25. Which sequence would reflect the correct order for using a Doppler ultrasonic probe?",
+                    "answer": [
+                      "Place the patient in a supine position with the legs rotated externally.",
+                      "Place a drop of coupling gel at the end of the handheld transducer.",
+                      "Place the transducer over the pulse site at a 90-degree angle.",
+                      "Apply very light pressure and locate the pulse site."
+                    ]
+                  },
+                  {
+                    "question": "26. Before performing the ankle-brachial index (ABI) on a patient diagnosed with peripheral artery disease (PAD), the nurse would confirm the absence of which condition? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Renal failure",
+                      "*Diabetes mellitus"
+                    ]
+                  },
+                  {
+                    "question": "27. Arrange the order of steps the nurse would follow to assess a patient's popliteal pulse using the two different techniques.",
+                    "answer": [
+                      "Extend the leg and curl the fingers around the popliteal fossa.",
+                      "Press the fingers hard on the artery against the bone.",
+                      "Place the patient in the prone position and then lift the lower leg.",
+                      "Relax the leg against the arm and press deeply with two thumbs."
+                    ]
+                  },
+                  {
+                    "question": "28. Which nursing intervention would help the patient experiencing brawny edema, unilateral swelling, and a feeling of 'heavy arms'? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Suggesting the patient use nonelastic garments",
+                      "*Suggesting the patient use compression garments",
+                      "*Advising the patient to perform decongestive physiotherapy"
+                    ]
+                  },
+                  {
+                    "question": "29. If the patient with severe leg pain, edema, and weeping ulcers on the leg tells the nurse, 'My leg pain gets worse by the end of the day, but it feels a bit better when I walk or lie on the bed,' which condition would the nurse suspect?",
+                    "answer": "*Chronic venous pain."
+                  },
+                  {
+                    "question": "30. Which nursing intervention would be appropriate during a peripheral vascular examination? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Checking the epitrochlear nodes of the patient",
+                      "*Palpating the femoral pulse of the patient",
+                      "*Palpating the inguinal nodes of the patient"
+                    ]
+                  },
+                  {
+                    "question": "31. Which information would the nurse provide to the patient who is at risk for atherosclerosis? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Avoid smoking cigarettes.",
+                      "*Avoid a sedentary lifestyle.",
+                      "*Reduce the intake of fatty foods."
+                    ]
+                  },
+                  {
+                    "question": "32. If a patient in the third trimester of pregnancy has increased venous pressure and reduced blood flow because of obstruction of the iliac veins and inferior vena cava, which complication would potentially develop? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Hemorrhoids",
+                      "*Varicosities in the vulva",
+                      "*Varicosities in the legs"
+                    ]
+                  },
+                  {
+                    "question": "33. Which increased serum level would increase the risk of atherosclerosis? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Glucose",
+                      "*Cholesterol",
+                      "*Triglycerides"
+                    ]
+                  },
+                  {
+                    "question": "34. Which clinical manifestation, in addition to cyanosis, would support the diagnosis of Raynaud phenomenon? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": [
+                      "*Swelling in the arms",
+                      "*Burning pain in the arms"
+                    ]
+                  },
+                  {
+                    "question": "35. Which feature would be characteristic of the great saphenous vein?",
+                    "answer": "*Located inside the leg"
+                  },
+                  {
+                    "question": "36. Which condition would be suspected in an infant with enlarged, warm, and tender cervical lymph nodes?",
+                    "answer": "*Respiratory infection"
+                  },
+                  {
+                    "question": "37. Which site would be appropriate for palpation of the popliteal pulse?",
+                    "answer": "*Below the knee"
+                  },
+                  {
+                    "question": "38. The accumulation of lymph in the breasts and upper arms would be due to an obstruction of which lymph nodes?",
+                    "answer": "*Axillary"
+                  },
+                  {
+                    "question": "39. Which statement about the superficial nodes of the lymphatic system accessible to inspection and palpation would be correct?",
+                    "answer": "*Cervical nodes drain the head and neck."
+                  },
+                  {
+                    "question": "40. Which technique would assess a patient with chronic venous insufficiency with dilated, tortuous veins and reporting severe leg cramps?",
+                    "answer": "*Doppler ultrasound"
+                  },
+                  {
+                    "question": "41. For which complication would the nurse monitor in a patient diagnosed with deep vein thrombosis?",
+                    "answer": "*Pulmonary embolism"
+                  },
+                  {
+                    "question": "42. If a patient has undergone radiation therapy for breast cancer and is experiencing brawny edema and unilateral swelling and states, 'I feel tired all the time; my arms are so heavy, and my jewelry does not fit anymore,' which condition would the nurse suspect?",
+                    "answer": "*Early lymphedema"
+                  },
+                  {
+                    "question": "43. Which condition would the nurse deduce from an ankle-brachial index (ABI) of 0.85?",
+                    "answer": "*Mild peripheral artery disease (PAD)"
+                  },
+                  {
+                    "question": "44. Which condition would correlate with a weak and thready (1+) pulse? Select all that apply. One, some, or all responses may be correct.",
+                    "answer": ["*Shock", "*Peripheral artery disease (PAD)"]
+                  },
+                  {
+                    "question": "45. Which technique would the nurse use when assessing a patient diagnosed with congenital cyanotic heart disease who has a flattened nail bed angle and diffuse enlargement of the terminal phalanges?",
+                    "answer": "*Profile sign"
+                  },
+                  {
+                    "question": "46. Which condition would the nurse infer from diminished femoral pulses and normal upper-extremity pulses in an infant? Select all that apply.",
+                    "answer": "*Coarctation of the aorta"
+                  },
+                  {
+                    "question": "47. Which condition would the nurse infer from the patient's statement, 'I wake up in the middle of the night because of sudden pain in my legs'?",
+                    "answer": "*Restless legs syndrome"
+                  },
+                  {
+                    "question": "48. Which intervention would the nurse perform while conducting a modified Allen test?",
+                    "answer": "*Tell the patient to blanch the hand by making a fist several times."
+                  },
+                  {
+                    "question": "49. While assessing a patient diagnosed with renal disease, the nurse measures the patient's ankle-brachial index upon suspicion of which condition?",
+                    "answer": "*To diagnose peripheral artery disease"
+                  },
+                  {
+                    "question": "50. If a patient diagnosed with atherosclerosis complains of foot pain while walking and at rest and has pale skin and rigid nails, which complication would be expected?",
+                    "answer": "*Arterial ischemic ulcer"
+                  }
+                ]
+              }          
+        ]
+    }
+]

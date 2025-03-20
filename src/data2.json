@@ -1,0 +1,3270 @@
+[
+    {
+        "title_document": "Health Assessment_250317_170917",
+        "id_document": "doc_2",
+        "chapters": [
+          {
+            "title_chapter": "Chapter 13: Skin, Hair, and Nails",
+            "id_chapter": "chap13-001",
+            "questions": [
+              {
+                "question": "1. Which skin color would the nurse observe in a child being fed vitamin A supplements regularly?",
+                "answer": "*Yellowish-orange"
+              },
+              {
+                "question": "2. In regard to the mnemonic ABCDEF, which aspect would be represented by the 'D'?",
+                "answer": "*Diameter"
+              },
+              {
+                "question": "4. Which assessment finding is related to erythema in a dark-skinned patient diagnosed with polycythemia?",
+                "answer": "*Reddish lips"
+              },
+              {
+                "question": "4. When a child diagnosed with impetigo presents with vesicles having an erythematous base, for which additional assessment finding would the nurse monitor?",
+                "answer": "*Thick, honey-colored crusts"
+              },
+              {
+                "question": "5. When would the nurse begin to assess a newborn for physiologic jaundice?",
+                "answer": "*Around the 4th day of life"
+              },
+              {
+                "question": "6. Which area would the nurse inspect for the presence of Koplik spots in a child with suspected measles?",
+                "answer": "*Mouth"
+              },
+              {
+                "question": "7. Which nail condition would a nurse observe in a patient diagnosed with paronychia?",
+                "answer": "*Red, tender, and swollen nail folds"
+              },
+              {
+                "question": "8. Which nail finding would the nurse expect in a patient diagnosed with chronic iron deficiency anemia?",
+                "answer": "*Concave-shaped, spoonlike nails"
+              },
+              {
+                "question": "9. Which condition would cause the skin tone of a light-skinned patient to be whitish-pink in color?",
+                "answer": "*Albinism"
+              },
+              {
+                "question": "10. Which information would the nurse include in a teaching session about nail physiology?",
+                "answer": "*The pink color is because of vascular epithelial cells."
+              },
+              {
+                "question": "11. Which instruction would the nurse include for a patient who has recurrent raised red wheals and pruritic hives from urticaria?",
+                "answer": "\"Maintain a food diary to identify triggers.\""
+              },
+              {
+                "question": "12. Which finding would the nurse expect when assessing a dark-skinned patient diagnosed with carbon monoxide poisoning?",
+                "answer": "*Cherry-red nail beds"
+              },
+              {
+                "question": "13. Which information would the nurse include in patient teaching regarding the lesions of seborrheic keratosis?",
+                "answer": "*They do not become cancerous."
+              },
+              {
+                "question": "14. For which medical condition would the nurse assess in an infant with excessive sweating? Select all that apply.",
+                "answer": [
+                  "*Hypoglycemia",
+                  "*Heart disease",
+                  "*Hyperthyroidism"
+                ]
+              },
+              {
+                "question": "15. Which location would the nurse assess to confirm jaundice in a dark-skinned patient? Select all that apply.",
+                "answer": [
+                  "*Sclera",
+                  "*Hard/soft palate junction",
+                  "*Palms"
+                ]
+              },
+              {
+                "question": "16. Which statement would the nurse expect from a patient diagnosed with folliculitis barbae?",
+                "answer": "\"I like shaving closely with an electric razor.\""
+              },
+              {
+                "question": "17. Which statement would the nurse expect from a patient with a depression straight down the middle of the nail?",
+                "answer": "\"Constantly picking my cuticle is a habit of mine.\""
+              },
+              {
+                "question": "18. Which at-risk person would the nurse screen closely for skin cancer? Select all that apply.",
+                "answer": [
+                  "*Trains for and runs in marathons",
+                  "*Is a farmer",
+                  "*Works as a roofer",
+                  "*Repairs old furniture as a hobby"
+                ]
+              },
+              {
+                "question": "19. Which information would the nurse share with the parents of an infant with a strawberry mark?",
+                "answer": "*This will usually disappear by around age 5 years."
+              },
+              {
+                "question": "20. Which microorganism would cause athlete's foot?",
+                "answer": "*Tinea pedis"
+              },
+              {
+                "question": "21. Which patient assessment would the nurse report as a normal skin finding?",
+                "answer": "*Smooth, firm skin"
+              },
+              {
+                "question": "22. About which condition would the nurse educate a patient wanting a tattoo?",
+                "answer": "*Nontuberculous mycobacterial infections"
+              },
+              {
+                "question": "23. When a patient is devoid of melanin pigment in patchy areas of the skin, which condition would the nurse document?",
+                "answer": "*Vitiligo"
+              },
+              {
+                "question": "24. Which term would the nurse document to describe individual lesions that remain separate from each other?",
+                "answer": "*Discrete"
+              },
+              {
+                "question": "25. Which type of primary lesion would be superficial in the epidermis, more than 1 centimeter in diameter, and rupture easily?",
+                "answer": "*Bulla"
+              },
+              {
+                "question": "26. Which term would the nurse use to describe the white cheesy substance on the neonate's body?",
+                "answer": "*Vernix caseosa"
+              },
+              {
+                "question": "27. Which skin finding present in a newborn would alert the nurse to fetal distress?",
+                "answer": "*Greenish-brown discoloration of the nails and cord"
+              },
+              {
+                "question": "28. Which assessment finding would the nurse expect in an infant diagnosed with milia?",
+                "answer": "*White papules on the cheeks, forehead, nose, and chin"
+              },
+              {
+                "question": "29. Which assessment finding would the nurse observe in a patient diagnosed with hirsutism?",
+                "answer": "*Excessive hair growth on a female's face and chest"
+              },
+              {
+                "question": "30. Which skin assessment would the nurse observe in an older adult patient diagnosed with senile lentigines?",
+                "answer": "*Small, flat brown macules on forearms and hands"
+              },
+              {
+                "question": "31. Which skin finding would the nurse observe in a patient who is pregnant and diagnosed with linea nigra?",
+                "answer": "*Dark brown line down the abdominal midline"
+              },
+              {
+                "question": "32. Which equipment would help detect a fungal infection on the patient's scalp?",
+                "answer": "*Wood's light"
+              },
+              {
+                "question": "33. When a patient diagnosed with psoriasis presents with painful patches on the elbows and knees, for which additional skin finding would the nurse assess?",
+                "answer": "*Silver micalike scales"
+              },
+              {
+                "question": "34. Which abnormal hair condition would motivate the nurse to ask about cancer and chemotherapy treatments?",
+                "answer": "*Toxic alopecia"
+              },
+              {
+                "question": "35. Which sequence would the rash of a child suspected with chickenpox follow?",
+                "answer": "*Starts on the trunk and spreads"
+              },
+              {
+                "question": "36. When a patient diagnosed with herpes zoster presents with a group of painful vesicles, for which additional skin finding would the nurse assess?",
+                "answer": "*Follows route of cutaneous sensory nerve pathways"
+              },
+              {
+                "question": "37. Which statement by the parent would indicate effective learning about preventing diaper rash?",
+                "answer": "\"Change my baby's diapers frequently.\""
+              },
+              {
+                "question": "38. Which assessment finding would reflect a keloid formation at the site of a previous surgery?",
+                "answer": "*Excess scar tissue"
+              },
+              {
+                "question": "39. If the nurse finds the nail base of a patient to be soft, spongy, and at an angle of 180 degrees, for which additional condition would the nurse monitor?",
+                "answer": "*Pulmonary disease"
+              },
+              {
+                "question": "40. In which area would the nurse assess for cherry angiomas?",
+                "answer": "*Torso"
+              },
+              {
+                "question": "41. Which action would be considered a function of the skin? Select all that apply.",
+                "answer": [
+                  "*Regulates body temperature",
+                  "*Prevents invasion of microorganisms",
+                  "*Assists in the production of vitamin D"
+                ]
+              },
+              {
+                "question": "42. Which change in skin tone would the nurse observe in a patient with light skin and diagnosed with anemia?",
+                "answer": "*Generalized pallor"
+              },
+              {
+                "question": "43. When a child diagnosed with eczema presents with severe pruritus and weeping vesicles, for which additional skin finding would the nurse monitor?",
+                "answer": "*Erythematous papules"
+              },
+              {
+                "question": "44. Which treatment strategy would benefit a child with a large, dark red macular patch on the right cheek that darkens when crying or experiencing extreme temperatures?",
+                "answer": "*Photoablation with yellow laser light"
+              },
+              {
+                "question": "45. Which area would the nurse assess to determine the presence of cheilosis?",
+                "answer": "*Mouth"
+              },
+              {
+                "question": "46. Which instruction would the nurse include for a patient who has recurrent raised red wheals and pruritic hives from urticaria?",
+                "answer": "\"Maintain a food diary to identify triggers.\""
+              },
+              {
+                "question": "47. Which statement would indicate a correct understanding of skin structures and functions?",
+                "answer": "\"Epidermis is thin but tough.\""
+              },
+              {
+                "question": "48. Which skin structure would be altered with dryness of the scalp, forehead, face, and chin?",
+                "answer": "*Sebaceous glands"
+              },
+              {
+                "question": "49. Which response would the nurse provide to a parent whose infant has one large, round, light brown patch on the arm?",
+                "answer": "\"That is a café au lait spot.\""
+              },
+              {
+                "question": "50. Which skin disease would the nurse consider when assessing patients with dark skin? Select all that apply.",
+                "answer": [
+                  "*Keloids",
+                  "*Melasma",
+                  "*Pseudofolliculitis"
+                ]
+              },
+              {
+                "question": "51. When a patient diagnosed with onychomycosis presents with nail crumbling and loosening of the nail plate, for which additional finding would the nurse assess?",
+                "answer": "*Greenish discoloration around the nail plate."
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 19: Thorax and Lungs",
+            "id_chapter": "chap19-001",
+            "questions": [
+              {
+                "question": "1. Intercostal spaces are numbered based on which structures?",
+                "answer": "*The ribs present above the spaces."
+              },
+              {
+                "question": "2. Which structure separates the thoracic cavity from the abdomen?",
+                "answer": "*Diaphragm."
+              },
+              {
+                "question": "3. The goblet cells of the lungs serve which purpose?",
+                "answer": "*Entrap small particulate matter."
+              },
+              {
+                "question": "4. Which description of hypercapnia is correct?",
+                "answer": "*Increased carbon dioxide in the blood."
+              },
+              {
+                "question": "5. How many thoracic vertebrae are present in the human body?",
+                "answer": "*12."
+              },
+              {
+                "question": "6. During the chest assessment of a patient, which reference line would the nurse note on the posterior chest wall?",
+                "answer": "*Midspinal."
+              },
+              {
+                "question": "7. Which patient population is most likely to be affected by scoliosis?",
+                "answer": "*Adolescents."
+              },
+              {
+                "question": "8. Which statement is true regarding the right lung?",
+                "answer": "*It is shorter than the left lung."
+              },
+              {
+                "question": "9. Which part of the lungs is assessed on the posterior chest?",
+                "answer": "*All parts of the lower lobes."
+              },
+              {
+                "question": "10. Decreased tactile fremitus is consistent with which diagnosis?",
+                "answer": "*Pleural effusion."
+              },
+              {
+                "question": "11. The nurse is aware that structures at which depth are able to be assessed with percussion?",
+                "answer": "*5 to 7 cm."
+              },
+              {
+                "question": "12. Which statement describes the structure of the lungs?",
+                "answer": "*The right lung is shorter and wider than the left lung."
+              },
+              {
+                "question": "13. Which breath sound would be considered normal? Select all that apply.",
+                "answer": [
+                  "*Bronchial.",
+                  "*Vesicular.",
+                  "*Bronchovesicular."
+                ]
+              },
+              {
+                "question": "14. Which finding would the nurse expect upon auscultating the lung sounds of a patient with heart failure?",
+                "answer": "*Crackles in the lung bases."
+              },
+              {
+                "question": "15. Palpable rhonchal fremitus indicates which condition?",
+                "answer": "*Thick bronchial secretions."
+              },
+              {
+                "question": "16. Which statement precisely describes the 'angle of Louis'?",
+                "answer": "*It is the articulation of the manubrium and the body of the sternum."
+              },
+              {
+                "question": "17. Which statement would be true about the pleura? Select all that apply.",
+                "answer": [
+                  "*Thin, slippery serous membrane.",
+                  "*Pleural cavity normally has negative pressure.",
+                  "*Lies between the lungs and the chest wall."
+                ]
+              },
+              {
+                "question": "18. Which abnormality would the nurse expect in a patient with kyphosis?",
+                "answer": "*An exaggerated posterior curvature of the thoracic spine."
+              },
+              {
+                "question": "19. Which finding is a cause for concern after assessing a patient's respirations?",
+                "answer": "*Interspaces appear to be bulging during expiration."
+              },
+              {
+                "question": "20. Which posterior vertebral landmark is the most prominent spinous process?",
+                "answer": "*Cervical 7."
+              },
+              {
+                "question": "21. Which condition does the nurse attribute the patient's regular breathing rate of eight breaths per minute to?",
+                "answer": "*Drug-induced depression."
+              },
+              {
+                "question": "22. Which finding would the nurse document as normal after auscultation of a toddler's chest for breath sounds?",
+                "answer": "*Bronchovesicular breath sounds in the peripheral lung fields."
+              },
+              {
+                "question": "23. In which location would the nurse auscultate the highest point of the lung on the anterior side of the chest?",
+                "answer": "*3 to 4 cm above the clavicle."
+              },
+              {
+                "question": "24. Which additional muscle would be involved in increasing the size of the thoracic cage during forced inspiration after heavy exercise? Select all that apply.",
+                "answer": [
+                  "*Scaleni.",
+                  "*Trapezii.",
+                  "*Sternomastoids."
+                ]
+              },
+              {
+                "question": "25. Which assessment finding would be expected in a patient with pneumonia?",
+                "answer": "*A lag in the chest expansion."
+              },
+              {
+                "question": "26. Which observation would the nurse expect in a patient with chronic obstructive pulmonary disease (COPD)? Select all that apply.",
+                "answer": [
+                  "*The neck muscles appear to be hypertrophied from overwork.",
+                  "*The patient leans forward with the arms against the knees.",
+                  "*The anteroposterior and transverse diameter are both equal."
+                ]
+              },
+              {
+                "question": "27. Which cause does the nurse suspect for the patient whose cough always occurs in the daytime or early evening, but subsides at night?",
+                "answer": "*Exposure to irritants at work."
+              },
+              {
+                "question": "28. Which sound heard during auscultation of the patient's lungs indicates a small amount of consolidation when the patient whispers a phrase?",
+                "answer": "*The voice will be transmitted clearly, sounding like a whisper into the stethoscope."
+              },
+              {
+                "question": "29. Which finding would the nurse associate with Cheyne-Stokes respiration?",
+                "answer": "*There are periods of apnea between normal breaths."
+              },
+              {
+                "question": "30. Which assessment does the nurse anticipate when they learn in shift report that the patient has Biot's respirations?",
+                "answer": "*Normal breathing interrupted by apnea."
+              },
+              {
+                "question": "31. Which type of cough would the nurse associate with mycoplasma pneumonia?",
+                "answer": "*Hacking."
+              },
+              {
+                "question": "32. Which assessment of the thorax and lungs of an infant would require further investigation?",
+                "answer": "*The respiration causes marked retraction of the sternum."
+              },
+              {
+                "question": "33. Which assessment finding would the nurse identify with a barrel chest? Select all that apply.",
+                "answer": [
+                  "*Chest appears as if held in continuous inspiration.",
+                  "*Ribs appear to be horizontal in relation to the spine.",
+                  "*Anteroposterior diameter is equal to the transverse diameter."
+                ]
+              },
+              {
+                "question": "34. Arrange the following steps to show the order in which lung development takes place from the embryonic stage to the birth of the infant.",
+                "answer": [
+                  "1. Primitive lung bud emerges during fetal life.",
+                  "2. Conducting airways develop as in the adult.",
+                  "3. Surfactant is present in adequate amounts.",
+                  "4. Lungs form about 70 million primitive alveoli.",
+                  "5. Blood supply is detached from the placenta.",
+                  "6. Blood gushes into the pulmonary circulation."
+                ]
+              },
+              {
+                "question": "35. Which is the end result of occasional sighing that punctuates normal breathing?",
+                "answer": "*Alveolar expansion."
+              },
+              {
+                "question": "36. Which structure would the nurse assess when looking at the mediastinum? Select all that apply.",
+                "answer": [
+                  "*Heart.",
+                  "*Trachea.",
+                  "*Esophagus."
+                ]
+              },
+              {
+                "question": "37. Arrange the steps in the order in which the nurse would assess the patient for symmetric chest expansion.",
+                "answer": [
+                  "1. Put the hands sideways on the posterolateral chest wall.",
+                  "2. Have the thumbs meet together at the T9 or T10 level.",
+                  "3. Slide hands medially to pinch the skin between the thumbs.",
+                  "4. Ask the patient to inhale and take a deep breath.",
+                  "5. The nurse notes thumb movement."
+                ]
+              },
+              {
+                "question": "38. Which technique would the nurse use to assess for tactile fremitus?",
+                "answer": "*By placing the palmar base of one hand to touch the patient's chest."
+              },
+              {
+                "question": "39. Which respiratory assessment finding would the nurse report as abnormal for an adult patient?",
+                "answer": "*Respiratory rate is 24 to 30 breaths per minute."
+              },
+              {
+                "question": "40. Which condition does the nurse report to the provider after open thoracic surgery when they note a crackling sensation upon palpating the patient's chest wall?",
+                "answer": "*Crepitus."
+              },
+              {
+                "question": "41. The nurse counsels the pregnant patient to expect which changes in the respiratory system? Select all that apply.",
+                "answer": [
+                  "*The total circumference of the chest cage increases by 6 cm.",
+                  "*There is a decrease in the vertical diameter of the thoracic cage.",
+                  "*The patient has an increased awareness of the need to breathe."
+                ]
+              },
+              {
+                "question": "42. Where would the nurse place the stethoscope to assess the patient's bronchial breath sounds?",
+                "answer": "*Over the trachea and the larynx."
+              },
+              {
+                "question": "43. Which characteristic would be consistent with pectus excavatum? Select all that apply.",
+                "answer": [
+                  "*The patient has a markedly sunken sternum.",
+                  "*The condition is congenital and not symptomatic.",
+                  "*The depression is more noticeable on inspiration."
+                ]
+              },
+              {
+                "question": "44. Which finding would the nurse identify as normal when assessing the chest of an older adult patient?",
+                "answer": "*An outward curvature noted in the thoracic spine."
+              },
+              {
+                "question": "45. Which characteristic would be included in the assessment of breath sounds? Select all that apply.",
+                "answer": [
+                  "*Amplitude.",
+                  "*Pitch.",
+                  "*Quality."
+                ]
+              },
+              {
+                "question": "46. Which abnormality does the nurse suspect when they hear a cracking sound like two pieces of leather rubbing together on auscultation?",
+                "answer": "*Friction rub."
+              },
+              {
+                "question": "47. Which condition does the nurse report a suspicion of when the patient reports coughing up pink, frothy sputum?",
+                "answer": "*Pulmonary edema."
+              },
+              {
+                "question": "48. Which term would the nurse use to document a high-pitched, monophonic, inspiratory crowing sound in a child with acute epiglottitis?",
+                "answer": "*Stridor."
+              },
+              {
+                "question": "49. Which term would the nurse use to document that the patient's breath sounds are similar to opening Velcro?",
+                "answer": "*Coarse crackles."
+              },
+              {
+                "question": "50. Arrange the steps in order as to how the nurse would counsel and encourage the patient to stop smoking two packs of cigarettes a day.",
+                "answer": [
+                  "1. Ask about the status of tobacco use at every visit.",
+                  "2. Give clear and nonjudgmental advice on how to quit.",
+                  "3. Assess the person to determine readiness to quit.",
+                  "4. Assist the person with a specific cessation plan.",
+                  "5. Arrange follow-up visits to check for any relapse."
+                ]
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 20: Heart and Neck Vessels",
+            "id_chapter": "chap20-001",
+            "questions": [
+              {
+                "question": "1. Which term describes the thin layer of endothelial tissue that lines the inner surface of the heart and valves?",
+                "answer": "*Endocardium"
+              },
+              {
+                "question": "2. Which statement describes the pericardium?",
+                "answer": "*Tough, fibrous double-walled sac surrounding the heart"
+              },
+              {
+                "question": "3. Which description of semilunar valves is correct?",
+                "answer": "*Lie between the ventricles and the arteries"
+              },
+              {
+                "question": "4. Which heart sound occurs because of the closure of the semilunar valves?",
+                "answer": "*Second heart sound (S2)"
+              },
+              {
+                "question": "5. Which description of chordae tendineae is correct?",
+                "answer": "*Collagenous fibers that anchor the leaflets of the atrioventricular valves"
+              },
+              {
+                "question": "6. Which statement describes a thrill?",
+                "answer": "*Palpable vibration in the chest"
+              },
+              {
+                "question": "7. Which component of the jugular venous pulse corresponds to the opening of the tricuspid valve?",
+                "answer": "*Y descent"
+              },
+              {
+                "question": "8. Which condition can cause a wide split in the second heart sound?",
+                "answer": "*Right bundle branch block"
+              },
+              {
+                "question": "9. Which statement describes a lift with respect to the cardiovascular system?",
+                "answer": "*Sustained thrust of the ventricle of the heart"
+              },
+              {
+                "question": "10. Which murmur is caused by an obstruction of the flow of blood into the right ventricle?",
+                "answer": "*Diastolic rumble"
+              },
+              {
+                "question": "11. Which method would the nurse use to detect a pericardial friction rub?",
+                "answer": "*Auscultate with the diaphragm of a stethoscope."
+              },
+              {
+                "question": "12. Which term is used to describe the pacemaker of the heart?",
+                "answer": "*Sinoatrial (SA) node"
+              },
+              {
+                "question": "13. Which extra heart sound may occur in early diastole? Select all that apply.",
+                "answer": [
+                  "*Opening snap",
+                  "*Mitral prosthetic valve sound"
+                ]
+              },
+              {
+                "question": "14. Which condition causes the patient to have a diminished first heart sound of S₁ because of more forceful atrial contractions?",
+                "answer": "*Severe hypertension"
+              },
+              {
+                "question": "15. Which action by the nurse is appropriate when a continuous soft, low-pitched sound is auscultated at the medial third of the clavicle of a child?",
+                "answer": "*Document the venous hum and continue with the assessment"
+              },
+              {
+                "question": "16. Which action made by the nurse while palpating the patient's carotid artery needs correction?",
+                "answer": "*Palpating both carotid arteries at once"
+              },
+              {
+                "question": "17. Which disorder would the nurse suspect in a patient whose liver and jugular vein have become enlarged with a soft pansystolic heart murmur which is best heard at the lower right and left sternal borders?",
+                "answer": "*Tricuspid regurgitation"
+              },
+              {
+                "question": "18. Which assessment finding would the nurse document as a sinus arrhythmia?",
+                "answer": "*Pulse that varies with respiration"
+              },
+              {
+                "question": "19. Which assessment finding may be present in a patient with atherosclerosis?",
+                "answer": "*Presence of bruit sound"
+              },
+              {
+                "question": "20. Which statement is correct regarding the position of the heart?",
+                "answer": "*Depends on the age of the patient"
+              },
+              {
+                "question": "21. Which finding would be considered normal in a patient who is pregnant? Select all that apply.",
+                "answer": [
+                  "*Apical impulse sits higher",
+                  "*Increase in loudness of S₁",
+                  "*A slight left axis deviation"
+                ]
+              },
+              {
+                "question": "22. Which intervention would the nurse perform during a cardiac assessment? Select all that apply.",
+                "answer": [
+                  "*Have the patient sit during the carotid artery assessment.",
+                  "*Put the patient in a supine position to assess the precordium.",
+                  "*Maintain a warm room temperature."
+                ]
+              },
+              {
+                "question": "23. Which finding in the cardiac assessment of a middle-aged patient would the nurse consider to be abnormal?",
+                "answer": "*Third heart sound"
+              },
+              {
+                "question": "24. Which type of intensity is characteristic of the first heart sound in the patient who has complete heart block?",
+                "answer": "*Varied"
+              },
+              {
+                "question": "25. Which clinical finding would the nurse observe in the patient with mitral regurgitation? Select all that apply.",
+                "answer": [
+                  "*S₁ is diminished.",
+                  "*S₂ is accentuated.",
+                  "*Apical impulse is observed lower."
+                ]
+              },
+              {
+                "question": "26. Which type of murmur is considered to be innocent?",
+                "answer": "*Grade 2, midsystolic, musical"
+              },
+              {
+                "question": "27. Which other complaint would the nurse expect from a patient with pneumonia who complains of fever, cough, and myalgias?",
+                "answer": "*Stabbing pain located in the chest with a cough on one side"
+              },
+              {
+                "question": "28. Which condition would cause a pathologic S3, or a ventricular gallop? Select all that apply.",
+                "answer": [
+                  "*Anemia",
+                  "*Pregnancy",
+                  "*Hyperthyroidism"
+                ]
+              },
+              {
+                "question": "29. Which patient position would be necessary during a cardiac assessment? Select all that apply.",
+                "answer": [
+                  "*Sitting",
+                  "*Supine",
+                  "*Left lateral recumbent"
+                ]
+              },
+              {
+                "question": "30. Which condition would the nurse suspect in the patient with acute dyspnea and cough who complains of pain in the shoulder and the lateral region of the chest?",
+                "answer": "*Pneumothorax"
+              },
+              {
+                "question": "31. The human heart is found in which location?",
+                "answer": "*Between the second and the fifth intercostal spaces from the right edge of the sternum to the left midclavicular line"
+              },
+              {
+                "question": "32. Which blood vessel drains the blood from the head and upper extremities?",
+                "answer": "*Superior vena cava"
+              },
+              {
+                "question": "33. Which would the nurse assess first in the patient during a regional cardiovascular assessment?",
+                "answer": "*Pulse and blood pressure"
+              },
+              {
+                "question": "34. Which physiologic mechanism causes the first heart sound?",
+                "answer": "*Closing of the mitral valve"
+              },
+              {
+                "question": "35. Which heart rate would be found in a 4-month-old infant with bradycardia?",
+                "answer": "*50"
+              },
+              {
+                "question": "36. Which section of the electrocardiogram (ECG) indicates atrial depolarization?",
+                "answer": "*P wave"
+              },
+              {
+                "question": "37. How would the nurse document a loud heart murmur with a palpable thrill?",
+                "answer": "*4/6"
+              },
+              {
+                "question": "38. Which area is best for auscultating the sound of the mitral valve?",
+                "answer": "*Fifth left intercostal space at the midclavicular line"
+              },
+              {
+                "question": "39. The patient with a pathologic S3 heart sound has which condition?",
+                "answer": "*Decreased compliance of the ventricles"
+              },
+              {
+                "question": "40. Which jugular pulse component reflects ventricular contraction?",
+                "answer": "*C wave"
+              },
+              {
+                "question": "41. Suspicion of which condition prompts the nurse to perform the abdominojugular test?",
+                "answer": "*Heart failure"
+              },
+              {
+                "question": "42. Which assessment finding indicates abnormally elevated pressures in the right side of the heart?",
+                "answer": "*Distended neck veins and abdomen"
+              },
+              {
+                "question": "43. Where would the nurse observe the palpable thrill in the patient with an incompetent tricuspid valve?",
+                "answer": "*Left lower sternal border"
+              },
+              {
+                "question": "44. Which medication would be beneficial for a patient who has an increased risk for having a myocardial infarction?",
+                "answer": "*Aspirin"
+              },
+              {
+                "question": "45. Which finding in the precordium indicates pulmonic hypertension?",
+                "answer": "*Lifting impulse in the left sternal border"
+              },
+              {
+                "question": "46. Which condition is most consistent with the patient reporting a sudden stabbing pain below the sternum, in the upper back, and in the neck with a fever, joint pains, and a dry cough?",
+                "answer": "*Pericarditis"
+              },
+              {
+                "question": "47. Which description of pain by the patient indicates the pain is of pulmonary origin?",
+                "answer": "*Sharp, stabbing pain that worsens with deep breathing and a cough with hemoptysis"
+              },
+              {
+                "question": "48. The nurse suspects which condition in the patient who complains of pain on the right side of the abdomen and right shoulder that is most severe after eating a fatty meal?",
+                "answer": "*Cholecystitis"
+              },
+              {
+                "question": "49. Which condition would the nurse suspect in a child who often has cyanotic episodes while crying, uses the squatting posture during exertion, and the nurse finds that the A₂ sound is louder than P₂ on assessment?",
+                "answer": "*Tetralogy of Fallot"
+              },
+              {
+                "question": "50. Which diagnosis does the nurse anticipate in an adolescent patient who reports lower-extremity cramping during exercise, has diminished femoral pulses, and the upper-extremity blood pressure is 130/74 mm Hg while the lower-extremity blood pressure is 108/62 mm Hg?",
+                "answer": "*Coarctation of the aorta"
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 22: Abdomen",
+            "id_chapter": "chap22-001",
+            "questions": [
+              {
+                "question": "1. Which organ would be located in all four quadrants of the abdomen?",
+                "answer": "*Small intestine"
+              },
+              {
+                "question": "2. Which soft, lobulated gland would be located behind the stomach?",
+                "answer": "*Pancreas"
+              },
+              {
+                "question": "3. Which feature would be specific to the right kidney?",
+                "answer": "*May be palpable"
+              },
+              {
+                "question": "4. Which finding would the nurse relate to Cushing syndrome during an assessment?",
+                "answer": "*Purple-blue striae"
+              },
+              {
+                "question": "5. Which cause would be associated with a marked visible peristalsis?",
+                "answer": "*Intestinal obstruction"
+              },
+              {
+                "question": "6. Which condition would the nurse anticipate when auscultating diminished bowel sounds?",
+                "answer": "*Subsiding paralytic ileus"
+              },
+              {
+                "question": "7. Which initial intervention would the nurse perform to confirm the position of the patient’s feeding tube prior to using it for the first time?",
+                "answer": "*Obtain a chest x-ray"
+              },
+              {
+                "question": "8. Which possible cause would be associated with a scaphoid-shaped abdomen in a 4-year-old patient?",
+                "answer": "*Dehydration."
+              },
+              {
+                "question": "9. Which medium to low-pitch systolic sound would the nurse hear when auscultating between the xiphoid process and the umbilicus?",
+                "answer": "*Bruits"
+              },
+              {
+                "question": "10. Which observation would the nurse associate with abdominal pain related to peritonitis?",
+                "answer": "*Absolute stillness"
+              },
+              {
+                "question": "11. Arrange in correct order the sequence the nurse would follow to assess the abdomen of a patient.",
+                "answer": [
+                  "1. Inspection",
+                  "2. Auscultation",
+                  "3. Percussion",
+                  "4. Palpation"
+                ]
+              },
+              {
+                "question": "12. Which specific abdominal assessment would the nurse perform to confirm rebound tenderness?",
+                "answer": "*Blumberg sign"
+              },
+              {
+                "question": "13. Which condition would cause the stool to be gray in color?",
+                "answer": "*Presence of hepatitis"
+              },
+              {
+                "question": "14. Which finding would the nurse document after inspecting the abdomen of a patient with obesity?",
+                "answer": "*Uniformly rounded with sunken umbilicus"
+              },
+              {
+                "question": "15. Which finding would be consistent with sudden onset of severe colicky pain in the lower abdomen?",
+                "answer": "*Kidney stones"
+              },
+              {
+                "question": "16. While assessing a patient with abdominal distention, the nurse observes the shape of the abdomen is like a single round curve. During palpation, the nurse detects a muscle spasm of the abdominal wall. Which factor would be the likely cause of the abdominal distention?",
+                "answer": "*Air"
+              },
+              {
+                "question": "17. Which condition would the nurse suspect after the patient reports a dull pain in the right upper quadrant (RUQ) of the abdomen, along with malaise, anorexia, and nausea?",
+                "answer": "*Hepatitis"
+              },
+              {
+                "question": "18. Which condition would be indicative of rebound tenderness in the abdomen?",
+                "answer": "*Appendicitis"
+              },
+              {
+                "question": "19. Which condition would correlate with an increased abdominal girth with tympany at the top of the abdomen during percussion?",
+                "answer": "*Ascites"
+              },
+              {
+                "question": "20. Which stool color would be expected in a patient taking an iron supplement?",
+                "answer": "*Nontarry black stool"
+              },
+              {
+                "question": "21. Which intervention would the nurse perform to assess the symmetry of the patient’s abdomen?",
+                "answer": "*Shine a light lengthwise across the patient."
+              },
+              {
+                "question": "22. Which test would the nurse perform to assess a patient with suspected appendicitis pain?",
+                "answer": "*Iliopsoas muscle"
+              },
+              {
+                "question": "23. Which technique would the nurse be performing when placing the stethoscope over the xiphoid process while lightly stroking the patient’s skin with one finger up the midclavicular line from the right lower quadrant (RLQ)?",
+                "answer": "*Scratch test"
+              },
+              {
+                "question": "24. Which quadrant would the nurse assess in a patient who is pregnant for pain related to appendicitis?",
+                "answer": "*Right lower quadrant (RLQ)"
+              },
+              {
+                "question": "25. Which abdominal characteristic would be considered normal in the assessment of a 3-year-old child?",
+                "answer": "*Protuberant"
+              },
+              {
+                "question": "26. Which problem would the nurse expect in a patient diagnosed with dysphagia?",
+                "answer": "*Difficulty in swallowing"
+              },
+              {
+                "question": "27. Which characteristic would help the nurse distinguish involuntary muscle rigidity?",
+                "answer": "*Constantly feels hard"
+              },
+              {
+                "question": "28. Which statement by the new nurse would require correction regarding splenomegaly?",
+                "answer": "\"The spleen would be continuously palpated.\""
+              },
+              {
+                "question": "29. Which internal organ would constitute the solid viscera? Select all that apply.",
+                "answer": [
+                  "*Liver",
+                  "*Ovaries",
+                  "*Kidneys"
+                ]
+              },
+              {
+                "question": "30. Which term would the nurse use to document the palpation of a small fatty nodule through the linea alba on the abdomen when the patient is standing?",
+                "answer": "*Epigastric hernia"
+              },
+              {
+                "question": "31. Which clinical manifestation would be present on the abdomen of a patient diagnosed with ascites?",
+                "answer": "*Everted umbilicus"
+              },
+              {
+                "question": "32. Which statement by a new nurse regarding the assessment of bowel sounds would require correction?",
+                "answer": "\"It is imperative to listen to bowel sounds in all four quadrants.\""
+              },
+              {
+                "question": "33. Which intervention would the nurse perform to determine Murphy sign?",
+                "answer": "*Ask the patient to take a deep breath while holding the fingers under the liver border."
+              },
+              {
+                "question": "34. Which organ would be located in the right upper quadrant (RUQ)? Select all that apply.",
+                "answer": [
+                  "*Liver",
+                  "*Gallbladder",
+                  "*Duodenum"
+                ]
+              },
+              {
+                "question": "35. Which diagnosis would be consistent with right lower quadrant (RLQ) pain and an Alvarado score of 8?",
+                "answer": "*Appendicitis"
+              },
+              {
+                "question": "36. Which condition would the nurse suspect after assessing a patient who reports sudden pain in the right upper quadrant (RUQ) that radiates to the scapula, nausea with vomiting, and recently eating a fatty meal?",
+                "answer": "*Cholecystitis"
+              },
+              {
+                "question": "37. Which feature of the spleen would be considered normal? Select all that apply.",
+                "answer": [
+                  "*Lies under the diaphragm.",
+                  "*Lies parallel to the tenth rib.",
+                  "*Is a soft mass of lymphatic tissue."
+                ]
+              },
+              {
+                "question": "38. Which assessment finding, in addition to abdominal pain within 1 hour after a meal, would confirm the diagnosis of gastroesophageal reflux disease (GERD)? Select all that apply.",
+                "answer": [
+                  "*Increased pain while bending over.",
+                  "*Aggravation of pain when lying down.",
+                  "*Sensation of burning pain in the midepigastrium."
+                ]
+              },
+              {
+                "question": "39. Prior to discharging an infant diagnosed with an umbilical hernia, which information would the nurse offer the parents? Select all that apply.",
+                "answer": [
+                  "\"Hernias usually resolve within a year.\"",
+                  "\"Do not affix a belt or a coin at the hernia site.\"",
+                  "\"The hernia is accentuated with coughing.\""
+                ]
+              },
+              {
+                "question": "40. Which intervention would the nurse perform while examining the abdomen? Select all that apply.",
+                "answer": [
+                  "*Place a pillow under the head and the knees.",
+                  "*Ask the patient to maintain a supine position.",
+                  "*Obtain the abdominal history during palpation."
+                ]
+              },
+              {
+                "question": "41. Which pain assessment finding would be expected in a patient diagnosed with irritable bowel syndrome (IBS)? Select all that apply.",
+                "answer": [
+                  "*Brought on after meals.",
+                  "*Described as cramping pains.",
+                  "*Relieved by bowel movements."
+                ]
+              },
+              {
+                "question": "42. Which finding during assessment of a newborn's umbilical cord would be cause for concern?",
+                "answer": "*One artery and one vein."
+              },
+              {
+                "question": "43. Which finding during the abdominal assessment of a newborn would require further investigation?",
+                "answer": "*Venous hum"
+              },
+              {
+                "question": "44. Which condition during auscultation would be associated with a very loud splash in the upper abdomen of an infant being rocked from side to side?",
+                "answer": "*Pyloric obstruction"
+              },
+              {
+                "question": "45. Which condition would the nurse suspect when noting a friction rub while auscultating over the lower right rib cage?",
+                "answer": "*Abscess in the liver"
+              },
+              {
+                "question": "46. Which intervention would the nurse perform while auscultating the abdomen of a patient?",
+                "answer": "*Auscultate using the diaphragm endpiece."
+              },
+              {
+                "question": "47. Which finding during an abdominal assessment would the nurse associate with mononucleosis?",
+                "answer": "*Spleen feeling soft with rounded edges."
+              },
+              {
+                "question": "48. Which characteristic would help the nurse differentiate an enlarged kidney from an enlarged spleen?",
+                "answer": "*Percussion is tympanitic."
+              },
+              {
+                "question": "49. Which characteristic would the nurse expect when assessing the abdomen of a patient diagnosed with chronic emphysema?",
+                "answer": "*Liver appears to be displaced downward."
+              },
+              {
+                "question": "50. For which aspect would the nurse monitor to evaluate gastrointestinal motility in the post-abdominal surgical patient? Select all that apply.",
+                "answer": [
+                  "*Flatus",
+                  "*Bowel movements"
+                ]
+              },
+              {
+                "question": "51. Arrange the steps of the shifting dullness test in the proper sequence to assess the fluid level in a patient with ascites.",
+                "answer": [
+                  "1. Assist the patient to a supine position.",
+                  "2. Percuss over the top of the abdomen.",
+                  "3. Percuss down the side of the abdomen.",
+                  "4. Mark the spot when tympany changes to dull.",
+                  "5. Turn the patient to the right.",
+                  "6. Percuss the left side of the abdomen.",
+                  "7. Percuss downward to the right side.",
+                  "8. Mark the second spot when tympany changes to dull."
+                ]
+              },
+              {
+                "question": "52. Arrange the steps of the fluid wave test in the order the nurse would implement them.",
+                "answer": [
+                  "1. The patient is assisted to a supine position.",
+                  "2. The nurse stands on the patient's right side.",
+                  "3. The patient places a hand firmly on the midline of the abdomen.",
+                  "4. The nurse places the left hand on the patient's right flank.",
+                  "5. The nurse strikes the patient's left flank with the right hand."
+                ]
+              },
+              {
+                "question": "53. Which clinical manifestation would be expected if a patient with lactose intolerance consumes milk products? Select all that apply.",
+                "answer": [
+                  "*Bloating",
+                  "*Flatulence",
+                  "*Abdominal discomfort"
+                ]
+              },
+              {
+                "question": "54. During the assessment of a teenager, which finding would the nurse associate with anorexia nervosa? Select all that apply.",
+                "answer": [
+                  "*Eagerness to lose weight",
+                  "*Tries to induce vomiting",
+                  "*Appears to be extremely thin"
+                ]
+              },
+              {
+                "question": "55. Arrange the steps in the correct sequence the nurse would inspect the contour of the abdomen.",
+                "answer": [
+                  "1. Stand on the person’s right side.",
+                  "2. Look down on the abdomen.",
+                  "3. Maintain a stooping position or sit.",
+                  "4. Gaze across the abdomen.",
+                  "5. Determine the abdominal profile."
+                ]
+              },
+              {
+                "question": "56. Which assessment finding would the nurse associate with malnutrition? Select all that apply.",
+                "answer": [
+                  "*Poor skin turgor",
+                  "*Scaphoid abdomen",
+                  "*Visible abdominal veins"
+                ]
+              },
+              {
+                "question": "57. Which information would the nurse offer an aging adult to help prevent constipation? Select all that apply.",
+                "answer": [
+                  "\"Do not retain stool deliberately.\"",
+                  "\"Participate in physical exercise.\"",
+                  "\"Drink an adequate quantity of water.\""
+                ]
+              },
+              {
+                "question": "58. Which consideration would the nurse remember when preparing for an abdominal examination? Select all that apply.",
+                "answer": [
+                  "*Keep the room warm.",
+                  "*Ask the patient to empty their bladder."
+                ]
+              },
+              {
+                "question": "59. Which change in the gastrointestinal system would be associated with aging? Select all that apply.",
+                "answer": [
+                  "*Decreased liver size",
+                  "*Decreased sense of taste",
+                  "*Impaired drug metabolism"
+                ]
+              },
+              {
+                "question": "60. Which assessment finding would the nurse relate to the presence of a large ovarian cyst found during a patient's abdominal examination? Select all that apply.",
+                "answer": [
+                  "*Presence of an everted umbilicus",
+                  "*Transmission of aortic pulsation on palpation",
+                  "*Presence of a curve in the lower half of the abdomen"
+                ]
+              },
+              {
+                "question": "61. Which characteristic of pain would the nurse relate to a duodenal ulcer? Select all that apply.",
+                "answer": [
+                  "*Dull, aching, and gnawing",
+                  "*Relieved after food intake",
+                  "*Awakens the person from sleep"
+                ]
+              },
+              {
+                "question": "62. Which assessment finding, in addition to abdominal pain within 1 hour after a meal, would confirm the diagnosis of gastroesophageal reflux disease (GERD)? Select all that apply.",
+                "answer": [
+                  "*Increased pain while bending over",
+                  "*Aggravation of pain when lying down",
+                  "*Sensation of burning pain in the midepigastrium"
+                ]
+              },
+              {
+                "question": "63. Which assessment finding would the nurse document in a patient diagnosed with an aortic aneurysm?",
+                "answer": "*Bruit on auscultation"
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 23: Anus, Rectum, and Prostate",
+            "id_chapter": "chap23-001",
+            "questions": [
+              {
+                "question": "1. Which disease would be associated with hard, non-tender Heberden and Bouchard nodules?",
+                "answer": "*Osteoarthritis."
+              },
+              {
+                "question": "2. Which test would help assess a flexion deformity of the patient's hip?",
+                "answer": "*Thomas."
+              },
+              {
+                "question": "3. Which condition would involve the accumulation of sodium urate crystals in the joint space?",
+                "answer": "*Tophi with chronic gout."
+              },
+              {
+                "question": "4. Which joint would facilitate pronation and supination movements of the hand and the forearm?",
+                "answer": "*Radioulnar."
+              },
+              {
+                "question": "5. Which structure would connect the knee joint at both sides and prevent its dislocation?",
+                "answer": "*Collateral ligaments."
+              },
+              {
+                "question": "6. Which complication would occur when the blood supply to the femoral epiphysis is decreased?",
+                "answer": "*Legg-Calvé-Perthes syndrome."
+              },
+              {
+                "question": "7. Which information regarding synovial joints would be correct?",
+                "answer": "*Freely movable and lined with synovial."
+              },
+              {
+                "question": "8. The neonate is found to have limited range of motion of the arm with a unilateral Moro reflex upon palpation of the anterior thorax between the shoulder and the neck. Based on this, you would suspect which condition?",
+                "answer": "*Fractured clavicle."
+              },
+              {
+                "question": "9. If an older adult patient reports pain and swelling at the base of the thumb, which test would the nurse perform to further assess for carpal tunnel?",
+                "answer": "*Tinel."
+              },
+              {
+                "question": "10. If a patient has fair muscle strength and the muscles are at 50% normal condition, which grade of muscle strength would the nurse assign?",
+                "answer": "*3."
+              },
+              {
+                "question": "11. If the patient with impaired hand function has chronic hyperplasia of the palmar fascia, which diagnosis would the nurse anticipate?",
+                "answer": "*Dupuytren contracture."
+              },
+              {
+                "question": "12. While assessing the muscles around the wrist joint of a patient, the nurse finds full range of motion against gravity and some resistance. Which grade would the nurse document in the patient's medical record?",
+                "answer": "*4."
+              },
+              {
+                "question": "13. Which condition would involve the distal part of the great toe being directed away from the body's midline?",
+                "answer": "*Hallux valgus."
+              },
+              {
+                "question": "14. Which instruction would the nurse provide the patient to assess the trigeminal nerve?",
+                "answer": "*Move the jaw forward and laterally."
+              },
+              {
+                "question": "15. Which characteristic feature would indicate a positive Allis sign?",
+                "answer": "*Presence of one knee lower than the other."
+              },
+              {
+                "question": "16. Which instruction would the nurse provide the patient to assess the integrity of the spinal accessory nerve (cranial nerve XI)?",
+                "answer": "*Shrug the shoulders."
+              },
+              {
+                "question": "17. Which characteristic feature would the nurse observe in a child diagnosed with pigeon toes?",
+                "answer": "*Walking on the lateral side of the foot."
+              },
+              {
+                "question": "18. Which finding would the nurse expect in a patient with tophi from chronic gout?",
+                "answer": "*Swollen toe joints with chalky discharge."
+              },
+              {
+                "question": "19. Which finding would be consistent with Down syndrome?",
+                "answer": "*Simian crease."
+              },
+              {
+                "question": "20. The patient diagnosed with kyphosis reports constant pain and stiffness in the lower back, buttocks, and legs. Upon palpation of the paravertebral muscles, the nurse notes muscle spasms and tenderness. Based on these assessment findings, the nurse would anticipate which diagnostic test to be ordered?",
+                "answer": "*Ankylosing spondylitis."
+              },
+              {
+                "question": "21. The older adult complains of stiffness in the right knee and severe pain with ambulation. Upon the nurse's assessment, the nurse notes a bony protuberance on the right knee joint. The nurse would anticipate which diagnosis.",
+                "answer": "*Osteoarthritis."
+              },
+              {
+                "question": "22. When the knees or the medial malleoli are adducted (together), which assessment finding would suggest genu varum?",
+                "answer": "*3 cm between the knees."
+              },
+              {
+                "question": "23. Which clinical manifestation would the nurse expect in a patient diagnosed with fibromyalgia? (Select all that apply)",
+                "answer": "*Pain of the paraspinal muscles."
+              },
+              {
+                "question": "24. Cartilage serves which function in the body? Select all that apply.",
+                "answer": [
+                  "*Cushioning the bone",
+                  "*Providing stability",
+                  "*Covering the surface for the bone",
+                  "*Smoothing the surface of the bone"
+                ]
+              },
+              {
+                "question": "25. Which food could the nurse include in the patient's diet to increase calcium levels? Select all that apply.",
+                "answer": [
+                  "*Milk",
+                  "*Yogurt",
+                  "*Cheese"
+                ]
+              },
+              {
+                "question": "26. Which assessment finding would indicate inflammation of the knee joint?",
+                "answer": "*The joint feels warm to the touch."
+              },
+              {
+                "question": "27. Which test would the nurse perform to further evaluate the knee of a patient with a history of knee injury reporting local pain in the knee?",
+                "answer": "*McMurray."
+              },
+              {
+                "question": "28. The nurse would perform the 'get up and go test' on a geriatric patient to assess for which condition?",
+                "answer": "*Risk of falls."
+              },
+              {
+                "question": "29. For which condition would the nurse assess Lasegue's test by palpating the anterior thigh 10 cm from the patella and proceeding distally toward the knee?",
+                "answer": "*Quadriceps muscle atrophy."
+              },
+              {
+                "question": "30. When the patient has experienced axial skeletal pain for 4 months and reports confusion, forgetfulness, insomnia, and fatigue, the nurse would suspect which diagnosis?",
+                "answer": "*Fibromyalgia syndrome."
+              },
+              {
+                "question": "31. The nurse feels a click during the McMurray test in a patient with knee swelling. The nurse would expect further testing to reveal injury to which structure?",
+                "answer": "*Meniscus."
+              },
+              {
+                "question": "32. Which clinical manifestation would be associated with rheumatoid arthritis? Select all that apply.",
+                "answer": [
+                  "*Fatigue",
+                  "*Weight loss",
+                  "*Low-grade fever"
+                ]
+              },
+              {
+                "question": "33. Which instruction would the nurse provide the patient when performing the Phalen test?",
+                "answer": "*Press the backs of your hands together and hold them there for 60 seconds."
+              },
+              {
+                "question": "34. Which type of injury would strain the lateral ligament of the knee?",
+                "answer": "*Trauma to the outside of the knee."
+              },
+              {
+                "question": "35. Which condition would the nurse expect in a patient on bed rest for a month?",
+                "answer": "*Adhesive capsulitis."
+              },
+              {
+                "question": "36. When the nurse instructs the patient in the supine position to raise each leg and extend their knee, which body part would be the focus of the assessment?",
+                "answer": "*Hips."
+              },
+              {
+                "question": "37. Which characteristic would place the patient at high risk of developing acute gout? Select all that apply.",
+                "answer": [
+                  "*Metabolic syndrome",
+                  "*Increased body weight"
+                ]
+              },
+              {
+                "question": "38. The patient reports numbness on one side of the spine and decreased function of the left leg. The physical examination has identified a tingling sensation in the left leg. To assess the patient's spinal condition and to observe the reaction of the fascial tracts and paraspinal muscles of the spine, which test would the nurse use to further assess this condition?",
+                "answer": "*Lasegue."
+              },
+              {
+                "question": "39. Which test would the nurse perform to detect the presence of fluid inside the knee joint? Select all that apply.",
+                "answer": [
+                  "*Bulge sign",
+                  "*Ballottement"
+                ]
+              },
+              {
+                "question": "40. The patient has a lateral curve of the thoracic and lumbar segments of the spine. While assisting the patient to a sitting position, the nurse notices the curve disappears. Which additional assessment finding would the nurse anticipate?",
+                "answer": "*Difference in the length of the legs."
+              },
+              {
+                "question": "41. The patient reports redness, swelling, and painful motion of the knee and ankle joints. Crepitation is noted upon palpation of the affected joints. Which condition would the nurse suspect?",
+                "answer": "*Rheumatoid arthritis."
+              },
+              {
+                "question": "42. The patient states, 'My knee does not really hurt in the morning, but by the afternoon, I can hardly walk because of the pain.' The nurse would anticipate which diagnosis?",
+                "answer": "*Osteoarthritis."
+              },
+              {
+                "question": "43. The obese patient complains of a continuous, throbbing pain in the foot. Upon assessment, the nurse notes swelling and redness in the patient's foot. The patient's lab results reveal increased uric acid levels in the blood. The nurse would anticipate which diagnosis?",
+                "answer": "*Acute gout."
+              },
+              {
+                "question": "44. Flexion of which joint would indicate boutonnière deformity?",
+                "answer": "*Proximal interphalangeal."
+              },
+              {
+                "question": "45. The patient’s anterior knee is swollen, red, shiny, and tender. Upon assessment, the nurse finds the patient’s range of motion to be normal and would suspect which condition?",
+                "answer": "*Prepatellar bursitis."
+              },
+              {
+                "question": "46. A parent explains, 'My daughter does not stand properly because of a difference in the length of her legs.' Which additional finding would support the nurse's suspicion of structural scoliosis?",
+                "answer": "*Humping of the ribs on one side while bending."
+              },
+              {
+                "question": "47. The patient complains of pain, redness, and a burning sensation in the elbow joint. Upon palpation, the nurse finds the joint to be soft and spongy. Which diagnosis would the nurse anticipate?",
+                "answer": "*Gouty arthritis."
+              },
+              {
+                "question": "48. Which information would the nurse include in the teaching plan regarding the occurrence of osteoporosis? Select all that apply.",
+                "answer": [
+                  "*Postmenopausal females are most frequently affected.",
+                  "*Vitamin D deficiency contributes to the development.",
+                  "*It occurs as a result of calcium deficiency."
+                ]
+              },
+              {
+                "question": "49. If the infant with unequal gluteal folds has a positive Ortolani sign and Allis test, which other findings would the nurse anticipate? Select all that apply.",
+                "answer": [
+                  "*Limited abduction of the thighs.",
+                  "*Difference in length of the limbs.",
+                  "*Less flexibility on the affected side."
+                ]
+              },
+              {
+                "question": "50. Which assessment finding would be consistent with tibial torsion? Select all that apply.",
+                "answer": [
+                  "*The lateral malleolus is anterior to the medial malleolus.",
+                  "*Lateral rotation of the tibia is more than 20 degrees of deviation."
+                ]
+              },
+              {
+                "question": "51. Which intervention would help a patient prevent osteoporosis? Select all that apply.",
+                "answer": [
+                  "*Encourage the patient to walk fast.",
+                  "*Instruct the patient to avoid smoking.",
+                  "*Encourage the patient to exercise regularly."
+                ]
+              },
+              {
+                "question": "52. During the drop arm test, the patient's arm falls to a neutral position. Which other clinical manifestations would the nurse anticipate? Select all that apply.",
+                "answer": [
+                  "*Pain during abduction.",
+                  "*Limited range of motion.",
+                  "*Difficulty reaching overhead.",
+                  "*Muscle spasm during abduction."
+                ]
+              },
+              {
+                "question": "53. Which condition would result in a decrease in the height of aging individuals? Select all that apply.",
+                "answer": [
+                  "*Loss of bone matrix.",
+                  "*Thinning of intervertebral discs.",
+                  "*Decrease in the height of individual vertebrae."
+                ]
+              },
+              {
+                "question": "54. The patient reports numbness on one side of the leg and decreased function of the left leg. During the physical exam, the patient has lateral tilting and rotation of the spine. Which test would the nurse use to further assess this patient?",
+                "answer": "*Lasegue."
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 24: Neurological Assessment",
+            "id_chapter": "chap24-001",
+            "questions": [
+              {
+                "question": "1. Which aspect would be the major function of the glossopharyngeal nerve?",
+                "answer": "*Swallowing and gagging"
+              },
+              {
+                "question": "2. Which type of basic reflex would include pupillary response to light and accommodation?",
+                "answer": "*Visceral"
+              },
+              {
+                "question": "3. Which condition would cause stiff extension of the upper and lower extremities, clenching of the teeth, and hyperextension?",
+                "answer": "*Lesion in the upper pons"
+              },
+              {
+                "question": "4. Which condition would be characteristic of a lower motor neuron lesion? Select all that apply.",
+                "answer": [
+                  "*Fasciculation",
+                  "*Muscular atrophy"
+                ]
+              },
+              {
+                "question": "5. Degeneration of which structure would the nurse suspect in the patient with resting tremors, abnormally slow movement, flat expression, reduced eye blinking, and slouched posture?",
+                "answer": "*Dopamine-producing neurons"
+              },
+              {
+                "question": "6. The presence of which pathologic reflex would prompt the nurse to suspect meningeal irritation? Select all that apply.",
+                "answer": [
+                  "*Kernig",
+                  "*Brudzinski"
+                ]
+              },
+              {
+                "question": "7. If a patient reports a loss of pain and temperature sensation in the right lumbar region and has also lost the sensations of vibration and position discrimination on the left side of the lumbar region, which diagnosis would the nurse anticipate?",
+                "answer": "*Brown-Séquard syndrome"
+              },
+              {
+                "question": "8. The reflex arc would consist of which structures? Select all that apply.",
+                "answer": [
+                  "*Sensory nerve",
+                  "*Motor nerve",
+                  "*Neuromuscular junction"
+                ]
+              },
+              {
+                "question": "9. Which assessment would indicate the patient is in the tonic phase of a generalized seizure? Select all that apply.",
+                "answer": [
+                  "*Bites the tongue",
+                  "*Opening of the mouth and the eyes"
+                ]
+              },
+              {
+                "question": "10. Patients with which condition would be at an increased risk of hemorrhagic stroke?",
+                "answer": "*Hemophilia"
+              },
+              {
+                "question": "11. The nurse observes a palmar grasp reflex in an 8-month-old infant and would anticipate which diagnosis?",
+                "answer": "*Frontal lobe lesion"
+              },
+              {
+                "question": "12. The patient with multiple sclerosis would experience sequelae because of demyelination of which cranial nerve? Select all that apply.",
+                "answer": [
+                  "*II",
+                  "*III"
+                ]
+              },
+              {
+                "question": "13. Which factor would result in the absence of corneal, abdominal, and cremasteric reflexes on the right side of the patient's body with spastic paralysis on the left side of the body?",
+                "answer": "*Damage to the corticospinal tract"
+              },
+              {
+                "question": "14. The patient reports a sudden and severe throbbing headache and right arm weakness, and the nurse notes facial drooping and stuttered speech. When magnetic resonance imaging (MRI) reveals the development of an atherosclerotic plaque in the middle cerebral artery, the nurse would anticipate the diagnosis of which type of stroke?",
+                "answer": "*Thrombotic"
+              },
+              {
+                "question": "15. If a patient is experiencing a generalized seizure with tachycardia and violent muscular contractions, which subsequent clinical manifestations would the nurse expect following the seizure? Select all that apply.",
+                "answer": [
+                  "*Confusion",
+                  "*Disorientation"
+                ]
+              },
+              {
+                "question": "16. A lesion in which part of the brain would be suspected in the patient displaying decorticate posturing?",
+                "answer": "*Cerebral hemispheres"
+              },
+              {
+                "question": "17. For which condition would the nurse assess in the patient who is unable to recognize the smell of coffee? Select all that apply.",
+                "answer": [
+                  "*Sinusitis",
+                  "*Allergic rhinitis",
+                  "*Fracture of the cribriform plate"
+                ]
+              },
+              {
+                "question": "18. Patients with which condition would be at risk of peripheral neuropathy? Select all that apply.",
+                "answer": [
+                  "*Diabetes mellitus",
+                  "*Nutritional deficiency"
+                ]
+              },
+              {
+                "question": "19. Which clinical manifestation would point to a diagnosis of Alzheimer disease? Select all that apply.",
+                "answer": [
+                  "*Mood swings",
+                  "*Disorientation",
+                  "*Loss of initiative"
+                ]
+              },
+              {
+                "question": "20. Which cranial nerve would the nurse assess by touching a cotton wisp to the patient's forehead, cheeks, and chin?",
+                "answer": "*V"
+              },
+              {
+                "question": "21. Which test would help screen the gross and fine motor coordination skills of a child?",
+                "answer": "*Denver II"
+              },
+              {
+                "question": "22. Which lobe of the brain would be associated with personality and intellectual functioning?",
+                "answer": "*Frontal"
+              },
+              {
+                "question": "23. Which response to the brachioradialis reflex test would be documented as normal?",
+                "answer": "*Flexion and supination of the forearm"
+              },
+              {
+                "question": "24. Which percentage of the population would have a dominant left hemisphere, including those who are left-handed?",
+                "answer": "*95%"
+              },
+              {
+                "question": "25. Which lobe of the brain would be associated with language comprehension?",
+                "answer": "*Temporal"
+              },
+              {
+                "question": "26. Which reflex would help the nurse assess the functioning of cranial nerve VIII (vestibulocochlear nerve) in an infant?",
+                "answer": "*Acoustic blink"
+              },
+              {
+                "question": "27. Which component of the central nervous system would carry the sensations of pain and temperature?",
+                "answer": "*Anterolateral tract"
+              },
+              {
+                "question": "28. In which location would the nurse test a patient's superficial reflex?",
+                "answer": "*Sole of the foot"
+              },
+              {
+                "question": "29. Which test would involve placing a paper clip in the palm of a patient whose eyes are closed and asking them to recognize the object?",
+                "answer": "*Stereognosis"
+              },
+              {
+                "question": "30. In which manner would an adult patient normally respond to the plantar reflex?",
+                "answer": "*Flexing the toes"
+              },
+              {
+                "question": "31. In which patient would the nurse expect a palmar grasp reflex and a positive Babinski reflex?",
+                "answer": "*Infant"
+              },
+              {
+                "question": "32. Which complication would be present in a patient with crossed knees, fatigue, nystagmus, and diplopia, and who is unable to maintain balance with the eyes closed?",
+                "answer": "*Multiple sclerosis"
+              },
+              {
+                "question": "33. If a patient presents with prolonged arching of the back with the head and heels bent backward, which condition would the nurse suspect?",
+                "answer": "*Meningeal irritation"
+              },
+              {
+                "question": "34. The patient with receptive aphasia would have lost which ability?",
+                "answer": "*Understand language"
+              },
+              {
+                "question": "35. If the patient's deep tendon reflexes are very brisk and hyperactive with clonus, which grade would the nurse document?",
+                "answer": "*4+"
+              },
+              {
+                "question": "36. Which finding would the nurse observe in a patient with flaccid quadriplegia? Select all that apply.",
+                "answer": [
+                  "*Complete loss of muscle tone",
+                  "*Paralysis of all four extremities"
+                ]
+              },
+              {
+                "question": "37. Which instruction would the nurse offer the patient when performing the Romberg test?",
+                "answer": "\"Stand with your feet together and eyes closed.\""
+              },
+              {
+                "question": "38. Which assessment would be included in the Glasgow Coma Scale? Select all that apply.",
+                "answer": [
+                  "*Eye opening",
+                  "*Verbal response",
+                  "*Motor response"
+                ]
+              },
+              {
+                "question": "39. A patient with a Glasgow Coma Scale (GCS) score of 3 would be in which condition?",
+                "answer": "*Comatose"
+              },
+              {
+                "question": "40. The patient diagnosed with cerebellar damage would likely experience a change in which characteristic?",
+                "answer": "*Voluntary movements"
+              },
+              {
+                "question": "41. With the eyes closed if the patient is unable to identify a key placed in their hand by touching it, which term would the nurse use to document this finding?",
+                "answer": "*Astereognosis"
+              },
+              {
+                "question": "42. The nurse asks the patient to stand straight with the eyes closed and to stretch out both arms with the palms facing up and to hold that position. If the patient's left palm starts turning downward within 10 seconds, though the patient can hold the right hand steady, which condition would the nurse suspect?",
+                "answer": "*Pronator drift"
+              },
+              {
+                "question": "43. Which reflex, if present in a 6-month-old infant, would prompt the nurse to immediately refer the patient to the provider?",
+                "answer": "*Moro"
+              },
+              {
+                "question": "44. Which disorder would the nurse suspect in the patient who cannot touch the tip of the nose with the forefinger and loses balance when the eyes are closed?",
+                "answer": "*Cerebellar dysfunction"
+              },
+              {
+                "question": "45. If, upon transillumination, the serous fluid in a patient's scrotum has a red glow, which medical condition would be suspected?",
+                "answer": "*Hydrocele"
+              },
+              {
+                "question": "46. To determine hesitancy during urination, which question would the nurse ask?",
+                "answer": "*Do you have any trouble starting the urine stream?"
+              },
+              {
+                "question": "47. Which structure would be considered erectile tissue in males?",
+                "answer": "*Corpora cavernosa"
+              },
+              {
+                "question": "48. Which finding would be expected in a patient diagnosed with a urinary tract infection who reports painful urination?",
+                "answer": "*Cloudiness of urine"
+              },
+              {
+                "question": "49. A bulge in the inguinal area of an infant would cause the nurse to suspect which condition?",
+                "answer": "*Hernia"
+              },
+              {
+                "question": "50. The nurse would expect which clinical manifestation in a patient diagnosed with urethritis?",
+                "answer": "*Red edematous meatus with purulent discharge"
+              },
+              {
+                "question": "51. At which time would the nurse obtain a patient's sexual history in relation to the genital examination?",
+                "answer": "*Before"
+              },
+              {
+                "question": "52. A 20-year-old White male with a history of cryptorchidism would be at high risk of developing which condition?",
+                "answer": "*Testicular cancer"
+              },
+              {
+                "question": "53. A patient diagnosed with urge incontinence would be expected to make which statement?",
+                "answer": "*I accidentally pass a small amount of urine every day."
+              },
+              {
+                "question": "54. Which type of pain would be characteristic of a direct inguinal hernia?",
+                "answer": "*Usually painless"
+              },
+              {
+                "question": "55. Epididymitis would be commonly caused by which condition?",
+                "answer": "*Prostatitis"
+              },
+              {
+                "question": "56. Patients diagnosed with acute cystitis, prostatitis, or urethritis would have which clinical manifestation in common?",
+                "answer": "*Dysuria"
+              },
+              {
+                "question": "57. A patient with which type of hernia would be priority to assess first?",
+                "answer": "*Strangulated"
+              },
+              {
+                "question": "58. If a male infant's urethral meatus is located ventrally, which penis abnormality would be diagnosed?",
+                "answer": "*Hypospadias"
+              },
+              {
+                "question": "59. Which drug classification would be prescribed to a patient who presents with clusters of painful vesicles and eruptions on the glans and foreskin of the penis?",
+                "answer": "*Oral antiviral"
+              },
+              {
+                "question": "60. For which condition would the nurse be assessing by asking the older adult patient about any difficulty in urination, any dribbling, incomplete emptying, and straining during urination?",
+                "answer": "*Enlarging prostate"
+              },
+              {
+                "question": "61. The nurse would administer which medication to a patient diagnosed with a syphilitic chancre?",
+                "answer": "*Penicillin G"
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 26: Anus, Rectum, and Prostate",
+            "id_chapter": "chap26-001",
+            "questions": [
+              {
+                "question": "1. Which condition would be caused by mutations in the BRCA1 and BRCA2 genes?",
+                "answer": "*Prostate cancer"
+              },
+              {
+                "question": "2. Which stool characteristic would the nurse observe in a patient with normal feces?",
+                "answer": "*Soft and brown"
+              },
+              {
+                "question": "3. Which finding would the pictured assessment data describe about the prostate?",
+                "answer": "*Normal development"
+              },
+              {
+                "question": "4. Which statement would indicate the nurse understands the internal anal sphincter?",
+                "answer": "*Under involuntary control by the autonomic nervous system."
+              },
+              {
+                "question": "5. Which finding would the nurse document as subjective data after a rectal examination of an adult patient?",
+                "answer": "*No new foods in the past 3 days"
+              },
+              {
+                "question": "6. Which condition would cause the patient's anal canal to have increased muscle tone?",
+                "answer": "*Anxiety"
+              },
+              {
+                "question": "7. Which prostate assessment finding would the nurse anticipate in a patient diagnosed with inflammation of the prostate gland?",
+                "answer": "*Slightly swollen and asymmetric prostate gland"
+              },
+              {
+                "question": "8. Which equipment would the nurse require to perform a rectal examination?",
+                "answer": "*Lubricating jelly"
+              },
+              {
+                "question": "9. At which age in months would a child develop voluntary control over the external anal sphincter?",
+                "answer": "*18"
+              },
+              {
+                "question": "10. Which medication class would the nurse suspect in causing a fecal mass to develop in a patient's colon?",
+                "answer": "*Opioid"
+              },
+              {
+                "question": "11. Which treatment would benefit a patient diagnosed with a rectal abscess?",
+                "answer": "*Incised and drained"
+              },
+              {
+                "question": "12. Which clinical manifestation would the nurse observe in a patient diagnosed with prolapsed hemorrhoids?",
+                "answer": "*Soiled underwear with excess mucoid discharge"
+              },
+              {
+                "question": "13. Which clinical manifestation would the nurse observe in a patient diagnosed with rectal prolapse?",
+                "answer": "*Rounded, red tissue protruding from the anus"
+              },
+              {
+                "question": "14. Which nursing intervention would be a priority for an older adult male with irregular rectal lesions that appear cauliflower-shaped?",
+                "answer": "*Instruct the patient to consult an oncologist."
+              },
+              {
+                "question": "15. In which position would the nurse place the female patient to assess the rectal area and genitalia?",
+                "answer": "*Lithotomy"
+              },
+              {
+                "question": "16. Which finding would the nurse report as abnormal for an Asian infant's physical examination?",
+                "answer": "*Flattened buttocks"
+              },
+              {
+                "question": "17. Which finding would the nurse observe in a patient diagnosed with a pilonidal cyst?",
+                "answer": "*Tuft of hair in the sacrococcygeal area"
+              },
+              {
+                "question": "18. Which type of stool would the nurse observe in a patient diagnosed with celiac disease?",
+                "answer": "*Frothy, fatty"
+              },
+              {
+                "question": "19. Which statement by the nurse would indicate an understanding of the anal canal?",
+                "answer": "\"Sphincters help keep the anal canal tight.\""
+              },
+              {
+                "question": "20. Which condition would be associated with melena?",
+                "answer": "*Upper gastrointestinal bleeding"
+              },
+              {
+                "question": "21. Which nodule finding would be characteristic of early colorectal cancer?",
+                "answer": "*Firm with rolled edges"
+              },
+              {
+                "question": "22. Which intervention would the nurse perform when examining the rectum of an infant?",
+                "answer": "*Flex the infant's knees up onto the abdomen."
+              },
+              {
+                "question": "23. Which finding would the nurse likely observe in a child who is a victim of sexual abuse? Select all that apply.",
+                "answer": [
+                  "*Anal abrasions",
+                  "*Perianal tears"
+                ]
+              },
+              {
+                "question": "24. Which technique would the nurse use to assess the Cowper glands?",
+                "answer": "*Bidigital palpation"
+              },
+              {
+                "question": "25. Which instruction would the nurse include in a community health promotion class about the prevention of colorectal cancer for healthy people over 45 years of age?",
+                "answer": "*Obtain a fecal occult blood test annually."
+              },
+              {
+                "question": "26. Which question would the nurse ask a male patient to help determine the cause of explosive diarrhea from Clostridium difficile?",
+                "answer": "\"Which antibiotic have you been taking?\""
+              },
+              {
+                "question": "27. If a patient diagnosed with an advanced pilonidal cyst reports tenderness over the lower sacrum, for which additional assessment finding would the nurse monitor?",
+                "answer": "*Palpable sinus tract"
+              },
+              {
+                "question": "28. Which clinical manifestation would the nurse expect in a patient diagnosed with prostate cancer? Select all that apply.",
+                "answer": [
+                  "*Pain during urination",
+                  "*Weak stream of urine",
+                  "*Presence of blood in the urine"
+                ]
+              },
+              {
+                "question": "29. For which clinical manifestation would the nurse monitor in a patient with suspected Crohn disease? Select all that apply.",
+                "answer": [
+                  "*Passing gas from the gastrointestinal tract",
+                  "*Fistula opening through the skin near the anus",
+                  "*Steatorrhea from excessive fat in stools"
+                ]
+              },
+              {
+                "question": "30. Which clinical manifestation would the nurse observe in a patient diagnosed with prostatitis? Select all that apply.",
+                "answer": [
+                  "*Malaise",
+                  "*Chills",
+                  "*Dysuria"
+                ]
+              },
+              {
+                "question": "31. Which statement by the mother would alert the nurse to the child's diarrhea being from gastroenteritis? Select all that apply.",
+                "answer": [
+                  "*\"I found my child eating raw eggs yesterday!\"",
+                  "*\"My child attends a child-care center every day.\"",
+                  "*\"We eat raw shellfish at home several times a week.\""
+                ]
+              },
+              {
+                "question": "32. Which treatment would benefit a patient diagnosed with fecal impaction? Select all that apply.",
+                "answer": [
+                  "*Enemas",
+                  "*Endoscopy"
+                ]
+              },
+              {
+                "question": "33. Which food would the nurse recommend to reduce the risk for colon cancer? Select all that apply.",
+                "answer": [
+                  "*Cereals",
+                  "*Wheat germ"
+                ]
+              },
+              {
+                "question": "34. When a patient diagnosed with an anorectal fistula reports itching and constant pain around the anus, for which additional clinical manifestation would the nurse monitor?",
+                "answer": "*Purulent drainage from an abnormal opening"
+              },
+              {
+                "question": "35. When the nurse finds symmetric enlargement of the prostate gland of an older adult male patient, for which additional clinical manifestation would the nurse monitor?",
+                "answer": [
+                  "*Nocturia",
+                  "*Urinary frequency",
+                  "*Straining to urinate"
+                ]
+              },
+              {
+                "question": "36. Which clinical manifestation would be typical of colorectal cancer? Select all that apply.",
+                "answer": [
+                  "*Dysuria",
+                  "*Anemia",
+                  "*Bowel habit changes"
+                ]
+              },
+              {
+                "question": "37. For which additional finding would the nurse monitor in a patient diagnosed with prostate carcinoma reporting continuous pelvic pain?",
+                "answer": [
+                  "*Swollen, asymmetric prostate gland",
+                  "*Stone-hard, irregular nodules in the prostate",
+                  "*Presence of obliteration in the median sulcus"
+                ]
+              },
+              {
+                "question": "38. Which condition would increase the risk of developing hemorrhoids?",
+                "answer": [
+                  "*Pregnancy",
+                  "*Chronic constipation",
+                  "*Obesity"
+                ]
+              },
+              {
+                "question": "39. Which condition would increase the risk of perianal pruritus?",
+                "answer": [
+                  "*Eczema",
+                  "*Diabetes",
+                  "*Liver disease"
+                ]
+              },
+              {
+                "question": "40. Which factor would cause the prostate-specific antigen (PSA) test to be elevated?",
+                "answer": [
+                  "*Noncancerous prostate growth",
+                  "*Prostatitis",
+                  "*Ejaculation"
+                ]
+              },
+              {
+                "question": "41. Which medical condition would cause frothy stools?",
+                "answer": [
+                  "*Crohn disease",
+                  "*Cystic fibrosis",
+                  "*Chronic pancreatitis"
+                ]
+              },
+              {
+                "question": "42. In an 8-month-old infant with a secondary infection due to diaper rash, for which additional condition would the nurse monitor?",
+                "answer": [
+                  "*Pustules",
+                  "*Reddened skin"
+                ]
+              },
+              {
+                "question": "43. Which treatment would benefit a patient diagnosed with a longitudinal fissure tear at the anal margin?",
+                "answer": [
+                  "*Stool softeners",
+                  "*Botox injection",
+                  "*Topical nifedipine cream",
+                  "*Nitroglycerin ointment"
+                ]
+              },
+              {
+                "question": "44. Which instruction would the nurse include in patient teaching to help reduce the growth of prostate cancer?",
+                "answer": [
+                  "*Add tomatoes to the diet.",
+                  "*Increase the daily intake of nuts.",
+                  "*Eat mainly cruciferous vegetables."
+                ]
+              },
+              {
+                "question": "45. Which condition would increase the risk of developing a fecal impaction?",
+                "answer": [
+                  "*Stroke",
+                  "*Spinal cord injury"
+                ]
+              },
+              {
+                "question": "46. Which medical condition would lead to the absence of bile pigment in the stool?",
+                "answer": [
+                  "*Gallstones",
+                  "*Viral hepatitis",
+                  "*Biliary cirrhosis"
+                ]
+              },
+              {
+                "question": "47. Which test would be indicated for a patient diagnosed with melena and a change in bowel habits?",
+                "answer": [
+                  "*Colonoscopy",
+                  "*Fecal occult blood testing",
+                  "*Fecal immunochemical test"
+                ]
+              },
+              {
+                "question": "48. Which activity would the patient diagnosed with perianal pruritus avoid?",
+                "answer": [
+                  "*Scratching",
+                  "*Using prepared wipes",
+                  "*Wearing tight underclothing",
+                  "*Cleaning with scented soaps"
+                ]
+              },
+              {
+                "question": "49. Which complication would be associated with constipation?",
+                "answer": [
+                  "*Fissure",
+                  "*Hemorrhoids",
+                  "*Fecal impaction"
+                ]
+              },
+              {
+                "question": "50. In which position would the nurse place the male patient during a rectal examination?",
+                "answer": [
+                  "*Lithotomy",
+                  "*Standing",
+                  "*Left lateral"
+                ]
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 27: Female Genitourinary System",
+            "id_chapter": "chap27-001",
+            "questions": [
+              {
+                "question": "1. Which abnormality is consistent with pink-colored soft, pointed papules around the anus and vulva?",
+                "answer": "*Genital warts"
+              },
+              {
+                "question": "2. Which location describes where the urethral meatus can be found?",
+                "answer": "*Posterior to the clitoris"
+              },
+              {
+                "question": "3. In which position would the female patient be placed for a pelvic examination?",
+                "answer": "*Lithotomy"
+              },
+              {
+                "question": "4. Which statement describes the clitoris?",
+                "answer": "*It is composed of erectile tissue."
+              },
+              {
+                "question": "5. Which characteristic of the adnexal structures of the uterus would be known to the nurse?",
+                "answer": "*Includes the fallopian tubes and ovaries"
+              },
+              {
+                "question": "6. Which disease is screened for with the use of the Pap test?",
+                "answer": "*Cervical cancer"
+              },
+              {
+                "question": "7. Which shape of the uterus would be common in a patient who is 24 weeks pregnant?",
+                "answer": "*Oval"
+              },
+              {
+                "question": "8. Which condition is consistent with symptoms of a burning sensation during urination, urethral inflammation, and purulent discharge from the urethral meatus?",
+                "answer": "*Urethritis"
+              },
+              {
+                "question": "9. Which condition is consistent with a posteriorly swollen labia, tenderness, and a palpable mass on the labia?",
+                "answer": "*Abscess on the Bartholin gland"
+              },
+              {
+                "question": "10. Which position is best for a vaginal assessment?",
+                "answer": "*Lithotomy position"
+              },
+              {
+                "question": "11. Which assessment finding indicates a normal cervix?",
+                "answer": "*2 to 3 cm in diameter"
+              },
+              {
+                "question": "12. Which condition may be prevented by receiving the human papillomavirus (HPV) vaccine? Select all that apply.",
+                "answer": [
+                  "*Anal cancer",
+                  "*Genital warts",
+                  "*Cervical cancer"
+                ]
+              },
+              {
+                "question": "13. Which structure is highly sensitive to tactile stimulation?",
+                "answer": "*Clitoris"
+              },
+              {
+                "question": "14. Which type of lubrication would be used on the speculum in preparation for a Pap test?",
+                "answer": "*Water-soluble gel"
+              },
+              {
+                "question": "15. What does 'version' refer to in the female genitourinary system?",
+                "answer": "*The position of the uterus in a female body"
+              },
+              {
+                "question": "16. Which symptom would the nurse expect to find in a menopausal patient? Select all that apply.",
+                "answer": [
+                  "*Hot flashes",
+                  "*Night sweats",
+                  "*Mood swings"
+                ]
+              },
+              {
+                "question": "17. Which condition would be an example of vulvovaginal inflammation? Select all that apply.",
+                "answer": [
+                  "*Candidiasis",
+                  "*Trichomoniasis",
+                  "*Atrophic vaginitis"
+                ]
+              },
+              {
+                "question": "18. Which finding would be an example of an external genital abnormality? Select all that apply.",
+                "answer": [
+                  "*Urethritis",
+                  "*Urethral caruncle",
+                  "*Syphilitic chancre"
+                ]
+              },
+              {
+                "question": "19. Which developmental change would the nurse expect to find in a 9-year-old female child?",
+                "answer": "*Thickened mons pubis"
+              },
+              {
+                "question": "20. Which change typically occurs during sexual maturation in females?",
+                "answer": "*Spread of pubic hair onto inner aspects of upper thighs"
+              },
+              {
+                "question": "21. Which purpose would elevating the head of the examination table during a pelvic examination serve? Select all that apply.",
+                "answer": [
+                  "*To relax the patient's abdominal muscles",
+                  "*To maintain the patient's eye contact with the examiner",
+                  "*To allow the patient to breathe more easily"
+                ]
+              },
+              {
+                "question": "22. Which disease process may be indicated by a positive Pap test?",
+                "answer": "*Cervical cancer"
+              },
+              {
+                "question": "23. Which position would the nurse consider appropriate to examine the genitalia of a toddler?",
+                "answer": "*Frog-leg position"
+              },
+              {
+                "question": "24. Which assessment finding in a patient would indicate a third-degree uterine prolapse?",
+                "answer": "*The whole uterus is outside the introitus."
+              },
+              {
+                "question": "25. Which procedure would the nurse include when doing a vaginal examination? Select all that apply.",
+                "answer": [
+                  "*Situate the patient in the lithotomy position",
+                  "*Put an examination glove on each of the stirrups",
+                  "*Elevate the end of the examination table near the head"
+                ]
+              },
+              {
+                "question": "26. Which assessment finding is consistent with atrophic vaginitis? Select all that apply.",
+                "answer": [
+                  "*Vaginal itching, dryness with a mucoid vaginal discharge",
+                  "*Shortened, narrowed vaginal opening and decreased rugae"
+                ]
+              },
+              {
+                "question": "27. Which instruction would be provided to the patient before the scheduled Pap test?",
+                "answer": "\"Do not douche or have intercourse 24 hours before the examination.\""
+              },
+              {
+                "question": "28. Which statement made by the nurse indicates effective learning about obtaining a female patient's reproductive health history?",
+                "answer": "\"It would include the pattern of menstruation and sexual satisfaction.\""
+              },
+              {
+                "question": "29. Which instruction to the patient is appropriate just before inserting the vaginal speculum?",
+                "answer": "\"Bear down so that the perineal muscles can relax.\""
+              },
+              {
+                "question": "30. Which risk factor for endometrial cancer should the nurse understand? Select all that apply.",
+                "answer": [
+                  "*Obesity",
+                  "*Unopposed estrogen therapy"
+                ]
+              },
+              {
+                "question": "31. Which condition would the nurse infer when the patient reports having pain and a burning sensation during urination?",
+                "answer": "*Dysuria"
+              },
+              {
+                "question": "32. Which condition would the nurse suspect in the patient who presents with a malodorous vaginal discharge and noted petechiae of the vaginal wall?",
+                "answer": "*Trichomoniasis"
+              },
+              {
+                "question": "33. Which condition is consistent with a history of excessive uterine bleeding during menses, and enlarged, painless nodules on ultrasound?",
+                "answer": "*Myomas"
+              },
+              {
+                "question": "34. Which condition is consistent with the patient's report of pain during her menstrual period, a feeling of being bloated, and breast tenderness?",
+                "answer": "*Dysmenorrhea"
+              },
+              {
+                "question": "35. Which action would the nurse include while examining the external genitalia of a female adolescent patient? Select all that apply.",
+                "answer": [
+                  "*Do the examination of the patient without the mother in the room.",
+                  "*Determine the patient's growth rate and the menstrual history",
+                  "*Use the sexual maturity charts to teach about developmental changes."
+                ]
+              },
+              {
+                "question": "36. Which condition is associated with stress incontinence?",
+                "answer": "*Cystocele"
+              },
+              {
+                "question": "37. Which finding shows an enlarged clitoris and fused labia upon examination?",
+                "answer": "*Ambiguous genitalia"
+              },
+              {
+                "question": "38. Which condition is identified when part of the rectum is covered with vaginal mucosa and prolapsed into the vagina?",
+                "answer": "*Rectocele"
+              },
+              {
+                "question": "39.Which condition can be sexually transmitted?",
+                "answer": "*Human papillomavirus (HPV)"
+              },
+              {
+                "question": "40. Which obstetric position would the nurse assume for the vaginal examination of a patient?",
+                "answer": "*Index and middle fingers extended, thumb abducted, and fourth and little fingers folded down onto the palm"
+              },
+              {
+                "question": "41. Which finding would be considered abnormal when inspecting the patient's cervix and its opening?",
+                "answer": "*Lateral position of the cervix"
+              },
+              {
+                "question": "42. Which potential complication would the nurse explain to the patient with a diagnosis of chlamydia to ensure treatment compliance?",
+                "answer": "*Pelvic inflammatory disease"
+              },
+              {
+                "question": "43. A patient who is obese, nulliparous, and is undergoing estrogen replacement therapy would be at highest risk for which type of cancer?",
+                "answer": "*Endometrial cancer"
+              },
+              {
+                "question": "44. Which response is appropriate for a parent of a 12-year-old child who asks why the human papillomavirus (HPV) vaccine is given to a child who is not sexually active?",
+                "answer": "\"This gives time for immunity to develop before a child becomes sexually active.\""
+              },
+              {
+                "question": "45. Which assessment finding is abnormal in a female patient?",
+                "answer": "*The cervix and uterus are fixed and tender on internal palpation."
+              },
+              {
+                "question": "46. Which infection is associated with local pain and a burning sensation during urination, a fever, and clusters of small, shallow erythematous vesicles on the genital areas?",
+                "answer": "*Herpes genitalis"
+              },
+              {
+                "question": "47. Which test would be indicated for the patient who has experienced severe lower abdominal pain for the past 3 months during menses?",
+                "answer": "*Transvaginal ultrasound imaging"
+              },
+              {
+                "question": "48. Which assessment finding would be considered abnormal when reviewing a patient's medical record? Select all that apply.",
+                "answer": [
+                  "*Dark and cloudy urine",
+                  "*Clots in menstrual flow",
+                  "*Yellow-green vaginal discharge"
+                ]
+              },
+              {
+                "question": "49. Which finding is likely for a patient with a temperature of 102.2°F (39°C), suprapubic pain, purulent discharge from the cervix, and severe pain with palpation of the adnexa?",
+                "answer": "*Acute salpingitis"
+              },
+              {
+                "question": "50. Which complication would be likely in a patient who reports chronic pelvic pain and irregular uterine bleeding, has an enlarged uterus with small, firm, nodular masses on the posterior part of the fundus?",
+                "answer": "*Endometriosis"
+              },
+              {
+                "question": "51. Which condition presents with a round, superficial ulceration on the perineum that is lifted like a button between the thumb and finger and has a yellowish serous drainage?",
+                "answer": "*Syphilitic chancre"
+              },
+              {
+                "question": "52. Which infection is suspected in the patient who presents with yellow mucopurulent vaginal discharge, a friable cervix during the pelvic assessment, and complaints of painful urination and postcoital bleeding?",
+                "answer": "*Chlamydia"
+              },
+              {
+                "question": "53. Which change is observed in an older adult female patient during a genital examination? Select all that apply.",
+                "answer": [
+                  "*Shrinkage of the uterus",
+                  "*Thinning of the pubic hair",
+                  "*Increase in the vaginal pH"
+                ]
+              },
+              {
+                "question": "54. Which condition is suspected in a diabetic older adult female patient who complains of vaginal itching?",
+                "answer": "*Vaginitis"
+              },
+              {
+                "question": "55. Which condition is consistent with a white clumpy vaginal discharge and branched hyphae on microscopic examination?",
+                "answer": "*Moniliasis"
+              },
+              {
+                "question": "56. Which risk factor would be connected with candidiasis?",
+                "answer": [
+                  "*Diabetes mellitus",
+                  "*Vaginal douching",
+                  "*Prolonged use of antibiotics"
+                ]
+              },
+              {
+                "question": "57. Which assessment finding leads the nurse to document a positive Chadwick sign?",
+                "answer": "*Bluish vaginal mucosa"
+              },
+              {
+                "question": "58. Which finding presents as a heavy, solid, fixed, and poorly defined mass on the ovary, accompanied by pelvic and abdominal pain?",
+                "answer": "*Ovarian cancer"
+              },
+              {
+                "question": "59. Which finding is indicative of a fishy smell and watery gray drainage in a patient who complains of a profuse vaginal discharge?",
+                "answer": "*Bacterial vaginosis"
+              },
+              {
+                "question": "60. Which assessment finding is consistent with diethylstilbestrol (DES) syndrome? Select all that apply.",
+                "answer": [
+                  "*Circular grooves of the cervix",
+                  "*Protuberant anterior lip of the cervix",
+                  "*Red, granular patches of columnar epithelium on the cervix"
+                ]
+              },
+              {
+                "question": "61. Which finding obtained during the assessment of a newborn female requires further evaluation?",
+                "answer": "*Large clitoris"
+              },
+              {
+                "question": "62. Which finding is consistent with a white clumpy vaginal discharge and branched hyphae on microscopic examination?",
+                "answer": "*Moniliasis"
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 29: Pediatric Assessment",
+            "id_chapter": "chap29-001",
+            "questions": [
+              {
+                "question": "1. For which parameter would the nurse be assessing when using the Denver II test?",
+                "answer": "*Motor skills"
+              },
+              {
+                "question": "2. Which assessment would follow the examination of a child's ears?",
+                "answer": "*Inspect the posterior chest."
+              },
+              {
+                "question": "3. Which assessment would the nurse perform after the mouth and throat examination on a child?",
+                "answer": "*Ears"
+              },
+              {
+                "question": "4. Which assessment would the nurse include during the examination of a child's head and face?",
+                "answer": "*Inspecting the size of the head"
+              },
+              {
+                "question": "5. Which area would the nurse assess while an adolescent is sitting up at the edge of the examination table?",
+                "answer": "*Thorax"
+              },
+              {
+                "question": "6. For which reflex would the nurse assess when using an ophthalmoscope?",
+                "answer": "*Red"
+              },
+              {
+                "question": "7. Which action would the nurse take to elicit the placing reflex in an infant?",
+                "answer": "*Position the infant against the edge of the examination table."
+              },
+              {
+                "question": "8. Which technique would the nurse use to perform a head-to-toe assessment on an infant?",
+                "answer": "*Place infant under an overhead heating element."
+              },
+              {
+                "question": "9. Which developmental characteristic would the nurse consider while performing a physical examination on an adolescent?",
+                "answer": "*Is self-conscious."
+              },
+              {
+                "question": "10. Which parameter would the nurse assess while examining a child's upper extremities? Select all that apply.",
+                "answer": [
+                  "*Radial pulse",
+                  "*Palmar creases"
+                ]
+              },
+              {
+                "question": "11. Which assessment would the nurse include during an abdominal examination in a newborn? Select all that apply.",
+                "answer": [
+                  "*Inspecting the umbilical area",
+                  "*Assessing the umbilical stump",
+                  "*Counting the vessels in the cord",
+                  "*Auscultating for bowel sounds"
+                ]
+              },
+              {
+                "question": "12. Which assessment would the nurse perform last during an infant examination?",
+                "answer": "*Tympanic membranes"
+              },
+              {
+                "question": "13. Which reflex would the nurse test by slowly rotating the newborn from side to side?",
+                "answer": "*Doll's eye"
+              },
+              {
+                "question": "14. Which action would the nurse take when performing a physical assessment on a young child?",
+                "answer": "*Inspect the chest for pulsations on the precordium."
+              },
+              {
+                "question": "15. Which assessment would help the nurse evaluate an infant's upper extremities?",
+                "answer": "*Evaluating for the scarf sign."
+              },
+              {
+                "question": "16. Which action would the nurse take while examining the genitalia of a male neonate?",
+                "answer": "*Identify urethra position."
+              },
+              {
+                "question": "17. Which organ would the nurse be able to feel when performing deep palpation of the infant's abdomen?",
+                "answer": "*Kidney"
+              },
+              {
+                "question": "18. Which parameter would the nurse assess for when lightly palpating an infant's abdomen? Select all that apply.",
+                "answer": [
+                  "*Spleen tip",
+                  "*Muscle tone",
+                  "*Urinary bladder"
+                ]
+              },
+              {
+                "question": "19. Which assessment would the nurse perform in the child to determine heart function? Select all that apply.",
+                "answer": [
+                  "*Palpation of chest wall for thrills",
+                  "*Auscultation of the S₁ and S₂ across the precordium",
+                  "*Palpation of the apical impulse with notation of the location"
+                ]
+              },
+              {
+                "question": "20. Which parameter would the nurse assess in a child by using an otoscope? Select all that apply.",
+                "answer": [
+                  "*Condition of the auditory canal",
+                  "*Intactness of the tympanic membrane"
+                ]
+              },
+              {
+                "question": "21. Which assessment would the nurse include while examining the genitalia of a female neonate? Select all that apply.",
+                "answer": [
+                  "*Inspecting the labia and clitoris",
+                  "*Assessing the presence of vernix caseosa",
+                  "*Inspecting the presence of a patent vagina"
+                ]
+              },
+              {
+                "question": "22. Which infant reflex would the nurse test by using the penlight?",
+                "answer": "*Blink"
+              },
+              {
+                "question": "23. For which reflex would the nurse be assessing by placing a thumb in the infant's palm?",
+                "answer": "*Grasp"
+              },
+              {
+                "question": "24. Which reflex would the nurse expect to see in a newborn that is triggered by a loud noise?",
+                "answer": "*Startle"
+              },
+              {
+                "question": "25. In which assessment would a nurse place an index card over a child's left eye during an eye examination?",
+                "answer": "*To conduct the cover test"
+              },
+              {
+                "question": "26. Which pulse would the nurse palpate to determine the blood supply to the child's lower extremities?",
+                "answer": "*Dorsalis pedis"
+              },
+              {
+                "question": "27. At which age in years would a positive Babinski reflex in a child be a normal finding?",
+                "answer": "*1"
+              },
+              {
+                "question": "28. At which time would the nurse perform the initial Apgar test in a newborn?",
+                "answer": "*1 minute after birth"
+              },
+              {
+                "question": "29. Which technique would the nurse use to assess syndactyly in an infant?",
+                "answer": "*Observe the toes"
+              },
+              {
+                "question": "30. Which action would the nurse take when examining the adolescent's inguinal area?",
+                "answer": "*Have the adolescent lower pants under the drape."
+              },
+              {
+                "question": "31. Which assessment would the nurse conduct by lifting an infant, supporting the shoulders and letting the infant's head drop back?",
+                "answer": "*Examining the neck"
+              },
+              {
+                "question": "32. Which action would the nurse take while examining the genitalia of a young child?",
+                "answer": "*Inspect the external genitalia for abnormalities."
+              },
+              {
+                "question": "33. Which assessment would the nurse complete while examining the lower extremities of a patient?",
+                "answer": "*Assess strength and range of motion."
+              },
+              {
+                "question": "34. Which condition would the nurse expect to find in the infant with potentially ambiguous genitalia?",
+                "answer": "*Fused labia may indicate a disorder."
+              },
+              {
+                "question": "35. Which condition is associated with developmental dysplasia of the hip?",
+                "answer": "*Limited hip abduction."
+              },
+              {
+                "question": "36. Which appropriate assessment technique would the nurse use to evaluate an infant's motor skills?",
+                "answer": "*Observe the infant for reaching and grasping."
+              },
+              {
+                "question": "37. Which action would the nurse take to facilitate the examination of a toddler?",
+                "answer": "*Use play to engage the child."
+              },
+              {
+                "question": "38. In which area would the nurse observe for signs of sexual abuse in a child?",
+                "answer": "*Around the genitalia."
+              },
+              {
+                "question": "39. Which assessment would the nurse perform to check for cryptorchidism in a male child?",
+                "answer": "*Palpate the scrotum for the testes."
+              },
+              {
+                "question": "40. Which parameter would the nurse assess while performing a physical examination of an adolescent?",
+                "answer": "*Growth spurts and development."
+              },
+              {
+                "question": "41. Which assessment finding would require immediate evaluation in pediatric patients?",
+                "answer": "*Signs of dehydration."
+              },
+              {
+                "question": "42. For which assessment finding related to ear infections would the nurse monitor in a pediatric patient?",
+                "answer": "*Frequent pulling on the ears."
+              },
+              {
+                "question": "43. During the assessment of a child's lungs, which area would the nurse auscultate?",
+                "answer": "*Lateral and posterior thorax."
+              },
+              {
+                "question": "44. Which intervention would the nurse take while examining the abdomen of a child?",
+                "answer": "*Observe for skin color and scars."
+              },
+              {
+                "question": "45. Which technique would help to assess if an adolescent has a thoracic curve?",
+                "answer": "*Observe for symmetry while bending."
+              },
+              {
+                "question": "46. Which area should the nurse assess last during a child's examination?",
+                "answer": "*Head and neck."
+              },
+              {
+                "question": "47. Which part of the body can the nurse assess for pulse in a child?",
+                "answer": "*Pedal pulse."
+              },
+              {
+                "question": "48. Which technique should the nurse use to evaluate a child's cranial nerve function?",
+                "answer": "*Assess facial movements."
+              },
+              {
+                "question": "49. During a head-to-toe assessment on an infant, which characteristic would be most important for the nurse to assess?",
+                "answer": "*Fontanels."
+              },
+              {
+                "question": "50. Which intervention would help the nurse perform an otoscopic examination in a toddler?",
+                "answer": "*Equip the otoscope with a small speculum."
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 30: Bedside Assessment and Electronic Documentation",
+            "id_chapter": "chap30-001",
+            "questions": [
+              {
+                "question": "1. Which assessment involves pinching a fold of skin under the clavicle?",
+                "answer": "*Turgor"
+              },
+              {
+                "question": "2. Which component would the nurse include in the focused neurologic assessment for a patient who had a cerebrovascular accident? Select all that apply.",
+                "answer": [
+                  "*Hand grips",
+                  "*Swallowing",
+                  "*Pupil size and reaction"
+                ]
+              },
+              {
+                "question": "3. Which intervention would the nurse perform first when assessing the patient admitted to the hospital from the emergency department?",
+                "answer": "*Introduce oneself"
+              },
+              {
+                "question": "4. Which information would the nurse observe upon entering a patient's room?",
+                "answer": "*General appearance"
+              },
+              {
+                "question": "5. Which information built into the electronic health record (EHR) can screen for depression and suicide?",
+                "answer": "*Checklists"
+              },
+              {
+                "question": "6. Which action would the nurse perform before giving the medication to the patient to ensure safety?",
+                "answer": "*Scan the patient's identification band"
+              },
+              {
+                "question": "7. Which benefit of the electronic health record (EHR) system decreases prescribing errors?",
+                "answer": "*Remote computer order entry"
+              },
+              {
+                "question": "8. Which intervention would the nurse institute to assess pedal pulses in the patient with 4+ pedal edema bilaterally?",
+                "answer": "*Use a Doppler to locate pulses"
+              },
+              {
+                "question": "9. Which assessment finding indicates a need for follow-up by the health care provider?",
+                "answer": "*Urine output 480 mL/24 hours"
+              },
+              {
+                "question": "10. Which assessment best evaluates muscle strength?",
+                "answer": "*Foot pushes"
+              },
+              {
+                "question": "11. Which assessment determines the effectiveness of a patient's use of an incentive spirometer?",
+                "answer": "*Breath sounds"
+              },
+              {
+                "question": "12. After which number of minutes would the nurse reassess the patient's pain level to determine the efficacy of the oral pain medication?",
+                "answer": "*60"
+              },
+              {
+                "question": "13. Which statement would be true regarding the electronic health record (EHR)? Select all that apply.",
+                "answer": [
+                  "*Adoption can be limited by resource constraints.",
+                  "*Cost-effective method of documentation",
+                  "*Helpful in increasing the standard of care provided"
+                ]
+              },
+              {
+                "question": "14. Which objective would be achieved by using bar code scanners for medication administration? Select all that apply.",
+                "answer": [
+                  "*Patient identification",
+                  "*Medication identification"
+                ]
+              },
+              {
+                "question": "15. Which location is used to assess skin turgor?",
+                "answer": "*Forearm"
+              },
+              {
+                "question": "16. Ptosis reflects impairment in which system?",
+                "answer": "*Neuromuscular"
+              },
+              {
+                "question": "17. Which action is included in the assessment of the patient's hygiene? Select all that apply.",
+                "answer": [
+                  "*Bathing",
+                  "*Brushing teeth",
+                  "*Combing of the hair"
+                ]
+              },
+              {
+                "question": "18. Which intervention would the nurse implement immediately after being unable to palpate the patient's dorsalis pedis pulse?",
+                "answer": "*Assess pulses with the Doppler machine."
+              },
+              {
+                "question": "19. The Situation, Background, Assessment, and Recommendation (SBAR) framework provides which advantage to verbal reporting? Select all that apply.",
+                "answer": [
+                  "*Keeps the message concise",
+                  "*Focuses on the patient's immediate problem",
+                  "*Helps in making effective decisions regarding the patient's care"
+                ]
+              },
+              {
+                "question": "20. The nurse contacts the provider to state, 'Hello, my name is Brandy, and I'm the nurse caring for Bob Lane in room 515. He had his gallbladder removed yesterday afternoon. Just now, he reported feeling dizzy; his blood pressure is 90/50 mm Hg, heart rate is 120 beats per minute, and his abdominal girth is increasing. I'm concerned he is bleeding internally. Could you please come to assess him and write orders for a blood transfusion and increased IV fluid rate?' Which information reflects the 'A' element of the Situation, Background, Assessment, and Recommendation (SBAR) framework?",
+                "answer": "*Low blood pressure and tachycardia"
+              },
+              {
+                "question": "21. Which assessment would be completed by asking the patient to push both feet against the nurse's palm?",
+                "answer": "*Strength"
+              },
+              {
+                "question": "22. Which question reflects element 'B' of the Situation, Background, Assessment, and Recommendation (SBAR) framework?",
+                "answer": "\"What are the patient's current medications?\""
+              },
+              {
+                "question": "23. For which assessment would the nurse use the Doppler machine?",
+                "answer": "*Lower extremity pulses"
+              },
+              {
+                "question": "24. Which position is used to auscultate the posterior lungs of a postoperative abdominal surgery patient, if the patient is unable to tolerate the sitting position?",
+                "answer": "*Side-lying"
+              },
+              {
+                "question": "25. In which situation would the nurse use the Situation, Background, Assessment, and Recommendation (SBAR) framework for communication? Select all that apply.",
+                "answer": [
+                  "*Informing a nurse in another unit about the patient's transfer",
+                  "*Calling the health care provider to report the patient's condition",
+                  "*Giving nursing shift reports to other nurses working the next shift"
+                ]
+              },
+              {
+                "question": "26. Which patient data must be conveyed to the health care provider when using the Situation, Background, Assessment, and Recommendation (SBAR) framework? Select all that apply.",
+                "answer": [
+                  "*Vital parameters",
+                  "*Signs and symptoms",
+                  "*Current medications"
+                ]
+              },
+              {
+                "question": "27. Which intervention would the nurse perform first for a postoperative patient who received general anesthesia and whose urine output is 20 mL/hr for 8 hours?",
+                "answer": "*Performing a bladder scan on the patient"
+              },
+              {
+                "question": "28. Which intervention would the nurse expect to be beneficial for a patient whose respiratory rate is 32 breaths per minute, urinary output is 50 mL/hr, and body temperature is 98°F (36.6°C)?",
+                "answer": "*Teaching deep breathing exercises"
+              },
+              {
+                "question": "29. Which action by the new nurse caring for a bedridden patient requires intervention by the charge nurse?",
+                "answer": "*Confirming that the head of the patient's bed is not elevated"
+              },
+              {
+                "question": "30. How many deep inspirations with the incentive spirometer would the nurse instruct the postoperative patient who has normal vital signs to perform?",
+                "answer": "*10 every hour"
+              },
+              {
+                "question": "31. Which assessment finding in the geriatric patient would prompt the nurse to report suspicion of a neurologic disorder to the provider? Select all that apply.",
+                "answer": [
+                  "*Difficult to arouse",
+                  "*Altered level of consciousness"
+                ]
+              },
+              {
+                "question": "32. Which intervention would the nurse include in the neurologic assessment of a geriatric patient? Select all that apply.",
+                "answer": [
+                  "*Offer a glass of water to the patient.",
+                  "*Assess the changes in the pupil in response to light.",
+                  "*Ask the patient to push his or her feet against the nurse's palm."
+                ]
+              },
+              {
+                "question": "33. The patient's respiratory rate is 26 breaths per minute, urinary output is 40 mL/hr, body temperature is 98°F (36.6°C), and heart rate is 120 beats per minute. Which condition would the nurse report to the provider?",
+                "answer": "*Tachycardia"
+              },
+              {
+                "question": "34. At which time would the nurse intervene if a patient who underwent surgery under general anesthesia at 0800 has not yet voided after the surgery?",
+                "answer": "*1700"
+              },
+              {
+                "question": "35. Which intervention would the nurse take first when ambulating a patient for the first time after surgery?",
+                "answer": "*Assisting the patient to a sitting position"
+              },
+              {
+                "question": "36. The nurse calls the health care provider to state, 'Hi, this is Karen in the pediatric unit. Ryan Smith, the 1-year-old patient in room 3 who was admitted for a high fever has had a seizure. He is safe and has no physical injuries, but his fever is still 104°F. Could you please come to the bedside to assess Ryan and perhaps order intravenous antipyretics? Thank you.' Which of the nurse's statements reflects the 'R' element of the Situation, Background, Assessment, and Recommendation (SBAR) framework?",
+                "answer": "*Requesting that the provider come to the bedside to assess the patient"
+              },
+              {
+                "question": "37. Which information would the nurse include when contacting the health care provider about the patient with renal failure who was admitted to the hospital a week ago and suddenly develops breathlessness? Select all that apply.",
+                "answer": [
+                  "*The blood work shows increased urea and creatinine levels.",
+                  "*The patient looks toxic and may benefit from peritoneal dialysis.",
+                  "*The respiratory rate is 28 breaths per minute and the oxygen saturation is 93%."
+                ]
+              },
+              {
+                "question": "38. Which patient datum would the nurse include in completing an electronic health record (EHR) for a new patient? Select all that apply.",
+                "answer": [
+                  "*Clinical findings",
+                  "*Medical history",
+                  "*Laboratory results"
+                ]
+              },
+              {
+                "question": "39. The nurse is assisting in the build of a new electronic health record (EHR) and suggests checklists be created for which purpose? Select all that apply.",
+                "answer": [
+                  "*Depression screening",
+                  "*Recognition of suicidal tendencies",
+                  "*Identification of health care-associated infections"
+                ]
+              },
+              {
+                "question": "40. Which point would be the main focus of the electronic health record (EHR)?",
+                "answer": "*Conveying patient information"
+              },
+              {
+                "question": "41. Which information would the nurse include for a patient's situation when preparing a verbal report using the SBAR (Situation, Background, Assessment, Recommendation) format?",
+                "answer": "*49-year-old male reporting thirst"
+              },
+              {
+                "question": "42. Which assessment finding indicates difficulty tolerating the diet after a patient has been advanced to a clear liquid diet after surgery?",
+                "answer": "*Nausea and vomiting"
+              },
+              {
+                "question": "43. Which assessment would the nurse perform for the patient who is lethargic after receiving opioid analgesics?",
+                "answer": "*Oxygen saturation"
+              },
+              {
+                "question": "44. Which action would the nurse take when a patient with peripheral vascular disease is found to have lower limb edema and lesions on the legs?",
+                "answer": "*Palpate the posterior tibial pulse."
+              },
+              {
+                "question": "45. While examining a patient, the nurse finds that the patient's blood pressure is 110/80 mm Hg, the heart rate is 70 beats per minute, the urine output is 180 mL/8 hr, and the respiratory rate is 24 breaths/min. Which finding indicates that the patient requires immediate attention?",
+                "answer": "*Urine output"
+              },
+              {
+                "question": "46. Which element of the Situation, Background, Assessment, and Recommendation (SBAR) framework is reflected when the nurse reports to the primary health care provider that the patient needs a central venous access device because the peripheral veins are collapsed?",
+                "answer": "*Recommendation"
+              },
+              {
+                "question": "47. Which nursing intervention would the nurse use to ensure safe and effective care for an adult patient who is postoperative day 1 from cardiac surgery, receiving intravenous fluids in the left brachial vein, complaining of pain, and requesting the prescribed intravenous analgesic?",
+                "answer": "*Ensure that the patient's oxygen saturation is more than 92%."
+              },
+              {
+                "question": "48. Which statement would be true regarding the Situation, Background, Assessment, and Recommendation (SBAR) framework? Select all that apply.",
+                "answer": [
+                  "*Helps in decision making",
+                  "*Standardized framework",
+                  "*Helps reduce medical errors"
+                ]
+              },
+              {
+                "question": "49. Which condition does the nurse report to the provider when the patient has a systolic blood pressure of 80 mm Hg, a respiratory rate of 16 breaths per minute, and an oxygen saturation of 90%?",
+                "answer": "*Hypotension and hypoxia"
+              },
+              {
+                "question": "50. Which assessment would be most important for the safety of a patient with an indwelling urinary catheter?",
+                "answer": "*Color and quantity of urine"
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 31: Pregnancy",
+            "id_chapter": "chap31-001",
+            "questions": [
+              {
+                "question": "1. Which characteristic would the nurse assess in a pregnant patient to determine effacement?",
+                "answer": "*Degree of cervical thinning."
+              },
+              {
+                "question": "2. During which gestational week would the uterus be palpable just above the symphysis pubis?",
+                "answer": "*At 12 weeks."
+              },
+              {
+                "question": "3. Which positive sign of pregnancy gives direct evidence of the fetus? Select all that apply.",
+                "answer": [
+                  "*Fetal heart sounds on auscultation",
+                  "*Fetal cardiac activity on ultrasound."
+                ]
+              },
+              {
+                "question": "4. Which gestational age would the nurse expect based on a uterus that is approximately the size of an avocado and measures about 8 cm across the fundus?",
+                "answer": "*14 weeks."
+              },
+              {
+                "question": "5. Which condition would the nurse suspect in the patient who experiences numbness, pain, and burning on the sides of the hands and fingers?",
+                "answer": "*Compression of the median nerves."
+              },
+              {
+                "question": "6. Which sign would the nurse consider as a positive sign of pregnancy?",
+                "answer": "*Fetal heart tones."
+              },
+              {
+                "question": "7. Which term would the nurse use to describe a butterfly-shaped pigmentation on the pregnant patient's face?",
+                "answer": "*Chloasma."
+              },
+              {
+                "question": "8. Which finding would enable the nurse to notice Hegar sign during a bimanual examination of a pregnant patient?",
+                "answer": "*The uterus bends forward on the isthmus."
+              },
+              {
+                "question": "9. Which condition would the nurse infer when a pregnant patient has a wide separation of the rectus abdominis muscle and the abdominal contents protrude into the midline of the abdomen?",
+                "answer": "*Diastasis recti."
+              },
+              {
+                "question": "10. For which condition in a pregnant patient would a purified protein derivative (PPD) test assess?",
+                "answer": "*Tuberculosis exposure."
+              },
+              {
+                "question": "11. In which position would the nurse place a patient who is in their second trimester of pregnancy for a pelvic examination?",
+                "answer": "*Elevate the back of the patient at a 45-degree angle during the examination."
+              },
+              {
+                "question": "12. Which point would the nurse include when discussing uterine changes during pregnancy?",
+                "answer": "*The uterus is palpable abdominally after 12 weeks."
+              },
+              {
+                "question": "13. Which sign would be a positive Chadwick sign in a pregnant patient?",
+                "answer": "*The vaginal wall and cervix have a bluish coloration."
+              },
+              {
+                "question": "14. Which finding would the nurse consider normal during the examination of a pregnant patient?",
+                "answer": "*Complaints of heartburn and constipation."
+              },
+              {
+                "question": "15. Which fetal presentation is ideal at 36 weeks' gestation?",
+                "answer": "*Vertex."
+              },
+              {
+                "question": "16. Which item would the nurse document in the medical record if while performing Leopold's fourth maneuver in a third trimester pregnant patient, the nurse finds that the presenting part of the fetus is the face?",
+                "answer": "*Deflexed vertex position of the fetus."
+              },
+              {
+                "question": "17. Which finding would be abnormal during the assessment of a pregnant patient at 22 weeks of gestation?",
+                "answer": "*Presence of facial edema."
+              },
+              {
+                "question": "18. Which sign would be a presumptive sign of pregnancy? Select all that apply.",
+                "answer": [
+                  "*Amenorrhea",
+                  "*Breast tenderness",
+                  "*Increased urination"
+                ]
+              },
+              {
+                "question": "19. Which ethnic group has the highest prevalence of gestational diabetes mellitus (GDM)? Select all that apply.",
+                "answer": [
+                  "*Asian",
+                  "*Hispanic",
+                  "*African American"
+                ]
+              },
+              {
+                "question": "20. Which finding may indicate hyperemesis gravidarum in a patient?",
+                "answer": "*Weight loss of 5% or more during the first trimester."
+              },
+              {
+                "question": "21. Which finding indicates that the patient is in the first trimester of pregnancy? Select all that apply.",
+                "answer": [
+                  "*Tingling sensation and tenderness in the breast",
+                  "*Presence of human chorionic gonadotropin (hCG) in the urine"
+                ]
+              },
+              {
+                "question": "22. Which infection should the nurse be concerned for when they find that the pregnant patient has cravings for raw eggs, soft cheeses, and unpasteurized dairy foods? Select all that apply.",
+                "answer": [
+                  "*Listeria",
+                  "*Salmonella",
+                  "*Toxoplasmosis"
+                ]
+              },
+              {
+                "question": "23. Which statement made by the nurse indicates effective understanding of the size and consistency of the uterus during gestation?",
+                "answer": "\"The uterus is enlarged and softened in the 6th week of gestation.\""
+              },
+              {
+                "question": "24. Which condition would the nurse suspect in a patient who presents with vaginal secretions that are thick, white, and clumpy?",
+                "answer": "*Candidiasis."
+              },
+              {
+                "question": "25. Which response would the nurse give to a patient who is in the 28th week of pregnancy and reports frequent nosebleeds?",
+                "answer": "*This is a normal finding."
+              },
+              {
+                "question": "26. Which observation supports the conclusion that the vertex is engaged into the pelvis when the nurse performs Leopold's fourth maneuver in a pregnant patient who is in the third trimester of pregnancy?",
+                "answer": "*The fingers become diverged at the pelvic brim and meet no palpable prominences."
+              },
+              {
+                "question": "27. Which finding would be abnormal during pregnancy?",
+                "answer": "*The patient's urine test indicates proteinuria."
+              },
+              {
+                "question": "28. Which pregnancy complication would the nurse anticipate in the patient who has gestational diabetes mellitus? Select all that apply.",
+                "answer": [
+                  "*Risk of a Caesarean delivery",
+                  "*Birth of a macrosomic infant"
+                ]
+              },
+              {
+                "question": "29. Which finding would a soft, blowing sound synchronous to the maternal pulse indicate when listening for fetal heart tones?",
+                "answer": "*Uterine souffle."
+              },
+              {
+                "question": "30. Which finding would indicate the presence of linea nigra in a pregnant patient?",
+                "answer": "*Darkened abdominal midline."
+              },
+              {
+                "question": "31. Which data would the nurse document under the obstetric history during a detailed assessment from the pregnant patient? Select all that apply.",
+                "answer": [
+                  "*Multigravida",
+                  "*Past cesarean section"
+                ]
+              },
+              {
+                "question": "32. Which additional assessment finding would the nurse expect in a patient who is in the first trimester of pregnancy, and the nurse notices increased levels of human chorionic gonadotropin (hCG) hormone? Select all that apply.",
+                "answer": [
+                  "*Decreased iodine levels",
+                  "*Decreased thyroid-stimulating hormone levels"
+                ]
+              },
+              {
+                "question": "33. Which assessment would the nurse be determining in the second Leopold maneuver?",
+                "answer": "*The back and limbs of the fetus."
+              },
+              {
+                "question": "34. While assessing a pregnant patient, the nurse notes the patient's obstetric history as G4 T2 PT1 A1 L3, which documentation would be appropriate for the patient's history?",
+                "answer": "*3 children with 1 miscarriage, 1 preterm birth, and 3 living children."
+              },
+              {
+                "question": "35. Which Leopold maneuver would the nurse use on a patient at 35 weeks of gestation to determine diminished fundal height and a transverse lie position of the fetus?",
+                "answer": "*First."
+              },
+              {
+                "question": "36. Which condition would the nurse infer when assessing the heart of a pregnant patient and discovering a functional systolic murmur?",
+                "answer": "*This is a normal finding."
+              },
+              {
+                "question": "37. Which question would the nurse ask the patient while collecting data on the current pregnancy?",
+                "answer": "\"Do you ever have irregular vaginal bleeding?\""
+              },
+              {
+                "question": "38. For which condition is the patient at risk when the nurse finds that the pregnant patient has missed several regular checkups, has a slumped posture, and a flat, expressionless face?",
+                "answer": "*Postpartum depression."
+              },
+              {
+                "question": "39. During which gestational week would a primigravida patient confirm fetal movement?",
+                "answer": "*18th."
+              },
+              {
+                "question": "40. Which condition would the nurse suspect in a pregnant patient who reports pain and swelling in the left leg and is scheduled for a Doppler test?",
+                "answer": "*Deep vein thrombosis."
+              },
+              {
+                "question": "41. Which nursing intervention would prevent compression of the descending aorta and inferior vena cava in the third trimester of pregnancy?",
+                "answer": "*Elevating the patient's back at a 45-degree angle."
+              },
+              {
+                "question": "42. Which condition would the nurse infer when assessing a patient who complains of shortness of breath, and upon auscultation of the lungs, hears wheezing on bilateral sides?",
+                "answer": "*The patient may have asthma."
+              },
+              {
+                "question": "43. The patient who presents with an elevated blood pressure, headaches, and deep tendon reflexes greater than 2+ is at risk for which condition?",
+                "answer": "*Preeclampsia."
+              },
+              {
+                "question": "44. Which complication would the nurse expect in a patient who is 20 weeks pregnant with a blood pressure of 160/100 mm Hg, who reports a severe headache and blurred vision, and has an increased serum creatinine, and decreased platelet count?",
+                "answer": "*Preeclampsia."
+              },
+              {
+                "question": "45. The nurse is calculating the expected delivery date of a patient whose first day of the last menstrual period (LMP) was on April 1 (04/01), and would document which date according to Nägele's rule?",
+                "answer": "*January 8."
+              },
+              {
+                "question": "46. Which information can be inferred from a patient's obstetric history represented as G4 T3 PT1 A0 L3? Select all that apply.",
+                "answer": [
+                  "*One preterm birth.",
+                  "*Three living children.",
+                  "*Four pregnancies."
+                ]
+              },
+              {
+                "question": "47. Which clinical parameters would indicate preeclampsia in a patient who is 24 weeks pregnant?",
+                "answer": "*BP 150/90 mm Hg; creatinine 2.2 mg/dL; headache and blurring of vision."
+              },
+              {
+                "question": "48. Which condition would the nurse suspect when the patient presents with a thin, white, milky vaginal discharge with a fishy odor?",
+                "answer": "*Bacterial vaginosis."
+              },
+              {
+                "question": "49. Which nursing intervention would be appropriate when finding a lower-than-expected fundal height in the 24th week of pregnancy?",
+                "answer": "*Confirm and recalculate the date of conception."
+              },
+              {
+                "question": "50. Which finding would be expected in a patient with pregnancy-induced hypertension? Select all that apply.",
+                "answer": [
+                  "*Presence of preeclampsia",
+                  "*Edema of the legs and hands",
+                  "*Excessive increase of body weight",
+                  "*Increase in chance of placental abruption"
+                ]
+              },
+              {
+                "question": "51. Which risk factor would affect the neonate born at 9 lb, 4 oz? Select all that apply.",
+                "answer": [
+                  "*Obesity",
+                  "*Brachial plexus nerve damage"
+                ]
+              },
+              {
+                "question": "52. Which potential finding would the nurse expect in the ultrasound report of a pregnant patient at 24 weeks of gestation with a fundal height at 30 cm? Select all that apply.",
+                "answer": [
+                  "*Multiple fetuses",
+                  "*Polyhydramnios",
+                  "*Uterine myoma"
+                ]
+              },
+              {
+                "question": "53. Which fetal heart rate would be documented if while auscultating the fetal heart tones, the nurse finds 10 heartbeats in 5 seconds?",
+                "answer": "*120 beats/minute."
+              },
+              {
+                "question": "54. Which complication can be prevented in a pregnant patient by maintaining good oral hygiene? Select all that apply.",
+                "answer": [
+                  "*Preterm delivery",
+                  "*Low-birth-weight infant"
+                ]
+              },
+              {
+                "question": "55. Which finding would the nurse expect in the patient who has a decreased platelet count, an increased serum creatinine level, and a blood pressure measurement of 150/100 mm Hg?",
+                "answer": "*Increased urinary protein levels."
+              },
+              {
+                "question": "56. Which finding documented by the nurse is normal for a patient in labor?",
+                "answer": "*The length of the cervix is 3 cm."
+              },
+              {
+                "question": "57. While assessing a pregnant patient, the nurse notes the patient's obstetric history as G4 T2 PT1 A1 L3, which documentation would be appropriate for the patient's history?",
+                "answer": "*3 children with 1 miscarriage, 1 preterm birth, and 3 living children."
+              },
+              {
+                "question": "58. Which Leopold maneuver would the nurse use on a patient at 35 weeks of gestation to determine diminished fundal height and a transverse lie position of the fetus?",
+                "answer": "*First."
+              },
+              {
+                "question": "59. Which finding would the nurse consider normal during the examination of a pregnant patient?",
+                "answer": "*Complaints of heartburn and constipation."
+              }
+            ]
+          },
+          {
+            "title_chapter": "Chapter 32: Geriatric Assessment",
+            "id_chapter": "chap32-001",
+            "questions": [
+              {
+                "question": "1. Which technique would the nurse include when asking questions of a patient diagnosed with cognitive deficits?",
+                "answer": "*Ask 'yes' or 'no' questions."
+              },
+              {
+                "question": "2. Which aspect would the nurse assess before determining the functional ability of an older adult patient who underwent joint replacement surgery the previous day?",
+                "answer": "*Pain level."
+              },
+              {
+                "question": "3. Which intervention would help promote sleep in a patient who reports insomnia?",
+                "answer": "*Consume a light bedtime snack."
+              },
+              {
+                "question": "4. After assessing a patient's ability to maintain independence with driving, which finding would indicate a need to discuss driving cessation?",
+                "answer": "*Finding dents and scrapes on the car."
+              },
+              {
+                "question": "5. Which discipline would help determine functional decline during an extended hospitalization?",
+                "answer": "*Physical therapist."
+              },
+              {
+                "question": "6. During a home visit to assess for safety and the ability to live independently, which finding would warrant further assessment?",
+                "answer": "*Empty refrigerator."
+              },
+              {
+                "question": "7. Which intervention would the nurse recommend to help prevent falls in an older adult diagnosed with diabetic neuropathy?",
+                "answer": "*Assess the risk factors and take corrective actions."
+              },
+              {
+                "question": "8. When a geriatric patient who is taking a diuretic restricts fluid intake before bed, which condition would the patient be attempting to avoid?",
+                "answer": "*Insomnia."
+              },
+              {
+                "question": "9. Which professional would most often perform the assessment of the advanced activities of daily living (AADLs)?",
+                "answer": "*Occupational therapists."
+              },
+              {
+                "question": "10. Which setting would be desirable for assessing the functional abilities of the older adult patient?",
+                "answer": "*The patient's home."
+              },
+              {
+                "question": "11. The nurse observes an older patient struggles to understand the spatial relationships between objects and is unable to recognize familiar faces. The nurse suspects the patient may have some degree of cognitive impairment. Which cognitive test would be used for further assessment? Select all that apply.",
+                "answer": [
+                  "*Montreal Cognitive Assessment",
+                  "*Mini-Mental State Examination"
+                ]
+              },
+              {
+                "question": "12. Which time would be optimal for the nurse to assess an older adult's ability to transfer?",
+                "answer": "*When needing to use bathroom."
+              },
+              {
+                "question": "13. In which hospital would an older patient be placed after presenting with increased confusion related to an infection?",
+                "answer": "*Acute Care for Elders (ACE) unit."
+              },
+              {
+                "question": "14. Which activity would be monitored in the instrumental activities of daily living (IADL) of an older adult patient? Select all that apply.",
+                "answer": [
+                  "*Shopping",
+                  "*Cooking",
+                  "*Counting"
+                ]
+              },
+              {
+                "question": "15. Which disease process, as documented in the patient's records, would make discharge teaching a challenge?",
+                "answer": "*Alzheimer dementia."
+              },
+              {
+                "question": "16. Which result timed in seconds would indicate a high risk of falls when using the Timed Up and Go (TUG) test?",
+                "answer": "*16 seconds."
+              },
+              {
+                "question": "17. Which finding could contribute to isolation for an older adult who uses a wheelchair for mobility?",
+                "answer": "*Stairs at points of egress."
+              },
+              {
+                "question": "18. Which individual would be part of the team performing a comprehensive assessment of an older adult? Select all that apply.",
+                "answer": [
+                  "*Primary health care provider",
+                  "*Speech therapist",
+                  "*Social worker"
+                ]
+              },
+              {
+                "question": "19. Which items would be included in the Lawton Independent Activities of Daily Living (IADL) scale? Select all that apply.",
+                "answer": [
+                  "*Preparing meals",
+                  "*Doing laundry",
+                  "*Managing finances"
+                ]
+              },
+              {
+                "question": "20. According to the World Health Organization (WHO), which instruction regarding exercise would the nurse include in the care plan of the older adult patient?",
+                "answer": "*Perform muscle-strengthening activities at least twice a week."
+              },
+              {
+                "question": "21. If a geriatric patient reports insomnia, which information would the nurse share to help promote sleep?",
+                "answer": "*Avoid working or watching television in the bedroom."
+              },
+              {
+                "question": "22. Which function of the older adult would be included among the activities of daily living (ADLs)? Select all that apply.",
+                "answer": [
+                  "*Dressing",
+                  "*Walking",
+                  "*Using the stairs"
+                ]
+              },
+              {
+                "question": "23. If an older adult patient reports difficulty seeing traffic signals and pavement markings while driving and also receiving many traffic tickets, which recommendation by the nurse would be appropriate?",
+                "answer": "*Assisting the patient in exploring alternate means of transportation."
+              },
+              {
+                "question": "24. Which factor would the nurse include in the assessment of an older adult who reports difficulty sleeping?",
+                "answer": [
+                  "*Depression",
+                  "*Medications",
+                  "*Cardiovascular disease"
+                ]
+              },
+              {
+                "question": "25. Which medication would possibly cause insomnia? Select all that apply.",
+                "answer": [
+                  "*Diuretics",
+                  "*Corticosteroids",
+                  "*Beta-blockers"
+                ]
+              },
+              {
+                "question": "26. Which condition would the nurse suspect when the patient says, 'I've had several injuries from frequent falls in the past'?",
+                "answer": [
+                  "*Syncope",
+                  "*Dementia",
+                  "*Diabetic neuropathy",
+                  "*Insomnia"
+                ]
+              },
+              {
+                "question": "27. Which information by the new nurse about physical activity in the older adult would require correction?",
+                "answer": "*Promotes napping."
+              },
+              {
+                "question": "28. In the Depression Scale (Short Form), a score of 1 to 5 would indicate which level of depression?",
+                "answer": "*No evidence of depression."
+              },
+              {
+                "question": "29. Which ability would the nurse evaluate during the Timed Up and Go Test? Select all that apply.",
+                "answer": [
+                  "*Walks 10 feet",
+                  "*Maintains sitting balance",
+                  "*Sits back down in the chair",
+                  "*Transfers from sitting to standing"
+                ]
+              },
+              {
+                "question": "30. Which environmental modification would the nurse suggest to an older patient to promote sleep? Select all that apply.",
+                "answer": [
+                  "\"Do not watch television while lying on the bed.\"",
+                  "\"Control the noise level to prevent possible sleep interruptions.\"",
+                  "\"Obtain a minimum of a half an hour of sunlight exposure per day.\""
+                ]
+              },
+              {
+                "question": "31. Which suggestion to ensure proper sleep would the nurse provide to the aging patient who states, 'I think my age is catching up with me; I am unable to sleep properly at night'?",
+                "answer": "\"Consume a light snack with milk before going to bed.\""
+              },
+              {
+                "question": "32. If an older adult patient states, 'I have difficulty breathing during the night to the point where I suddenly wake up drenched with sweat,' which further question would the nurse ask?",
+                "answer": "\"Do you drink any alcohol before going to bed?\""
+              },
+              {
+                "question": "33. Difficulty in which patient aspect would suggest altered cognition? Select all that apply.",
+                "answer": [
+                  "*Finding words",
+                  "*Naming objects"
+                ]
+              },
+              {
+                "question": "34. Which consideration would the nurse remember to ensure geriatric patients receive effective individualized care? Select all that apply.",
+                "answer": [
+                  "*Geriatric patients have varied disabilities.",
+                  "*Aging adults have varied independence."
+                ]
+              },
+              {
+                "question": "35. Which statement by the patient would be consistent with geriatric syndrome? Select all that apply.",
+                "answer": [
+                  "*\"I've lost my appetite.\"",
+                  "*\"I fell a couple of times last month.\"",
+                  "*\"I sometimes have urinary incontinence.\""
+                ]
+              },
+              {
+                "question": "36. Which intervention would be prescribed for an older adult patient who is experiencing depression related to changes in mobility associated with aging? Select all that apply.",
+                "answer": [
+                  "*Initiate psychotherapeutic treatment for the patient.",
+                  "*Instruct the patient to perform regular active exercises."
+                ]
+              },
+              {
+                "question": "37. Which action during the nursing assessment would help prevent frustration in the older adult patient experiencing altered cognition?",
+                "answer": "*Ask the patient yes or no questions during the assessment."
+              },
+              {
+                "question": "38. Which finding when assessing the environment of a patient would impede the functional ability of the patient and be a safety concern?",
+                "answer": "*Loose throw rugs."
+              },
+              {
+                "question": "39. Which instrument would the nurse use to assess the ability of a geriatric patient to bathe, dress, toilet, and transfer from bed to chair?",
+                "answer": "*Katz Index of Activities of Daily Living."
+              },
+              {
+                "question": "40. Which assessment would the nurse be performing on the older adult patient when asking them to rise from a chair, walk 10 feet, turn, walk back to the chair, and sit down?",
+                "answer": "*Timed Up and Go (TUG) Test."
+              },
+              {
+                "question": "41. Which action would best determine the patient's ability to perform self-care?",
+                "answer": "*Observe the patient perform their own self-care."
+              },
+              {
+                "question": "42. For which aspect would the nurse assess during a home visit of an older patient who requires 24-hour care and is living with the elderly spouse?",
+                "answer": "*Caregiver burnout."
+              },
+              {
+                "question": "43. Which assessment tool would determine mild deficits in a patient whose family reports occasional periods of confusion?",
+                "answer": "*Montreal Cognitive Assessment."
+              },
+              {
+                "question": "44. Which positive safety effect would result from older adults actively participating in a group exercise class?",
+                "answer": "*Decreased falls."
+              },
+              {
+                "question": "45. During the assessment of an older patient, which patient statement would require further patient teaching?",
+                "answer": "*\"I walk about 20 minutes a day around the house.\""
+              },
+              {
+                "question": "46. Which question would the nurse ask during a spiritual assessment?",
+                "answer": "\"In what way does spirituality relate to your concept of health?\""
+              },
+              {
+                "question": "47. The Katz Activities of Daily Living (ADL) scale would provide which advantage?",
+                "answer": [
+                  "*The instrument can be used in many settings.",
+                  "*It takes 5 minutes to administer."
+                ]
+              },
+              {
+                "question": "48. After an older adult is diagnosed with new-onset delirium, which question would the nurse ask the adult children during the health history?",
+                "answer": "\"Has your parent started any new medication in the past month?\""
+              },
+              {
+                "question": "49. Which nursing intervention would ensure proper assessment of the older adult patient? Select all that apply.",
+                "answer": [
+                  "*Involve the patient in all decision making about the interview.",
+                  "*Perform the assessment after providing privacy in the examination room.",
+                  "*Include touch whenever necessary while doing a patient assessment."
+                ]
+              },
+              {
+                "question": "50. Which condition would the nurse suspect in the older adult patient who is awake at night and has a difficulty staying awake during the day?",
+                "answer": "*Delirium."
+              }
+            ]
+          }            
+        ]
+    }
+]
